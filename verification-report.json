@@ -1,0 +1,70 @@
+{
+  "status": "PASS",
+  "version": "2.0",
+  "source_snapshot_files": 197,
+  "source_fingerprints_unchanged": "not checked (AI_SOURCES_ROOT unset)",
+  "unaccounted_files": [],
+  "stale_entries": [],
+  "pdf_files": 22,
+  "pdf_pages_in_collection": 739,
+  "standalone_images_visually_reviewed": 18,
+  "review_depth_counts": {
+    "Overview and selected sections reviewed": 3,
+    "Selected sections reviewed": 81,
+    "Fully reviewed (extracted text)": 6,
+    "Overview reviewed": 83,
+    "Visually reviewed": 18,
+    "Fully reviewed (saved text)": 3,
+    "Selected sections and appendices reviewed": 1,
+    "Selected sections and all associated images reviewed": 1,
+    "Selected sections and appendices overview reviewed": 1
+  },
+  "chapters": 10,
+  "chapter_cards": 10,
+  "editable_tools": 15,
+  "requirement_level_mentions": {
+    "Core": 67,
+    "Conditional": 8,
+    "Optional": 8
+  },
+  "short_D_citations_checked": 170,
+  "locator_bounds_errors": [],
+  "finos_ids_cited": 20,
+  "external_sources_registered": 12,
+  "external_sources_cited": [
+    "E01",
+    "E02",
+    "E03",
+    "E04",
+    "E05",
+    "E06",
+    "E07",
+    "E08",
+    "E09",
+    "E10",
+    "E11",
+    "E12"
+  ],
+  "mermaid_diagrams": 25,
+  "diagram_types": {
+    "flowchart": 16,
+    "gantt": 3,
+    "quadrantChart": 1,
+    "xychart-beta": 2,
+    "pie": 3
+  },
+  "markdown_table_errors": [],
+  "handbook_words": 31035,
+  "handbook_lines": 2004,
+  "companion_words": 13442,
+  "outputs": [
+    "enterprise-ai-strategy-and-implementation-handbook.md",
+    "handbook-evidence-companion.md"
+  ],
+  "limitations": [
+    "Locator checks establish existence and bounds, not semantic entailment; claim/source alignment reviewed editorially.",
+    "Selected review of long documents; no exhaustive visual rendering of embedded PDF figures.",
+    "Mermaid syntax is not rendered by this script; diagrams should be previewed in a Mermaid-capable viewer.",
+    "No current-law applicability determination or independent validation of practitioner outcomes."
+  ]
+}

@@ -1,0 +1,4316 @@
+[
+  {
+    "id": "D01",
+    "filename": "2026-annual-regulatory-oversight-report.pdf",
+    "title": "2026 Annual Regulatory Oversight Report",
+    "organization_or_speaker": "FINRA",
+    "date": "December 2025; 2026 edition",
+    "type": ".pdf",
+    "bytes": 1549845,
+    "sha256": "8a925daf8385a871b1676a5f6b37306d9f4206e7c2721eb5170e4558b3af0e14",
+    "topics": "Regulatory oversight report for member firms and compliance leaders; GenAI applications, supervision, testing, monitoring and agent risks.",
+    "prior_review": "selected sections reviewed",
+    "review_status": "Overview and selected sections reviewed",
+    "review_locators": [
+      "PDF pp. 4–5, 25–28; page-outline scan"
+    ],
+    "limitations": [
+      "US FINRA member-firm context; report says it creates no new requirements. Other examination topics were not reviewed in depth."
+    ],
+    "pages": 90,
+    "low_text_pages": [
+      1
+    ],
+    "review_date": "2026-11-08",
+    "source_type": "report, article or framework"
+  },
+  {
+    "id": "D02",
+    "filename": "2026-gwr-may-2026.pdf",
+    "title": "Global Wealth Report 2026: The Great Reordering",
+    "organization_or_speaker": "Boston Consulting Group",
+    "date": "May 2026",
+    "type": ".pdf",
+    "bytes": 3426275,
+    "sha256": "c568eef36ccac13b9ad0b725eb4ea9b383242734c32ce16023e82bd95860f7e5",
+    "topics": "Wealth-industry report for executives; market context, advice economics, value-chain exposure and AI operating-model scenarios.",
+    "prior_review": "selected sections reviewed",
+    "review_status": "Selected sections reviewed",
+    "review_locators": [
+      "PDF pp. 20–23; report overview"
+    ],
+    "limitations": [
+      "Consultancy analysis/modelled capacity; scenarios and advocacy, not observed results for an adopting firm."
+    ],
+    "pages": 26,
+    "low_text_pages": [
+      26
+    ],
+    "review_date": "2026-11-08",
+    "source_type": "report, article or framework"
+  },
+  {
+    "id": "D03",
+    "filename": "[English (auto-generated)] Agentic AI in Finance Jeff McMillan, Morgan Stanley at TechXchange 2025 (New York) [DownSub.com].md",
+    "title": "Agentic AI in Finance: Jeff McMillan, Morgan Stanley at TechXchange 2025",
+    "organization_or_speaker": "Jeff McMillan; event identified by filename",
+    "date": "2025 in filename/event context; exact date unavailable",
+    "type": ".md",
+    "bytes": 9964,
+    "sha256": "30a0ba2eef06a1e65436858673f69d6aaa77dd18763218d22ca5d3dbefd6057e",
+    "topics": "Auto-generated presentation transcript; shared tools, workflow change, leadership, governance principles and repeated use-case patterns.",
+    "prior_review": "fully reviewed",
+    "review_status": "Selected sections reviewed",
+    "review_locators": [
+      "Lines 1–60, 120–270"
+    ],
+    "limitations": [
+      "Auto-generated transcript; no timestamps; practitioner claims and predictions. “No rules” is not a legal conclusion."
+    ],
+    "lines": 345,
+    "review_date": "2026-11-08",
+    "source_type": "practitioner transcript"
+  },
+  {
+    "id": "D04",
+    "filename": "[English (auto-generated)] How Morgan Stanley deploys AI that actually works [DownSub.com].md",
+    "title": "How Morgan Stanley deploys AI that actually works",
+    "organization_or_speaker": "Human in the Loop interview; Morgan Stanley practitioner",
+    "date": "Publication date unavailable",
+    "type": ".md",
+    "bytes": 34098,
+    "sha256": "b668f2478e24d93b4187c113ad5e8ce7156e8fea9d355da208c1b462462233d6",
+    "topics": "Auto-generated implementation interview; pilot iteration, subject-expert evaluation, regression questions and emerging agent oversight.",
+    "prior_review": "selected sections reviewed",
+    "review_status": "Selected sections reviewed",
+    "review_locators": [
+      "Lines 330–464, 710–790, 910–960; keyword/topic scan"
+    ],
+    "limitations": [
+      "Auto-generated; interviewer and practitioner statements must be distinguished; date not preserved."
+    ],
+    "lines": 1063,
+    "review_date": "2026-11-08",
+    "source_type": "practitioner transcript"
+  },
+  {
+    "id": "D05",
+    "filename": "[English (auto-generated)] Morgan Stanley reshapes the future of financial services with AI [DownSub.com].md",
+    "title": "Morgan Stanley reshapes the future of financial services with AI",
+    "organization_or_speaker": "Jeff McMillan and Caitlyn Elliott, as identified in transcript",
+    "date": "Publication date unavailable",
+    "type": ".md",
+    "bytes": 3167,
+    "sha256": "d890abcfd43040ba62ee1d8cbe075c79d51573af93f59d873fe5d965b6a1bb8a",
+    "topics": "Short auto-generated case video transcript; knowledge retrieval, evaluation and meeting follow-up.",
+    "prior_review": "fully reviewed",
+    "review_status": "Fully reviewed (extracted text)",
+    "review_locators": [
+      "Lines 1–98"
+    ],
+    "limitations": [
+      "Auto-generated; employee count at line 35 appears erroneous; coverage/clicks is not accuracy."
+    ],
+    "lines": 98,
+    "review_date": "2026-11-08",
+    "source_type": "practitioner transcript"
+  },
+  {
+    "id": "D06",
+    "filename": "[English (auto-generated)] Morgan Stanley's David Chen on the AI shift that’s keeping Wall Street up at night [DownSub.com].md",
+    "title": "Morgan Stanley’s David Chen on the AI shift that’s keeping Wall Street up at night",
+    "organization_or_speaker": "CNBC interview with David Chen",
+    "date": "March 5 stated; year not established",
+    "type": ".md",
+    "bytes": 23225,
+    "sha256": "90df2490b713a88e95bf1104fb9fc326b31ef5e7c32af500838317b358ddcec8",
+    "topics": "Auto-generated markets interview; AI investment, financing, technology-sector economics and transactions.",
+    "prior_review": "selected sections reviewed",
+    "review_status": "Overview and selected sections reviewed",
+    "review_locators": [
+      "Lines 1–60, 400–445; topic overview"
+    ],
+    "limitations": [
+      "Market/investment-banking commentary; not evidence of internal AI delivery. Market claims unverified and unused."
+    ],
+    "lines": 852,
+    "review_date": "2026-11-08",
+    "source_type": "secondary discussion/compilation"
+  },
+  {
+    "id": "D07",
+    "filename": "[English (auto-generated)] Scaling Agentic AI in a Bank Morgan Stanley’s Strategy, Risk Playbook & “AI at Work” [DownSub.com].md",
+    "title": "Scaling Agentic AI in a Bank: Morgan Stanley’s Strategy, Risk Playbook & AI at Work",
+    "organization_or_speaker": "Morgan Stanley practitioner interview; speaker spelling uncertain",
+    "date": "Publication date unavailable",
+    "type": ".md",
+    "bytes": 30565,
+    "sha256": "c9872e45da84c6371ed1f8cb344ada95c16dc8d294f78692ee7d800415ba4029",
+    "topics": "Auto-generated interview on autonomy, shared frameworks, AI at Work, experimentation and control involvement.",
+    "prior_review": "selected sections reviewed",
+    "review_status": "Selected sections reviewed",
+    "review_locators": [
+      "Lines 360–440, 700–760; keyword/topic scan"
+    ],
+    "limitations": [
+      "Auto-generated; speaker spelling uncertain. Agent evaluation explicitly described as unresolved."
+    ],
+    "lines": 1078,
+    "review_date": "2026-11-08",
+    "source_type": "practitioner transcript"
+  },
+  {
+    "id": "D08",
+    "filename": "[English (auto-generated)] The Human Side of Machine Intelligence Jeff McMillan on AI at Morgan Stanley – RegulatingAI Podcast [DownSub.com].md",
+    "title": "The Human Side of Machine Intelligence: Jeff McMillan on AI at Morgan Stanley",
+    "organization_or_speaker": "RegulatingAI podcast; Sanjay Puri and Jeff McMillan",
+    "date": "Publication year/date unavailable",
+    "type": ".md",
+    "bytes": 46930,
+    "sha256": "0ad52513439c5cc815c38e96f958532c8e4babc39c671e268561cf5c2f35edae",
+    "topics": "Auto-generated leadership interview; organizational change, legal/control participation and cross-jurisdiction rollout friction.",
+    "prior_review": "selected sections reviewed",
+    "review_status": "Selected sections reviewed",
+    "review_locators": [
+      "Lines 1–55, 900–1020; keyword/topic scan"
+    ],
+    "limitations": [
+      "Auto-generated; firsthand practitioner account, not independent outcome verification."
+    ],
+    "lines": 1463,
+    "review_date": "2026-11-08",
+    "source_type": "practitioner transcript"
+  },
+  {
+    "id": "D09",
+    "filename": "[English (auto-generated)] Using AI at Work Morgan Stanley’s Success Story [DownSub.com].md",
+    "title": "Using AI at Work: Morgan Stanley’s Success Story",
+    "organization_or_speaker": "Columbia Business School discussion; Stephan Meier and Todd Jick",
+    "date": "Publication date unavailable",
+    "type": ".md",
+    "bytes": 6822,
+    "sha256": "dd41240b144e1826d74a211674c25f77f0e18e88917fc924a11c0af3133e607b",
+    "topics": "Auto-generated discussion of adoption, peer influence, advisor feedback and voluntary override in the Next Best Action case.",
+    "prior_review": "fully reviewed",
+    "review_status": "Fully reviewed (extracted text)",
+    "review_locators": [
+      "Lines 1–190"
+    ],
+    "limitations": [
+      "Educator discussion of Morgan Stanley; secondary interpretation, not a firsthand company interview."
+    ],
+    "lines": 190,
+    "review_date": "2026-11-08",
+    "source_type": "secondary discussion/compilation"
+  },
+  {
+    "id": "D10",
+    "filename": "AI Magazine - 2025 - Kadıoğlu - Open‐source AI at scale  Establishing an enterprise AI strategy through modular frameworks.pdf",
+    "title": "Open-source AI at scale: Establishing an enterprise AI strategy through modular frameworks",
+    "organization_or_speaker": "Serdar Kadıoğlu; Fidelity Investments AI Center of Excellence / Brown University; AI Magazine",
+    "date": "2025; accepted September 2, 2025",
+    "type": ".pdf",
+    "bytes": 760717,
+    "sha256": "21f2db09369b3573f7907861c39114df366f424ebbad370d9aba14f40d3fe4d8",
+    "topics": "Practitioner research article for AI/engineering leaders; five pillars, modular open-source libraries, reuse, interoperability, explainability and deployment practices.",
+    "prior_review": "selected sections reviewed",
+    "review_status": "Selected sections reviewed",
+    "review_locators": [
+      "PDF pp. 1–4, 11–12; overview of other sections"
+    ],
+    "limitations": [
+      "Author is Fidelity practitioner; deployments and deployment recommendations are separate; other libraries reviewed at overview depth."
+    ],
+    "pages": 16,
+    "low_text_pages": [],
+    "review_date": "2026-11-08",
+    "source_type": "report, article or framework"
+  },
+  {
+    "id": "D11",
+    "filename": "AI on the other end of the line.md",
+    "title": "AI on the other end of the line (but you’re not talking to a computer)",
+    "organization_or_speaker": "Charles Schwab",
+    "date": "Author/date not preserved in reviewed text",
+    "type": ".md",
+    "bytes": 6933,
+    "sha256": "a3ff6c2839d761cb7c048cdefcc290f01e474b273d86f7dc38b3dc1bd9e5161e",
+    "topics": "Company case article; internal Knowledge Assistant supports service representatives using cited internal information.",
+    "prior_review": "fully reviewed",
+    "review_status": "Fully reviewed (extracted text)",
+    "review_locators": [
+      "Lines 1–162"
+    ],
+    "limitations": [
+      "Company communications; “up to two minutes” on complex calls is conditional, not an average."
+    ],
+    "lines": 162,
+    "review_date": "2026-11-08",
+    "source_type": "report, article or framework"
+  },
+  {
+    "id": "F01",
+    "filename": "ai-governance-framework-main/.gitattributes",
+    "title": ".gitattributes",
+    "organization_or_speaker": "FINOS AI Governance Framework contributors",
+    "date": "File date not stated; repository config labels v2, 2025-10-20 (not verified as date of every file)",
+    "type": "plain text/support",
+    "bytes": 113,
+    "sha256": "d38ad1db33e50c8c6a7195e9ed3d294c6aa3019ae9553c6ac860411dccff7281",
+    "topics": "Repository support material",
+    "prior_review": "not reviewed as evidence",
+    "review_status": "Overview reviewed",
+    "review_locators": [
+      "Header, purpose or structure and headings"
+    ],
+    "limitations": [],
+    "lines": 5,
+    "review_date": "2026-11-08",
+    "source_type": "repository support material"
+  },
+  {
+    "id": "F02",
+    "filename": "ai-governance-framework-main/.github/CODE_OF_CONDUCT.md",
+    "title": "Code of Conduct for AI Governance Framework",
+    "organization_or_speaker": "FINOS AI Governance Framework contributors",
+    "date": "File date not stated; repository config labels v2, 2025-10-20 (not verified as date of every file)",
+    "type": ".md",
+    "bytes": 130,
+    "sha256": "725b08ab284944fbc26603b5c889129087e1f8e04ce9ff10340f1cdaa7946b20",
+    "topics": "Repository support material",
+    "prior_review": "not reviewed as evidence",
+    "review_status": "Overview reviewed",
+    "review_locators": [
+      "Header, purpose or structure and headings"
+    ],
+    "limitations": [],
+    "lines": 3,
+    "review_date": "2026-11-08",
+    "source_type": "repository support material"
+  },
+  {
+    "id": "F03",
+    "filename": "ai-governance-framework-main/.github/ISSUE_TEMPLATE/Idea_submission.yml",
+    "title": "[Idea]:",
+    "organization_or_speaker": "FINOS AI Governance Framework contributors",
+    "date": "File date not stated; repository config labels v2, 2025-10-20 (not verified as date of every file)",
+    "type": ".yml",
+    "bytes": 2269,
+    "sha256": "89432a2edd5a1e8c9c4d339fe5802b2779776eeec62c9ee589c5fed9f16f37ff",
+    "topics": "Repository support material",
+    "prior_review": "not reviewed as evidence",
+    "review_status": "Overview reviewed",
+    "review_locators": [
+      "Header, purpose or structure and headings"
+    ],
+    "limitations": [],
+    "lines": 70,
+    "review_date": "2026-11-08",
+    "source_type": "repository support material"
+  },
+  {
+    "id": "F04",
+    "filename": "ai-governance-framework-main/.github/ISSUE_TEMPLATE/Meeting_minutes.md",
+    "title": "DD MMM YYYY - AI Governance Framework Meeting Agenda",
+    "organization_or_speaker": "FINOS AI Governance Framework contributors",
+    "date": "File date not stated; repository config labels v2, 2025-10-20 (not verified as date of every file)",
+    "type": ".md",
+    "bytes": 2646,
+    "sha256": "819dfb2c727d91e689653be013a284ee5fe8e8281596f319c90d4c557b87503f",
+    "topics": "Repository support material",
+    "prior_review": "not reviewed as evidence",
+    "review_status": "Overview reviewed",
+    "review_locators": [
+      "Header, purpose or structure and headings"
+    ],
+    "limitations": [],
+    "lines": 43,
+    "review_date": "2026-11-08",
+    "source_type": "repository support material"
+  },
+  {
+    "id": "F05",
+    "filename": "ai-governance-framework-main/.github/workflows/validate-references.yml",
+    "title": "validate-references.yml",
+    "organization_or_speaker": "FINOS AI Governance Framework contributors",
+    "date": "File date not stated; repository config labels v2, 2025-10-20 (not verified as date of every file)",
+    "type": ".yml",
+    "bytes": 615,
+    "sha256": "79d0bcfa27d38cb23051365ec9f1d8d8ed290e15cc9d237996980d91bb8d48b4",
+    "topics": "Repository support material",
+    "prior_review": "not reviewed as evidence",
+    "review_status": "Overview reviewed",
+    "review_locators": [
+      "Header, purpose or structure and headings"
+    ],
+    "limitations": [],
+    "lines": 28,
+    "review_date": "2026-11-08",
+    "source_type": "repository support material"
+  },
+  {
+    "id": "F06",
+    "filename": "ai-governance-framework-main/.gitignore",
+    "title": ".gitignore",
+    "organization_or_speaker": "FINOS AI Governance Framework contributors",
+    "date": "File date not stated; repository config labels v2, 2025-10-20 (not verified as date of every file)",
+    "type": "plain text/support",
+    "bytes": 25,
+    "sha256": "d3d9aeae29c7031130bd6fda56cc8314eebbf979014c1391a44cdd16b2314280",
+    "topics": "Repository support material",
+    "prior_review": "not reviewed as evidence",
+    "review_status": "Overview reviewed",
+    "review_locators": [
+      "Header, purpose or structure and headings"
+    ],
+    "limitations": [],
+    "lines": 2,
+    "review_date": "2026-11-08",
+    "source_type": "repository support material"
+  },
+  {
+    "id": "F07",
+    "filename": "ai-governance-framework-main/.pre-commit-config.yaml",
+    "title": ".pre-commit-config.yaml",
+    "organization_or_speaker": "FINOS AI Governance Framework contributors",
+    "date": "File date not stated; repository config labels v2, 2025-10-20 (not verified as date of every file)",
+    "type": ".yaml",
+    "bytes": 498,
+    "sha256": "717bab982c3c23b0695a8aa7013901ae4190419e1e7b80070e1fc995a37e971c",
+    "topics": "Repository support material",
+    "prior_review": "not reviewed as evidence",
+    "review_status": "Overview reviewed",
+    "review_locators": [
+      "Header, purpose or structure and headings"
+    ],
+    "limitations": [],
+    "lines": 13,
+    "review_date": "2026-11-08",
+    "source_type": "repository support material"
+  },
+  {
+    "id": "F08",
+    "filename": "ai-governance-framework-main/CONTRIBUTING.md",
+    "title": "Contributing to AI Governance Framework",
+    "organization_or_speaker": "FINOS AI Governance Framework contributors",
+    "date": "File date not stated; repository config labels v2, 2025-10-20 (not verified as date of every file)",
+    "type": ".md",
+    "bytes": 3027,
+    "sha256": "ed5b4b6bbeddc2dbc04a0ef0523807e0a4b08eda390656416ca8201fb1fb179b",
+    "topics": "Repository support material",
+    "prior_review": "not reviewed as evidence",
+    "review_status": "Overview reviewed",
+    "review_locators": [
+      "Header, purpose or structure and headings"
+    ],
+    "limitations": [],
+    "lines": 61,
+    "review_date": "2026-11-08",
+    "source_type": "repository support material"
+  },
+  {
+    "id": "F09",
+    "filename": "ai-governance-framework-main/CONVENTIONS.md",
+    "title": "Conventions for the Jekyll Project",
+    "organization_or_speaker": "FINOS AI Governance Framework contributors",
+    "date": "File date not stated; repository config labels v2, 2025-10-20 (not verified as date of every file)",
+    "type": ".md",
+    "bytes": 3981,
+    "sha256": "65bcbcdb5d81ded4cf37940104535a4f4f370656b61663311a1b751a5bbf049c",
+    "topics": "Repository support material",
+    "prior_review": "not reviewed as evidence",
+    "review_status": "Overview reviewed",
+    "review_locators": [
+      "Header, purpose or structure and headings"
+    ],
+    "limitations": [],
+    "lines": 95,
+    "review_date": "2026-11-08",
+    "source_type": "repository support material"
+  },
+  {
+    "id": "F10",
+    "filename": "ai-governance-framework-main/DEVELOPMENT.md",
+    "title": "Development Guide",
+    "organization_or_speaker": "FINOS AI Governance Framework contributors",
+    "date": "File date not stated; repository config labels v2, 2025-10-20 (not verified as date of every file)",
+    "type": ".md",
+    "bytes": 2097,
+    "sha256": "140ca590682c86c4402474c440111f98bb784155bf7fb6058724e066ae158482",
+    "topics": "Repository support material",
+    "prior_review": "not reviewed as evidence",
+    "review_status": "Overview reviewed",
+    "review_locators": [
+      "Header, purpose or structure and headings"
+    ],
+    "limitations": [],
+    "lines": 88,
+    "review_date": "2026-11-08",
+    "source_type": "repository support material"
+  },
+  {
+    "id": "F11",
+    "filename": "ai-governance-framework-main/diagrams/agentic-skill-system_v1-with-risks.png",
+    "title": "agentic-skill-system_v1-with-risks.png",
+    "organization_or_speaker": "FINOS repository contributors",
+    "date": "Snapshot date/release not established; individual publication date not stated",
+    "type": ".png",
+    "bytes": 293864,
+    "sha256": "760210b6c43359fa4aa7ac4270c3243a4ad0340202d225c95476286c91c34f57",
+    "topics": "Architecture diagram",
+    "prior_review": "fully reviewed",
+    "review_status": "Visually reviewed",
+    "review_locators": [
+      "Entire standalone image"
+    ],
+    "limitations": [
+      "Parent relationship checked against visible content; deployment status must come from accompanying text"
+    ],
+    "review_date": "2026-11-08",
+    "parent_source": "F12; risk/mitigation catalogue",
+    "source_type": "diagram or image"
+  },
+  {
+    "id": "F12",
+    "filename": "ai-governance-framework-main/diagrams/agentic-skill-system_v1-with-risks.puml",
+    "title": "agentic-skill-system_v1-with-risks.puml",
+    "organization_or_speaker": "FINOS AI Governance Framework contributors",
+    "date": "File date not stated; repository config labels v2, 2025-10-20 (not verified as date of every file)",
+    "type": ".puml",
+    "bytes": 9432,
+    "sha256": "a48b559014e7b4f45486c6f904d983b9da9a7a7daee8da26371ae03b96504e81",
+    "topics": "Architecture diagram source",
+    "prior_review": "fully reviewed",
+    "review_status": "Overview reviewed",
+    "review_locators": [
+      "Header, purpose or structure and headings"
+    ],
+    "limitations": [],
+    "lines": 189,
+    "review_date": "2026-11-08",
+    "source_type": "repository support material"
+  },
+  {
+    "id": "F13",
+    "filename": "ai-governance-framework-main/diagrams/rag-system_v0-no-risks.png",
+    "title": "rag-system_v0-no-risks.png",
+    "organization_or_speaker": "FINOS repository contributors",
+    "date": "Snapshot date/release not established; individual publication date not stated",
+    "type": ".png",
+    "bytes": 144523,
+    "sha256": "f4a34bb91e539caec0696dc612fe29eb836b648af86e18208ffc45a6ebb6d009",
+    "topics": "Architecture diagram",
+    "prior_review": "fully reviewed",
+    "review_status": "Visually reviewed",
+    "review_locators": [
+      "Entire standalone image"
+    ],
+    "limitations": [
+      "Parent relationship checked against visible content; deployment status must come from accompanying text"
+    ],
+    "review_date": "2026-11-08",
+    "parent_source": "F14; risk/mitigation catalogue",
+    "source_type": "diagram or image"
+  },
+  {
+    "id": "F14",
+    "filename": "ai-governance-framework-main/diagrams/rag-system_v0-no-risks.puml",
+    "title": "rag-system_v0-no-risks.puml",
+    "organization_or_speaker": "FINOS AI Governance Framework contributors",
+    "date": "File date not stated; repository config labels v2, 2025-10-20 (not verified as date of every file)",
+    "type": ".puml",
+    "bytes": 3020,
+    "sha256": "89a7b19d7cca88fb763b3aafe0caddfbe47b9c96f2dbd633eaf05fb9e7ecfdd0",
+    "topics": "Architecture diagram source",
+    "prior_review": "selected sections reviewed",
+    "review_status": "Overview reviewed",
+    "review_locators": [
+      "Header, purpose or structure and headings"
+    ],
+    "limitations": [],
+    "lines": 74,
+    "review_date": "2026-11-08",
+    "source_type": "repository support material"
+  },
+  {
+    "id": "F15",
+    "filename": "ai-governance-framework-main/diagrams/rag-system_v1-with-risks.png",
+    "title": "rag-system_v1-with-risks.png",
+    "organization_or_speaker": "FINOS repository contributors",
+    "date": "Snapshot date/release not established; individual publication date not stated",
+    "type": ".png",
+    "bytes": 157269,
+    "sha256": "e9f3758c530d54adb4e30b2fdca8bb92f76681413b2e99196a63ea07105538da",
+    "topics": "Architecture diagram",
+    "prior_review": "fully reviewed",
+    "review_status": "Visually reviewed",
+    "review_locators": [
+      "Entire standalone image"
+    ],
+    "limitations": [
+      "Parent relationship checked against visible content; deployment status must come from accompanying text"
+    ],
+    "review_date": "2026-11-08",
+    "parent_source": "F16; risk/mitigation catalogue",
+    "source_type": "diagram or image"
+  },
+  {
+    "id": "F16",
+    "filename": "ai-governance-framework-main/diagrams/rag-system_v1-with-risks.puml",
+    "title": "rag-system_v1-with-risks.puml",
+    "organization_or_speaker": "FINOS AI Governance Framework contributors",
+    "date": "File date not stated; repository config labels v2, 2025-10-20 (not verified as date of every file)",
+    "type": ".puml",
+    "bytes": 3304,
+    "sha256": "6d3ea54617165e90889cca3f669754281a2958c8a1161495f7bf70f641861973",
+    "topics": "Architecture diagram source",
+    "prior_review": "fully reviewed",
+    "review_status": "Overview reviewed",
+    "review_locators": [
+      "Header, purpose or structure and headings"
+    ],
+    "limitations": [],
+    "lines": 74,
+    "review_date": "2026-11-08",
+    "source_type": "repository support material"
+  },
+  {
+    "id": "F17",
+    "filename": "ai-governance-framework-main/docs/.gitignore",
+    "title": ".gitignore",
+    "organization_or_speaker": "FINOS AI Governance Framework contributors",
+    "date": "File date not stated; repository config labels v2, 2025-10-20 (not verified as date of every file)",
+    "type": "plain text/support",
+    "bytes": 57,
+    "sha256": "b86eb5212ef5b59454ff4cd1baf4505e12820112d118e79a7cd6682e43840e83",
+    "topics": "Repository support material",
+    "prior_review": "not reviewed as evidence",
+    "review_status": "Overview reviewed",
+    "review_locators": [
+      "Header, purpose or structure and headings"
+    ],
+    "limitations": [],
+    "lines": 3,
+    "review_date": "2026-11-08",
+    "source_type": "repository support material"
+  },
+  {
+    "id": "F18",
+    "filename": "ai-governance-framework-main/docs/2025_AIGovernanceFramework_Horizontal.png",
+    "title": "2025_AIGovernanceFramework_Horizontal.png",
+    "organization_or_speaker": "FINOS repository contributors",
+    "date": "Snapshot date/release not established; individual publication date not stated",
+    "type": ".png",
+    "bytes": 61187,
+    "sha256": "ae95c416410785418f973fd035b32f70fe9e4c5f764ac6d54cda059afb1a72a6",
+    "topics": "Repository support material",
+    "prior_review": "not reviewed as evidence",
+    "review_status": "Visually reviewed",
+    "review_locators": [
+      "Entire standalone image"
+    ],
+    "limitations": [
+      "Branding only; no substantive implementation evidence"
+    ],
+    "review_date": "2026-11-08",
+    "parent_source": "FINOS repository branding",
+    "source_type": "diagram or image"
+  },
+  {
+    "id": "F19",
+    "filename": "ai-governance-framework-main/docs/2025_AIGovernanceFramework_Icon.png",
+    "title": "2025_AIGovernanceFramework_Icon.png",
+    "organization_or_speaker": "FINOS repository contributors",
+    "date": "Snapshot date/release not established; individual publication date not stated",
+    "type": ".png",
+    "bytes": 70822,
+    "sha256": "14da0b9007f12cedacc653210e634c323b51cd624ff01e7a111a06165507e67c",
+    "topics": "Repository support material",
+    "prior_review": "not reviewed as evidence",
+    "review_status": "Visually reviewed",
+    "review_locators": [
+      "Entire standalone image"
+    ],
+    "limitations": [
+      "Branding only; no substantive implementation evidence"
+    ],
+    "review_date": "2026-11-08",
+    "parent_source": "FINOS repository branding",
+    "source_type": "diagram or image"
+  },
+  {
+    "id": "F20",
+    "filename": "ai-governance-framework-main/docs/2025_AIGovernanceFramework_Stacked.png",
+    "title": "2025_AIGovernanceFramework_Stacked.png",
+    "organization_or_speaker": "FINOS repository contributors",
+    "date": "Snapshot date/release not established; individual publication date not stated",
+    "type": ".png",
+    "bytes": 105935,
+    "sha256": "e6ee76a0e327dc7918268291f70bd6a0cbf390b29bdc797427293637e5223cfe",
+    "topics": "Repository support material",
+    "prior_review": "not reviewed as evidence",
+    "review_status": "Visually reviewed",
+    "review_locators": [
+      "Entire standalone image"
+    ],
+    "limitations": [
+      "Branding only; no substantive implementation evidence"
+    ],
+    "review_date": "2026-11-08",
+    "parent_source": "FINOS repository branding",
+    "source_type": "diagram or image"
+  },
+  {
+    "id": "F21",
+    "filename": "ai-governance-framework-main/docs/_config.yml",
+    "title": "FINOS AI Readiness - AI Governance Framework",
+    "organization_or_speaker": "FINOS AI Governance Framework contributors",
+    "date": "File date not stated; repository config labels v2, 2025-10-20 (not verified as date of every file)",
+    "type": ".yml",
+    "bytes": 1851,
+    "sha256": "71b48ab7f4f185923348045b8a68855bed27920be458014fe8ef53c026f93a6c",
+    "topics": "Repository support material",
+    "prior_review": "not reviewed as evidence",
+    "review_status": "Overview reviewed",
+    "review_locators": [
+      "Header, purpose or structure and headings"
+    ],
+    "limitations": [],
+    "lines": 62,
+    "review_date": "2026-11-08",
+    "source_type": "repository support material"
+  },
+  {
+    "id": "F22",
+    "filename": "ai-governance-framework-main/docs/_data/ai_deployment_model.yml",
+    "title": "Add or extend as needed for further granularity or industry-specific requirements.",
+    "organization_or_speaker": "FINOS AI Governance Framework contributors",
+    "date": "File date not stated; repository config labels v2, 2025-10-20 (not verified as date of every file)",
+    "type": ".yml",
+    "bytes": 6309,
+    "sha256": "5b0bf97c50acb7cac6f0c2ee8f952abefdcea5678dcf54d3d3fbe3d3d3aa3ce9",
+    "topics": "Taxonomy data",
+    "prior_review": "overview reviewed",
+    "review_status": "Overview reviewed",
+    "review_locators": [
+      "Header, purpose or structure and headings"
+    ],
+    "limitations": [],
+    "lines": 139,
+    "review_date": "2026-11-08",
+    "source_type": "repository support material"
+  },
+  {
+    "id": "F23",
+    "filename": "ai-governance-framework-main/docs/_data/ai_use_cases.yml",
+    "title": "ai_use_cases.yml",
+    "organization_or_speaker": "FINOS AI Governance Framework contributors",
+    "date": "File date not stated; repository config labels v2, 2025-10-20 (not verified as date of every file)",
+    "type": ".yml",
+    "bytes": 2729,
+    "sha256": "7b364197359d2b4fcc92ab9bd8fd4caaacc9abd03a23f6e8d419367447d2cefc",
+    "topics": "Taxonomy data",
+    "prior_review": "overview reviewed",
+    "review_status": "Overview reviewed",
+    "review_locators": [
+      "Header, purpose or structure and headings"
+    ],
+    "limitations": [],
+    "lines": 72,
+    "review_date": "2026-11-08",
+    "source_type": "repository support material"
+  },
+  {
+    "id": "F24",
+    "filename": "ai-governance-framework-main/docs/_data/data_classification.yml",
+    "title": "data_classification.yml",
+    "organization_or_speaker": "FINOS AI Governance Framework contributors",
+    "date": "File date not stated; repository config labels v2, 2025-10-20 (not verified as date of every file)",
+    "type": ".yml",
+    "bytes": 13752,
+    "sha256": "e63f974563dd8fa20926410d02a359483c9d8e1bb4874f602e73fa40d0a734a4",
+    "topics": "Taxonomy data",
+    "prior_review": "overview reviewed",
+    "review_status": "Overview reviewed",
+    "review_locators": [
+      "Header, purpose or structure and headings"
+    ],
+    "limitations": [
+      "Illustrative financial data taxonomy; “public” does not establish unrestricted legal use."
+    ],
+    "lines": 295,
+    "review_date": "2026-11-08",
+    "source_type": "repository support material"
+  },
+  {
+    "id": "F25",
+    "filename": "ai-governance-framework-main/docs/_data/references/atr.yml",
+    "title": "Agent Threat Rules (ATR)",
+    "organization_or_speaker": "FINOS AI Governance Framework contributors",
+    "date": "File date not stated; repository config labels v2, 2025-10-20 (not verified as date of every file)",
+    "type": ".yml",
+    "bytes": 2904,
+    "sha256": "79569f490a1278bbcbd35208c6d6431b1db30d81fe2e7f3f3ef8bd98aae4d613",
+    "topics": "Reference mapping data / schema",
+    "prior_review": "overview reviewed",
+    "review_status": "Overview reviewed",
+    "review_locators": [
+      "Header, purpose or structure and headings"
+    ],
+    "limitations": [
+      "Index and metadata reviewed; linked underlying standards/laws not present or independently reviewed. Mapping is not legal advice or a compliance assessment."
+    ],
+    "lines": 52,
+    "review_date": "2026-11-08",
+    "source_type": "reference index/mapping"
+  },
+  {
+    "id": "F26",
+    "filename": "ai-governance-framework-main/docs/_data/references/canada-regulations.yml",
+    "title": "Canada AI & Financial-Sector Regulatory References",
+    "organization_or_speaker": "FINOS AI Governance Framework contributors",
+    "date": "File date not stated; repository config labels v2, 2025-10-20 (not verified as date of every file)",
+    "type": ".yml",
+    "bytes": 30653,
+    "sha256": "584dc33045c9d4f79ae616f6b8cb5ef1a69eeddb5d2a637331cecbbe94fa3244",
+    "topics": "Reference mapping data / schema",
+    "prior_review": "overview reviewed",
+    "review_status": "Overview reviewed",
+    "review_locators": [
+      "Header, purpose or structure and headings"
+    ],
+    "limitations": [
+      "Index and metadata reviewed; linked underlying standards/laws not present or independently reviewed. Mapping is not legal advice or a compliance assessment."
+    ],
+    "lines": 520,
+    "review_date": "2026-11-08",
+    "source_type": "reference index/mapping"
+  },
+  {
+    "id": "F27",
+    "filename": "ai-governance-framework-main/docs/_data/references/eu-ai-act.yml",
+    "title": "EU AI Act",
+    "organization_or_speaker": "FINOS AI Governance Framework contributors",
+    "date": "File date not stated; repository config labels v2, 2025-10-20 (not verified as date of every file)",
+    "type": ".yml",
+    "bytes": 35492,
+    "sha256": "3bfe1f3668415a9270cbb1ee693487106c3cc22ab5b78bf9d2faf5048605f756",
+    "topics": "Reference mapping data / schema",
+    "prior_review": "overview reviewed",
+    "review_status": "Overview reviewed",
+    "review_locators": [
+      "Header, purpose or structure and headings"
+    ],
+    "limitations": [
+      "Index and metadata reviewed; linked underlying standards/laws not present or independently reviewed. Mapping is not legal advice or a compliance assessment."
+    ],
+    "lines": 953,
+    "review_date": "2026-11-08",
+    "source_type": "reference index/mapping"
+  },
+  {
+    "id": "F28",
+    "filename": "ai-governance-framework-main/docs/_data/references/ffiec-itbooklets.yml",
+    "title": "FFIEC IT Examination Handbook",
+    "organization_or_speaker": "FINOS AI Governance Framework contributors",
+    "date": "File date not stated; repository config labels v2, 2025-10-20 (not verified as date of every file)",
+    "type": ".yml",
+    "bytes": 20912,
+    "sha256": "13456f32ab32d2b78d07a69f1cf948fa7810ac2a1f9e8617a0baca13ce51af47",
+    "topics": "Reference mapping data / schema",
+    "prior_review": "overview reviewed",
+    "review_status": "Overview reviewed",
+    "review_locators": [
+      "Header, purpose or structure and headings"
+    ],
+    "limitations": [
+      "Index and metadata reviewed; linked underlying standards/laws not present or independently reviewed. Mapping is not legal advice or a compliance assessment."
+    ],
+    "lines": 444,
+    "review_date": "2026-11-08",
+    "source_type": "reference index/mapping"
+  },
+  {
+    "id": "F29",
+    "filename": "ai-governance-framework-main/docs/_data/references/iosco-supervisory-toolkit.yml",
+    "title": "IOSCO Supervisory Toolkit for AI Use in Capital Markets",
+    "organization_or_speaker": "FINOS AI Governance Framework contributors",
+    "date": "File date not stated; repository config labels v2, 2025-10-20 (not verified as date of every file)",
+    "type": ".yml",
+    "bytes": 8679,
+    "sha256": "4bebc4cb52eb542c88865d89ec10b10b706bc0c273fe7f887d4ca58a7aa6d846",
+    "topics": "Reference mapping data / schema",
+    "prior_review": "overview reviewed",
+    "review_status": "Overview reviewed",
+    "review_locators": [
+      "Header, purpose or structure and headings"
+    ],
+    "limitations": [
+      "Index and metadata reviewed; linked underlying standards/laws not present or independently reviewed. Mapping is not legal advice or a compliance assessment."
+    ],
+    "lines": 174,
+    "review_date": "2026-11-08",
+    "source_type": "reference index/mapping"
+  },
+  {
+    "id": "F30",
+    "filename": "ai-governance-framework-main/docs/_data/references/iso-42001.yml",
+    "title": "ISO/IEC 42001",
+    "organization_or_speaker": "FINOS AI Governance Framework contributors",
+    "date": "File date not stated; repository config labels v2, 2025-10-20 (not verified as date of every file)",
+    "type": ".yml",
+    "bytes": 3419,
+    "sha256": "70c2f1cd2952c01a56531ff7007fdd5656b4c057c920c65e63b2bd8c4f3373db",
+    "topics": "Reference mapping data / schema",
+    "prior_review": "overview reviewed",
+    "review_status": "Overview reviewed",
+    "review_locators": [
+      "Header, purpose or structure and headings"
+    ],
+    "limitations": [
+      "Index and metadata reviewed; linked underlying standards/laws not present or independently reviewed. Mapping is not legal advice or a compliance assessment."
+    ],
+    "lines": 87,
+    "review_date": "2026-11-08",
+    "source_type": "reference index/mapping"
+  },
+  {
+    "id": "F31",
+    "filename": "ai-governance-framework-main/docs/_data/references/nist-ai-600-1.yml",
+    "title": "NIST AI 600-1",
+    "organization_or_speaker": "FINOS AI Governance Framework contributors",
+    "date": "File date not stated; repository config labels v2, 2025-10-20 (not verified as date of every file)",
+    "type": ".yml",
+    "bytes": 2748,
+    "sha256": "6d45aa0a240f66e787f0b07732115ed9fe3688e03c7d6536ac333b05a61ffa67",
+    "topics": "Reference mapping data / schema",
+    "prior_review": "overview reviewed",
+    "review_status": "Overview reviewed",
+    "review_locators": [
+      "Header, purpose or structure and headings"
+    ],
+    "limitations": [
+      "Index and metadata reviewed; linked underlying standards/laws not present or independently reviewed. Mapping is not legal advice or a compliance assessment."
+    ],
+    "lines": 41,
+    "review_date": "2026-11-08",
+    "source_type": "reference index/mapping"
+  },
+  {
+    "id": "F32",
+    "filename": "ai-governance-framework-main/docs/_data/references/nist-sp-800-53r5.yml",
+    "title": "NIST SP 800-53 Rev 5",
+    "organization_or_speaker": "FINOS AI Governance Framework contributors",
+    "date": "File date not stated; repository config labels v2, 2025-10-20 (not verified as date of every file)",
+    "type": ".yml",
+    "bytes": 73884,
+    "sha256": "0ab687c945396596a8709eec75322e4928a1e70187173ada1674e7ddf5cf85e1",
+    "topics": "Reference mapping data / schema",
+    "prior_review": "overview reviewed",
+    "review_status": "Overview reviewed",
+    "review_locators": [
+      "Header, purpose or structure and headings"
+    ],
+    "limitations": [
+      "Index and metadata reviewed; linked underlying standards/laws not present or independently reviewed. Mapping is not legal advice or a compliance assessment."
+    ],
+    "lines": 965,
+    "review_date": "2026-11-08",
+    "source_type": "reference index/mapping"
+  },
+  {
+    "id": "F33",
+    "filename": "ai-governance-framework-main/docs/_data/references/owasp-asi.yml",
+    "title": "OWASP Top 10 for Agentic Applications",
+    "organization_or_speaker": "FINOS AI Governance Framework contributors",
+    "date": "File date not stated; repository config labels v2, 2025-10-20 (not verified as date of every file)",
+    "type": ".yml",
+    "bytes": 3992,
+    "sha256": "4cbadb64f80d069928bc8af52fd16a33c0ebefaec3d3bcfebc4cb7ceeb7153f8",
+    "topics": "Reference mapping data / schema",
+    "prior_review": "overview reviewed",
+    "review_status": "Overview reviewed",
+    "review_locators": [
+      "Header, purpose or structure and headings"
+    ],
+    "limitations": [
+      "Index and metadata reviewed; linked underlying standards/laws not present or independently reviewed. Mapping is not legal advice or a compliance assessment."
+    ],
+    "lines": 45,
+    "review_date": "2026-11-08",
+    "source_type": "reference index/mapping"
+  },
+  {
+    "id": "F34",
+    "filename": "ai-governance-framework-main/docs/_data/references/owasp-llm.yml",
+    "title": "OWASP LLM Top 10",
+    "organization_or_speaker": "FINOS AI Governance Framework contributors",
+    "date": "File date not stated; repository config labels v2, 2025-10-20 (not verified as date of every file)",
+    "type": ".yml",
+    "bytes": 3747,
+    "sha256": "3da82fc430a264db7452659136753b95c31597ab146f9c6ed0e374a3b8a1c1ed",
+    "topics": "Reference mapping data / schema",
+    "prior_review": "overview reviewed",
+    "review_status": "Overview reviewed",
+    "review_locators": [
+      "Header, purpose or structure and headings"
+    ],
+    "limitations": [
+      "Index and metadata reviewed; linked underlying standards/laws not present or independently reviewed. Mapping is not legal advice or a compliance assessment."
+    ],
+    "lines": 79,
+    "review_date": "2026-11-08",
+    "source_type": "reference index/mapping"
+  },
+  {
+    "id": "F35",
+    "filename": "ai-governance-framework-main/docs/_data/references/owasp-ml.yml",
+    "title": "OWASP ML Security Top 10",
+    "organization_or_speaker": "FINOS AI Governance Framework contributors",
+    "date": "File date not stated; repository config labels v2, 2025-10-20 (not verified as date of every file)",
+    "type": ".yml",
+    "bytes": 1912,
+    "sha256": "17082845b19b0e8b7e2c24fc62f3ce0fa0c36916af7ac294cd481294c2e3edc9",
+    "topics": "Reference mapping data / schema",
+    "prior_review": "overview reviewed",
+    "review_status": "Overview reviewed",
+    "review_locators": [
+      "Header, purpose or structure and headings"
+    ],
+    "limitations": [
+      "Index and metadata reviewed; linked underlying standards/laws not present or independently reviewed. Mapping is not legal advice or a compliance assessment."
+    ],
+    "lines": 35,
+    "review_date": "2026-11-08",
+    "source_type": "reference index/mapping"
+  },
+  {
+    "id": "F36",
+    "filename": "ai-governance-framework-main/docs/_data/references/README.md",
+    "title": "OWASP LLM Top 10",
+    "organization_or_speaker": "FINOS AI Governance Framework contributors",
+    "date": "File date not stated; repository config labels v2, 2025-10-20 (not verified as date of every file)",
+    "type": ".md",
+    "bytes": 3127,
+    "sha256": "004e08c609df8847ae4970c9dbd6b5acd62b2ab83e5e59a3de2960d31e5cb645",
+    "topics": "Reference mapping data / schema",
+    "prior_review": "overview reviewed",
+    "review_status": "Overview reviewed",
+    "review_locators": [
+      "Header, purpose or structure and headings"
+    ],
+    "limitations": [],
+    "lines": 70,
+    "review_date": "2026-11-08",
+    "source_type": "repository support material"
+  },
+  {
+    "id": "F37",
+    "filename": "ai-governance-framework-main/docs/_data/references/sr11-7.yml",
+    "title": "SR 11-7: Model Risk Management",
+    "organization_or_speaker": "FINOS AI Governance Framework contributors",
+    "date": "File date not stated; repository config labels v2, 2025-10-20 (not verified as date of every file)",
+    "type": ".yml",
+    "bytes": 2525,
+    "sha256": "68990e8c5ff574b464517e7e1afd4d28a4816d92214f6be3fd2111951af3615f",
+    "topics": "Reference mapping data / schema",
+    "prior_review": "overview reviewed",
+    "review_status": "Overview reviewed",
+    "review_locators": [
+      "Header, purpose or structure and headings"
+    ],
+    "limitations": [
+      "Index and metadata reviewed; linked underlying standards/laws not present or independently reviewed. Mapping is not legal advice or a compliance assessment."
+    ],
+    "lines": 67,
+    "review_date": "2026-11-08",
+    "source_type": "reference index/mapping"
+  },
+  {
+    "id": "F38",
+    "filename": "ai-governance-framework-main/docs/_data/references/uk-regulations.yml",
+    "title": "UK Financial Services AI Regulations",
+    "organization_or_speaker": "FINOS AI Governance Framework contributors",
+    "date": "File date not stated; repository config labels v2, 2025-10-20 (not verified as date of every file)",
+    "type": ".yml",
+    "bytes": 4670,
+    "sha256": "99812ba7a0cd195e973d42385df6b9ea76965d009fa181f5b8ef98806f692350",
+    "topics": "Reference mapping data / schema",
+    "prior_review": "overview reviewed",
+    "review_status": "Overview reviewed",
+    "review_locators": [
+      "Header, purpose or structure and headings"
+    ],
+    "limitations": [
+      "Index and metadata reviewed; linked underlying standards/laws not present or independently reviewed. Mapping is not legal advice or a compliance assessment."
+    ],
+    "lines": 104,
+    "review_date": "2026-11-08",
+    "source_type": "reference index/mapping"
+  },
+  {
+    "id": "F39",
+    "filename": "ai-governance-framework-main/docs/_includes/catalogue.html",
+    "title": "catalogue.html",
+    "organization_or_speaker": "FINOS AI Governance Framework contributors",
+    "date": "File date not stated; repository config labels v2, 2025-10-20 (not verified as date of every file)",
+    "type": ".html",
+    "bytes": 29872,
+    "sha256": "d6554b3ebe119e5455add65d3bc0467bff0f7465d3d951b68d77f9809e876501",
+    "topics": "Repository support material",
+    "prior_review": "not reviewed as evidence",
+    "review_status": "Overview reviewed",
+    "review_locators": [
+      "Header, purpose or structure and headings"
+    ],
+    "limitations": [],
+    "lines": 552,
+    "review_date": "2026-11-08",
+    "source_type": "repository support material"
+  },
+  {
+    "id": "F40",
+    "filename": "ai-governance-framework-main/docs/_includes/external-link-icon.html",
+    "title": "external-link-icon.html",
+    "organization_or_speaker": "FINOS AI Governance Framework contributors",
+    "date": "File date not stated; repository config labels v2, 2025-10-20 (not verified as date of every file)",
+    "type": ".html",
+    "bytes": 555,
+    "sha256": "9e25661c737ae829a67dbc517e5a9a310dce68848d7246d65060a883b37a9305",
+    "topics": "Repository support material",
+    "prior_review": "not reviewed as evidence",
+    "review_status": "Overview reviewed",
+    "review_locators": [
+      "Header, purpose or structure and headings"
+    ],
+    "limitations": [],
+    "lines": 4,
+    "review_date": "2026-11-08",
+    "source_type": "repository support material"
+  },
+  {
+    "id": "F41",
+    "filename": "ai-governance-framework-main/docs/_includes/mitigation-id.html",
+    "title": "mitigation-id.html",
+    "organization_or_speaker": "FINOS AI Governance Framework contributors",
+    "date": "File date not stated; repository config labels v2, 2025-10-20 (not verified as date of every file)",
+    "type": ".html",
+    "bytes": 140,
+    "sha256": "a71ef951fbaed223fa5d66cf4eec0040de8de0decf7e7c0e1df1b25871a04284",
+    "topics": "Repository support material",
+    "prior_review": "not reviewed as evidence",
+    "review_status": "Overview reviewed",
+    "review_locators": [
+      "Header, purpose or structure and headings"
+    ],
+    "limitations": [],
+    "lines": 2,
+    "review_date": "2026-11-08",
+    "source_type": "repository support material"
+  },
+  {
+    "id": "F42",
+    "filename": "ai-governance-framework-main/docs/_includes/reference-card.html",
+    "title": "reference-card.html",
+    "organization_or_speaker": "FINOS AI Governance Framework contributors",
+    "date": "File date not stated; repository config labels v2, 2025-10-20 (not verified as date of every file)",
+    "type": ".html",
+    "bytes": 1799,
+    "sha256": "f60d58814c26e925fdf97909ff8f76710ae44b711512599a9c817efce9f82408",
+    "topics": "Repository support material",
+    "prior_review": "not reviewed as evidence",
+    "review_status": "Overview reviewed",
+    "review_locators": [
+      "Header, purpose or structure and headings"
+    ],
+    "limitations": [],
+    "lines": 33,
+    "review_date": "2026-11-08",
+    "source_type": "repository support material"
+  },
+  {
+    "id": "F43",
+    "filename": "ai-governance-framework-main/docs/_includes/reference-entry-card.html",
+    "title": "reference-entry-card.html",
+    "organization_or_speaker": "FINOS AI Governance Framework contributors",
+    "date": "File date not stated; repository config labels v2, 2025-10-20 (not verified as date of every file)",
+    "type": ".html",
+    "bytes": 2619,
+    "sha256": "6fb13ba39fcef5b91c7bd18e9d4bb9d37eaf7319c0267c7c97bd5741aed3b2c9",
+    "topics": "Repository support material",
+    "prior_review": "not reviewed as evidence",
+    "review_status": "Overview reviewed",
+    "review_locators": [
+      "Header, purpose or structure and headings"
+    ],
+    "limitations": [],
+    "lines": 65,
+    "review_date": "2026-11-08",
+    "source_type": "repository support material"
+  },
+  {
+    "id": "F44",
+    "filename": "ai-governance-framework-main/docs/_includes/risk-id.html",
+    "title": "risk-id.html",
+    "organization_or_speaker": "FINOS AI Governance Framework contributors",
+    "date": "File date not stated; repository config labels v2, 2025-10-20 (not verified as date of every file)",
+    "type": ".html",
+    "bytes": 128,
+    "sha256": "7f90be6731b3704675be19e7829582546284c9bc72a81c5b1cd9c5545a82d3dd",
+    "topics": "Repository support material",
+    "prior_review": "not reviewed as evidence",
+    "review_status": "Overview reviewed",
+    "review_locators": [
+      "Header, purpose or structure and headings"
+    ],
+    "limitations": [],
+    "lines": 2,
+    "review_date": "2026-11-08",
+    "source_type": "repository support material"
+  },
+  {
+    "id": "F45",
+    "filename": "ai-governance-framework-main/docs/_includes/usecase-id.html",
+    "title": "usecase-id.html",
+    "organization_or_speaker": "FINOS AI Governance Framework contributors",
+    "date": "File date not stated; repository config labels v2, 2025-10-20 (not verified as date of every file)",
+    "type": ".html",
+    "bytes": 107,
+    "sha256": "37e6915624b2e22ab2d2743ce3b5b8f060d4aa66e243fe46ddecc46b0dd34579",
+    "topics": "Repository support material",
+    "prior_review": "not reviewed as evidence",
+    "review_status": "Overview reviewed",
+    "review_locators": [
+      "Header, purpose or structure and headings"
+    ],
+    "limitations": [],
+    "lines": 2,
+    "review_date": "2026-11-08",
+    "source_type": "repository support material"
+  },
+  {
+    "id": "F46",
+    "filename": "ai-governance-framework-main/docs/_layouts/default.html",
+    "title": "default.html",
+    "organization_or_speaker": "FINOS AI Governance Framework contributors",
+    "date": "File date not stated; repository config labels v2, 2025-10-20 (not verified as date of every file)",
+    "type": ".html",
+    "bytes": 2054,
+    "sha256": "45ff969f7b465f9990b7077894a55925bddf8b557937fe7d21df4408b74fbf5c",
+    "topics": "Repository support material",
+    "prior_review": "not reviewed as evidence",
+    "review_status": "Overview reviewed",
+    "review_locators": [
+      "Header, purpose or structure and headings"
+    ],
+    "limitations": [],
+    "lines": 41,
+    "review_date": "2026-11-08",
+    "source_type": "repository support material"
+  },
+  {
+    "id": "F47",
+    "filename": "ai-governance-framework-main/docs/_layouts/index.html",
+    "title": "index.html",
+    "organization_or_speaker": "FINOS AI Governance Framework contributors",
+    "date": "File date not stated; repository config labels v2, 2025-10-20 (not verified as date of every file)",
+    "type": ".html",
+    "bytes": 1617,
+    "sha256": "4677088156f4280a7ea8988eaa4dfc7defd656a78026c8f2b14611f8017f5157",
+    "topics": "Repository support material",
+    "prior_review": "not reviewed as evidence",
+    "review_status": "Overview reviewed",
+    "review_locators": [
+      "Header, purpose or structure and headings"
+    ],
+    "limitations": [],
+    "lines": 34,
+    "review_date": "2026-11-08",
+    "source_type": "repository support material"
+  },
+  {
+    "id": "F48",
+    "filename": "ai-governance-framework-main/docs/_layouts/mitigation.html",
+    "title": "mitigation.html",
+    "organization_or_speaker": "FINOS AI Governance Framework contributors",
+    "date": "File date not stated; repository config labels v2, 2025-10-20 (not verified as date of every file)",
+    "type": ".html",
+    "bytes": 6050,
+    "sha256": "d238e27632b5d59455e5d3cfb1458d727ae38dbc910915ac05b47779aaafb8af",
+    "topics": "Repository support material",
+    "prior_review": "not reviewed as evidence",
+    "review_status": "Overview reviewed",
+    "review_locators": [
+      "Header, purpose or structure and headings"
+    ],
+    "limitations": [],
+    "lines": 127,
+    "review_date": "2026-11-08",
+    "source_type": "repository support material"
+  },
+  {
+    "id": "F49",
+    "filename": "ai-governance-framework-main/docs/_layouts/reference.html",
+    "title": "reference.html",
+    "organization_or_speaker": "FINOS AI Governance Framework contributors",
+    "date": "File date not stated; repository config labels v2, 2025-10-20 (not verified as date of every file)",
+    "type": ".html",
+    "bytes": 1604,
+    "sha256": "6e69534ff14565a975d146dbc98aacff020eb1589b03992b48b091bc4873c050",
+    "topics": "Repository support material",
+    "prior_review": "not reviewed as evidence",
+    "review_status": "Overview reviewed",
+    "review_locators": [
+      "Header, purpose or structure and headings"
+    ],
+    "limitations": [],
+    "lines": 40,
+    "review_date": "2026-11-08",
+    "source_type": "repository support material"
+  },
+  {
+    "id": "F50",
+    "filename": "ai-governance-framework-main/docs/_layouts/risk.html",
+    "title": "risk.html",
+    "organization_or_speaker": "FINOS AI Governance Framework contributors",
+    "date": "File date not stated; repository config labels v2, 2025-10-20 (not verified as date of every file)",
+    "type": ".html",
+    "bytes": 5327,
+    "sha256": "ab6e4e122449d4eff7df18d51aefaa50999522e50498918901d8bb33ae89ff0a",
+    "topics": "Repository support material",
+    "prior_review": "not reviewed as evidence",
+    "review_status": "Overview reviewed",
+    "review_locators": [
+      "Header, purpose or structure and headings"
+    ],
+    "limitations": [],
+    "lines": 109,
+    "review_date": "2026-11-08",
+    "source_type": "repository support material"
+  },
+  {
+    "id": "F51",
+    "filename": "ai-governance-framework-main/docs/_layouts/usecase.html",
+    "title": "usecase.html",
+    "organization_or_speaker": "FINOS AI Governance Framework contributors",
+    "date": "File date not stated; repository config labels v2, 2025-10-20 (not verified as date of every file)",
+    "type": ".html",
+    "bytes": 19577,
+    "sha256": "f6abd56c5dca9567eb1a2acbe39fc4469ad3bcb771a2c05dd763f9b453ce2311",
+    "topics": "Repository support material",
+    "prior_review": "not reviewed as evidence",
+    "review_status": "Overview reviewed",
+    "review_locators": [
+      "Header, purpose or structure and headings"
+    ],
+    "limitations": [],
+    "lines": 323,
+    "review_date": "2026-11-08",
+    "source_type": "repository support material"
+  },
+  {
+    "id": "F52",
+    "filename": "ai-governance-framework-main/docs/_mitigations/mi-10_ai-model-version-pinning.md",
+    "title": "AI Model Version Pinning",
+    "organization_or_speaker": "FINOS AI Governance Framework contributors",
+    "date": "File date not stated; repository config labels v2, 2025-10-20 (not verified as date of every file)",
+    "type": ".md",
+    "bytes": 9410,
+    "sha256": "30f3c34cb3e742e8adf1ee39e990fa2024d74de819ac3f91d1d8d73a3edc36a4",
+    "topics": "Control specification",
+    "prior_review": "overview reviewed",
+    "review_status": "Selected sections reviewed",
+    "review_locators": [
+      "Front matter; Purpose/Summary; implementation/description and limitations excerpts"
+    ],
+    "limitations": [
+      "Community specification, not proof of company implementation or local legal applicability; selected excerpts reviewed, not every reference verified."
+    ],
+    "lines": 107,
+    "review_date": "2026-11-08",
+    "source_type": "community risk/control specification",
+    "specification_status": "Approved-Specification"
+  },
+  {
+    "id": "F53",
+    "filename": "ai-governance-framework-main/docs/_mitigations/mi-11_human-feedback-loop-for-ai-systems.md",
+    "title": "Human Feedback Loop for AI Systems",
+    "organization_or_speaker": "FINOS AI Governance Framework contributors",
+    "date": "File date not stated; repository config labels v2, 2025-10-20 (not verified as date of every file)",
+    "type": ".md",
+    "bytes": 14087,
+    "sha256": "3f38d59859837d283ce964469bc4fc6ef19737223b831537b0146631de09c5a1",
+    "topics": "Control specification",
+    "prior_review": "overview reviewed",
+    "review_status": "Selected sections reviewed",
+    "review_locators": [
+      "Front matter; Purpose/Summary; implementation/description and limitations excerpts"
+    ],
+    "limitations": [
+      "Community specification, not proof of company implementation or local legal applicability; selected excerpts reviewed, not every reference verified."
+    ],
+    "lines": 146,
+    "review_date": "2026-11-08",
+    "source_type": "community risk/control specification",
+    "specification_status": "Approved-Specification"
+  },
+  {
+    "id": "F54",
+    "filename": "ai-governance-framework-main/docs/_mitigations/mi-12_role-based-access-control-for-ai-data.md",
+    "title": "Role-Based Access Control for AI Data",
+    "organization_or_speaker": "FINOS AI Governance Framework contributors",
+    "date": "File date not stated; repository config labels v2, 2025-10-20 (not verified as date of every file)",
+    "type": ".md",
+    "bytes": 9732,
+    "sha256": "e4fcd70bd154fca6ee55fa3211409129e8f5b3cd86ee4f64cd8b29099c45d4e4",
+    "topics": "Control specification",
+    "prior_review": "overview reviewed",
+    "review_status": "Selected sections reviewed",
+    "review_locators": [
+      "Front matter; Purpose/Summary; implementation/description and limitations excerpts"
+    ],
+    "limitations": [
+      "Community specification, not proof of company implementation or local legal applicability; selected excerpts reviewed, not every reference verified."
+    ],
+    "lines": 107,
+    "review_date": "2026-11-08",
+    "source_type": "community risk/control specification",
+    "specification_status": "Approved-Specification"
+  },
+  {
+    "id": "F55",
+    "filename": "ai-governance-framework-main/docs/_mitigations/mi-13_providing-citations-and-source-traceability-for-ai-generated-information.md",
+    "title": "Providing Citations and Source Traceability for AI-Generated Information",
+    "organization_or_speaker": "FINOS AI Governance Framework contributors",
+    "date": "File date not stated; repository config labels v2, 2025-10-20 (not verified as date of every file)",
+    "type": ".md",
+    "bytes": 12069,
+    "sha256": "3baeb2a16780d2a55ec1676b36a13092642aa0a1366c00ce9f8cda6d469c7624",
+    "topics": "Control specification",
+    "prior_review": "overview reviewed",
+    "review_status": "Selected sections reviewed",
+    "review_locators": [
+      "Front matter; Purpose/Summary; implementation/description and limitations excerpts"
+    ],
+    "limitations": [
+      "Community specification, not proof of company implementation or local legal applicability; selected excerpts reviewed, not every reference verified."
+    ],
+    "lines": 119,
+    "review_date": "2026-11-08",
+    "source_type": "community risk/control specification",
+    "specification_status": "Approved-Specification"
+  },
+  {
+    "id": "F56",
+    "filename": "ai-governance-framework-main/docs/_mitigations/mi-14_encryption-of-ai-data-at-rest.md",
+    "title": "Encryption of AI Data at Rest",
+    "organization_or_speaker": "FINOS AI Governance Framework contributors",
+    "date": "File date not stated; repository config labels v2, 2025-10-20 (not verified as date of every file)",
+    "type": ".md",
+    "bytes": 9048,
+    "sha256": "24ce8ae711e8782bb4b749443f9559fd20a5e21a55119920ab2ec7e4d4d7c8c8",
+    "topics": "Control specification",
+    "prior_review": "overview reviewed",
+    "review_status": "Selected sections reviewed",
+    "review_locators": [
+      "Front matter; Purpose/Summary; implementation/description and limitations excerpts"
+    ],
+    "limitations": [
+      "Community specification, not proof of company implementation or local legal applicability; selected excerpts reviewed, not every reference verified."
+    ],
+    "lines": 102,
+    "review_date": "2026-11-08",
+    "source_type": "community risk/control specification",
+    "specification_status": "Approved-Specification"
+  },
+  {
+    "id": "F57",
+    "filename": "ai-governance-framework-main/docs/_mitigations/mi-15_using-large-language-models-for-automated-evaluation-llm-as-a-judge-.md",
+    "title": "Using Large Language Models for Automated Evaluation (LLM-as-a-Judge)",
+    "organization_or_speaker": "FINOS AI Governance Framework contributors",
+    "date": "File date not stated; repository config labels v2, 2025-10-20 (not verified as date of every file)",
+    "type": ".md",
+    "bytes": 13728,
+    "sha256": "d9b5ae817a9eaab44710b6782b15c82c4c50c354e1bf7939a3855c4faa446c2f",
+    "topics": "Control specification",
+    "prior_review": "selected sections reviewed",
+    "review_status": "Selected sections reviewed",
+    "review_locators": [
+      "Front matter; Purpose/Summary; implementation/description and limitations excerpts"
+    ],
+    "limitations": [
+      "Community specification, not proof of company implementation or local legal applicability; selected excerpts reviewed, not every reference verified."
+    ],
+    "lines": 161,
+    "review_date": "2026-11-08",
+    "source_type": "community risk/control specification",
+    "specification_status": "Approved-Specification"
+  },
+  {
+    "id": "F58",
+    "filename": "ai-governance-framework-main/docs/_mitigations/mi-16_preserving-source-data-access-controls-in-ai-systems.md",
+    "title": "Preserving Source Data Access Controls in AI Systems",
+    "organization_or_speaker": "FINOS AI Governance Framework contributors",
+    "date": "File date not stated; repository config labels v2, 2025-10-20 (not verified as date of every file)",
+    "type": ".md",
+    "bytes": 13117,
+    "sha256": "4e7d94588c239871e227b33264c865e22932e53a67dcb0c6852677960878ff9a",
+    "topics": "Control specification",
+    "prior_review": "overview reviewed",
+    "review_status": "Selected sections reviewed",
+    "review_locators": [
+      "Front matter; Purpose/Summary; implementation/description and limitations excerpts"
+    ],
+    "limitations": [
+      "Community specification, not proof of company implementation or local legal applicability; selected excerpts reviewed, not every reference verified."
+    ],
+    "lines": 121,
+    "review_date": "2026-11-08",
+    "source_type": "community risk/control specification",
+    "specification_status": "Approved-Specification"
+  },
+  {
+    "id": "F59",
+    "filename": "ai-governance-framework-main/docs/_mitigations/mi-17_ai-firewall-implementation-and-management.md",
+    "title": "AI Firewall Implementation and Management",
+    "organization_or_speaker": "FINOS AI Governance Framework contributors",
+    "date": "File date not stated; repository config labels v2, 2025-10-20 (not verified as date of every file)",
+    "type": ".md",
+    "bytes": 11863,
+    "sha256": "c2cad7460177989837897101c975531e73c74cdf33124a0f96e1d28dd1a9dc86",
+    "topics": "Control specification",
+    "prior_review": "overview reviewed",
+    "review_status": "Selected sections reviewed",
+    "review_locators": [
+      "Front matter; Purpose/Summary; implementation/description and limitations excerpts"
+    ],
+    "limitations": [
+      "Community specification, not proof of company implementation or local legal applicability; selected excerpts reviewed, not every reference verified."
+    ],
+    "lines": 126,
+    "review_date": "2026-11-08",
+    "source_type": "community risk/control specification",
+    "specification_status": "Approved-Specification"
+  },
+  {
+    "id": "F60",
+    "filename": "ai-governance-framework-main/docs/_mitigations/mi-18_agent-authority-least-privilege-framework.md",
+    "title": "Agent Authority Least Privilege Framework",
+    "organization_or_speaker": "FINOS AI Governance Framework contributors",
+    "date": "File date not stated; repository config labels v2, 2025-10-20 (not verified as date of every file)",
+    "type": ".md",
+    "bytes": 24349,
+    "sha256": "ced2dcdb24e6af63b7735fc431fbf0aac7c6cf5d773526473d284e8b2d7b242a",
+    "topics": "Control specification",
+    "prior_review": "overview reviewed",
+    "review_status": "Selected sections reviewed",
+    "review_locators": [
+      "Front matter; Purpose/Summary; implementation/description and limitations excerpts"
+    ],
+    "limitations": [
+      "Community specification, not proof of company implementation or local legal applicability; selected excerpts reviewed, not every reference verified."
+    ],
+    "lines": 252,
+    "review_date": "2026-11-08",
+    "source_type": "community risk/control specification",
+    "specification_status": "Approved-Specification"
+  },
+  {
+    "id": "F61",
+    "filename": "ai-governance-framework-main/docs/_mitigations/mi-19_tool-chain-validation-and-sanitization.md",
+    "title": "Tool Chain Validation and Sanitization",
+    "organization_or_speaker": "FINOS AI Governance Framework contributors",
+    "date": "File date not stated; repository config labels v2, 2025-10-20 (not verified as date of every file)",
+    "type": ".md",
+    "bytes": 12347,
+    "sha256": "c1e27c34700c4580d015af5b324414e1c4cff11aa85a2f1895cc13c736d754f7",
+    "topics": "Control specification",
+    "prior_review": "overview reviewed",
+    "review_status": "Selected sections reviewed",
+    "review_locators": [
+      "Front matter; Purpose/Summary; implementation/description and limitations excerpts"
+    ],
+    "limitations": [
+      "Community specification, not proof of company implementation or local legal applicability; selected excerpts reviewed, not every reference verified."
+    ],
+    "lines": 176,
+    "review_date": "2026-11-08",
+    "source_type": "community risk/control specification",
+    "specification_status": "Approved-Specification"
+  },
+  {
+    "id": "F62",
+    "filename": "ai-governance-framework-main/docs/_mitigations/mi-1_ai-data-leakage-prevention-and-detection.md",
+    "title": "AI Data Leakage Prevention and Detection",
+    "organization_or_speaker": "FINOS AI Governance Framework contributors",
+    "date": "File date not stated; repository config labels v2, 2025-10-20 (not verified as date of every file)",
+    "type": ".md",
+    "bytes": 10245,
+    "sha256": "2ad2f766573f008b9a3f7071547157b5b729757da4a96ad83a5e3634fdc38995",
+    "topics": "Control specification",
+    "prior_review": "overview reviewed",
+    "review_status": "Selected sections reviewed",
+    "review_locators": [
+      "Front matter; Purpose/Summary; implementation/description and limitations excerpts"
+    ],
+    "limitations": [
+      "Community specification, not proof of company implementation or local legal applicability; selected excerpts reviewed, not every reference verified."
+    ],
+    "lines": 121,
+    "review_date": "2026-11-08",
+    "source_type": "community risk/control specification",
+    "specification_status": "Approved-Specification"
+  },
+  {
+    "id": "F63",
+    "filename": "ai-governance-framework-main/docs/_mitigations/mi-20_mcp-server-security-governance.md",
+    "title": "MCP Server Security Governance",
+    "organization_or_speaker": "FINOS AI Governance Framework contributors",
+    "date": "File date not stated; repository config labels v2, 2025-10-20 (not verified as date of every file)",
+    "type": ".md",
+    "bytes": 16984,
+    "sha256": "69337ef005b71a8836496023420e9fcb93e6ef8667eeaa99d8da932534ebfd0c",
+    "topics": "Control specification",
+    "prior_review": "overview reviewed",
+    "review_status": "Selected sections reviewed",
+    "review_locators": [
+      "Front matter; Purpose/Summary; implementation/description and limitations excerpts"
+    ],
+    "limitations": [
+      "Community specification, not proof of company implementation or local legal applicability; selected excerpts reviewed, not every reference verified."
+    ],
+    "lines": 231,
+    "review_date": "2026-11-08",
+    "source_type": "community risk/control specification",
+    "specification_status": "Approved-Specification"
+  },
+  {
+    "id": "F64",
+    "filename": "ai-governance-framework-main/docs/_mitigations/mi-21_agent-decision-audit-and-explainability.md",
+    "title": "Agent Decision Audit and Explainability",
+    "organization_or_speaker": "FINOS AI Governance Framework contributors",
+    "date": "File date not stated; repository config labels v2, 2025-10-20 (not verified as date of every file)",
+    "type": ".md",
+    "bytes": 20121,
+    "sha256": "a2f3a053e55182005c6917816631188d88eac44f185c585b934ab4cb2a81c486",
+    "topics": "Control specification",
+    "prior_review": "overview reviewed",
+    "review_status": "Selected sections reviewed",
+    "review_locators": [
+      "Front matter; Purpose/Summary; implementation/description and limitations excerpts"
+    ],
+    "limitations": [
+      "Community specification, not proof of company implementation or local legal applicability; selected excerpts reviewed, not every reference verified."
+    ],
+    "lines": 263,
+    "review_date": "2026-11-08",
+    "source_type": "community risk/control specification",
+    "specification_status": "Approved-Specification"
+  },
+  {
+    "id": "F65",
+    "filename": "ai-governance-framework-main/docs/_mitigations/mi-22_multi-agent-isolation-and-segmentation.md",
+    "title": "Multi-Agent Isolation and Segmentation",
+    "organization_or_speaker": "FINOS AI Governance Framework contributors",
+    "date": "File date not stated; repository config labels v2, 2025-10-20 (not verified as date of every file)",
+    "type": ".md",
+    "bytes": 14060,
+    "sha256": "0359bc39cf9e4922d374028f3eca43a6e2cd75b5e2d8824f79c0c4fa9250d373",
+    "topics": "Control specification",
+    "prior_review": "overview reviewed",
+    "review_status": "Selected sections reviewed",
+    "review_locators": [
+      "Front matter; Purpose/Summary; implementation/description and limitations excerpts"
+    ],
+    "limitations": [
+      "Community specification, not proof of company implementation or local legal applicability; selected excerpts reviewed, not every reference verified."
+    ],
+    "lines": 199,
+    "review_date": "2026-11-08",
+    "source_type": "community risk/control specification",
+    "specification_status": "Approved-Specification"
+  },
+  {
+    "id": "F66",
+    "filename": "ai-governance-framework-main/docs/_mitigations/mi-23_agentic-system-credential-protection-framework.md",
+    "title": "Agentic System Credential Protection Framework",
+    "organization_or_speaker": "FINOS AI Governance Framework contributors",
+    "date": "File date not stated; repository config labels v2, 2025-10-20 (not verified as date of every file)",
+    "type": ".md",
+    "bytes": 15839,
+    "sha256": "d295770f8844576663936df018eea21f8841ed3d4de5a00ef5f65b9d247e6ada",
+    "topics": "Control specification",
+    "prior_review": "overview reviewed",
+    "review_status": "Selected sections reviewed",
+    "review_locators": [
+      "Front matter; Purpose/Summary; implementation/description and limitations excerpts"
+    ],
+    "limitations": [
+      "Community specification, not proof of company implementation or local legal applicability; selected excerpts reviewed, not every reference verified."
+    ],
+    "lines": 193,
+    "review_date": "2026-11-08",
+    "source_type": "community risk/control specification",
+    "specification_status": "Approved-Specification"
+  },
+  {
+    "id": "F67",
+    "filename": "ai-governance-framework-main/docs/_mitigations/mi-24_human-in-the-loop-action-approval-gate.md",
+    "title": "Human-in-the-Loop Action Approval Gate",
+    "organization_or_speaker": "FINOS AI Governance Framework contributors",
+    "date": "File date not stated; repository config labels v2, 2025-10-20 (not verified as date of every file)",
+    "type": ".md",
+    "bytes": 26296,
+    "sha256": "6f83cf78aea2def32d6206e1f47635f595e80ebb4e68f9861e7e8829d006ff99",
+    "topics": "Control specification",
+    "prior_review": "selected sections reviewed",
+    "review_status": "Selected sections reviewed",
+    "review_locators": [
+      "Front matter; Purpose/Summary; implementation/description and limitations excerpts"
+    ],
+    "limitations": [
+      "Community specification, not proof of company implementation or local legal applicability; selected excerpts reviewed, not every reference verified."
+    ],
+    "lines": 136,
+    "review_date": "2026-11-08",
+    "source_type": "community risk/control specification",
+    "specification_status": "Draft"
+  },
+  {
+    "id": "F68",
+    "filename": "ai-governance-framework-main/docs/_mitigations/mi-25_skill-plugin-integrity-and-governance.md",
+    "title": "Skill/Plugin Integrity and Governance",
+    "organization_or_speaker": "FINOS AI Governance Framework contributors",
+    "date": "File date not stated; repository config labels v2, 2025-10-20 (not verified as date of every file)",
+    "type": ".md",
+    "bytes": 23058,
+    "sha256": "650d092ba4997f85e27f28101f7dfaa2513e0e2d09aca97cc4e513d8019f9091",
+    "topics": "Control specification",
+    "prior_review": "overview reviewed",
+    "review_status": "Selected sections reviewed",
+    "review_locators": [
+      "Front matter; Purpose/Summary; implementation/description and limitations excerpts"
+    ],
+    "limitations": [
+      "Community specification, not proof of company implementation or local legal applicability; selected excerpts reviewed, not every reference verified."
+    ],
+    "lines": 220,
+    "review_date": "2026-11-08",
+    "source_type": "community risk/control specification",
+    "specification_status": "Draft"
+  },
+  {
+    "id": "F69",
+    "filename": "ai-governance-framework-main/docs/_mitigations/mi-2_data-filtering-from-external-knowledge-bases.md",
+    "title": "Data Filtering From External Knowledge Bases",
+    "organization_or_speaker": "FINOS AI Governance Framework contributors",
+    "date": "File date not stated; repository config labels v2, 2025-10-20 (not verified as date of every file)",
+    "type": ".md",
+    "bytes": 12626,
+    "sha256": "761c9367ae15fec03ee50e745c49ec3190dc9ffe212ead77a3ced6dd9e732520",
+    "topics": "Control specification",
+    "prior_review": "overview reviewed",
+    "review_status": "Selected sections reviewed",
+    "review_locators": [
+      "Front matter; Purpose/Summary; implementation/description and limitations excerpts"
+    ],
+    "limitations": [
+      "Community specification, not proof of company implementation or local legal applicability; selected excerpts reviewed, not every reference verified."
+    ],
+    "lines": 128,
+    "review_date": "2026-11-08",
+    "source_type": "community risk/control specification",
+    "specification_status": "Approved-Specification"
+  },
+  {
+    "id": "F70",
+    "filename": "ai-governance-framework-main/docs/_mitigations/mi-3_user-app-model-firewalling-filtering.md",
+    "title": "User/App/Model Firewalling/Filtering",
+    "organization_or_speaker": "FINOS AI Governance Framework contributors",
+    "date": "File date not stated; repository config labels v2, 2025-10-20 (not verified as date of every file)",
+    "type": ".md",
+    "bytes": 11931,
+    "sha256": "a71d815d364b55a6a3c031c0ebed28f282bcef630c11bf055229789bc663b2c9",
+    "topics": "Control specification",
+    "prior_review": "overview reviewed",
+    "review_status": "Selected sections reviewed",
+    "review_locators": [
+      "Front matter; Purpose/Summary; implementation/description and limitations excerpts"
+    ],
+    "limitations": [
+      "Community specification, not proof of company implementation or local legal applicability; selected excerpts reviewed, not every reference verified."
+    ],
+    "lines": 123,
+    "review_date": "2026-11-08",
+    "source_type": "community risk/control specification",
+    "specification_status": "Approved-Specification"
+  },
+  {
+    "id": "F71",
+    "filename": "ai-governance-framework-main/docs/_mitigations/mi-4_ai-system-observability.md",
+    "title": "AI System Observability",
+    "organization_or_speaker": "FINOS AI Governance Framework contributors",
+    "date": "File date not stated; repository config labels v2, 2025-10-20 (not verified as date of every file)",
+    "type": ".md",
+    "bytes": 13937,
+    "sha256": "77c3e982c2d810588515111ad27aa1f9daa9c69d70ff2c8c044ddd2f33cac755",
+    "topics": "Control specification",
+    "prior_review": "overview reviewed",
+    "review_status": "Selected sections reviewed",
+    "review_locators": [
+      "Front matter; Purpose/Summary; implementation/description and limitations excerpts"
+    ],
+    "limitations": [
+      "Community specification, not proof of company implementation or local legal applicability; selected excerpts reviewed, not every reference verified."
+    ],
+    "lines": 145,
+    "review_date": "2026-11-08",
+    "source_type": "community risk/control specification",
+    "specification_status": "Approved-Specification"
+  },
+  {
+    "id": "F72",
+    "filename": "ai-governance-framework-main/docs/_mitigations/mi-5_system-acceptance-testing.md",
+    "title": "System Acceptance Testing",
+    "organization_or_speaker": "FINOS AI Governance Framework contributors",
+    "date": "File date not stated; repository config labels v2, 2025-10-20 (not verified as date of every file)",
+    "type": ".md",
+    "bytes": 9237,
+    "sha256": "8b640d1e0883ac88d7075225ec42b8eef05ad04b60492eca8d2ff4c11f519f8d",
+    "topics": "Control specification",
+    "prior_review": "overview reviewed",
+    "review_status": "Selected sections reviewed",
+    "review_locators": [
+      "Front matter; Purpose/Summary; implementation/description and limitations excerpts"
+    ],
+    "limitations": [
+      "Community specification, not proof of company implementation or local legal applicability; selected excerpts reviewed, not every reference verified."
+    ],
+    "lines": 122,
+    "review_date": "2026-11-08",
+    "source_type": "community risk/control specification",
+    "specification_status": "Approved-Specification"
+  },
+  {
+    "id": "F73",
+    "filename": "ai-governance-framework-main/docs/_mitigations/mi-6_data-quality-classification-sensitivity.md",
+    "title": "Data Quality & Classification/Sensitivity",
+    "organization_or_speaker": "FINOS AI Governance Framework contributors",
+    "date": "File date not stated; repository config labels v2, 2025-10-20 (not verified as date of every file)",
+    "type": ".md",
+    "bytes": 9387,
+    "sha256": "708844b4be91578451b95b0352944633ce6d7196450a4ec2a5fe75be4f8b74cb",
+    "topics": "Control specification",
+    "prior_review": "overview reviewed",
+    "review_status": "Selected sections reviewed",
+    "review_locators": [
+      "Front matter; Purpose/Summary; implementation/description and limitations excerpts"
+    ],
+    "limitations": [
+      "Community specification, not proof of company implementation or local legal applicability; selected excerpts reviewed, not every reference verified."
+    ],
+    "lines": 124,
+    "review_date": "2026-11-08",
+    "source_type": "community risk/control specification",
+    "specification_status": "Approved-Specification"
+  },
+  {
+    "id": "F74",
+    "filename": "ai-governance-framework-main/docs/_mitigations/mi-7_legal-and-contractual-frameworks-for-ai-systems.md",
+    "title": "Legal and Contractual Frameworks for AI Systems",
+    "organization_or_speaker": "FINOS AI Governance Framework contributors",
+    "date": "File date not stated; repository config labels v2, 2025-10-20 (not verified as date of every file)",
+    "type": ".md",
+    "bytes": 8567,
+    "sha256": "1ee9f968a004b35da4b7f2b7c07be0a8b6b6c90b21369dfea3680e2eeca1a142",
+    "topics": "Control specification",
+    "prior_review": "overview reviewed",
+    "review_status": "Selected sections reviewed",
+    "review_locators": [
+      "Front matter; Purpose/Summary; implementation/description and limitations excerpts"
+    ],
+    "limitations": [
+      "Community specification, not proof of company implementation or local legal applicability; selected excerpts reviewed, not every reference verified."
+    ],
+    "lines": 114,
+    "review_date": "2026-11-08",
+    "source_type": "community risk/control specification",
+    "specification_status": "Approved-Specification"
+  },
+  {
+    "id": "F75",
+    "filename": "ai-governance-framework-main/docs/_mitigations/mi-8_quality-of-service-qos-and-ddos-prevention-for-ai-systems.md",
+    "title": "Quality of Service (QoS) and DDoS Prevention for AI Systems",
+    "organization_or_speaker": "FINOS AI Governance Framework contributors",
+    "date": "File date not stated; repository config labels v2, 2025-10-20 (not verified as date of every file)",
+    "type": ".md",
+    "bytes": 6646,
+    "sha256": "def470a62305604f19892e3c6e4b530d40b6e5b2a129d6efdfa271bf56dab477",
+    "topics": "Control specification",
+    "prior_review": "overview reviewed",
+    "review_status": "Selected sections reviewed",
+    "review_locators": [
+      "Front matter; Purpose/Summary; implementation/description and limitations excerpts"
+    ],
+    "limitations": [
+      "Community specification, not proof of company implementation or local legal applicability; selected excerpts reviewed, not every reference verified."
+    ],
+    "lines": 86,
+    "review_date": "2026-11-08",
+    "source_type": "community risk/control specification",
+    "specification_status": "Approved-Specification"
+  },
+  {
+    "id": "F76",
+    "filename": "ai-governance-framework-main/docs/_mitigations/mi-9_ai-system-alerting-and-denial-of-wallet-dow-spend-monitoring.md",
+    "title": "AI System Alerting and Denial of Wallet (DoW) / Spend Monitoring",
+    "organization_or_speaker": "FINOS AI Governance Framework contributors",
+    "date": "File date not stated; repository config labels v2, 2025-10-20 (not verified as date of every file)",
+    "type": ".md",
+    "bytes": 8613,
+    "sha256": "7311b362fd524ca9313ca614c535c6ed3bf536ecc13b2bc0f0f700d5cbe278d7",
+    "topics": "Control specification",
+    "prior_review": "overview reviewed",
+    "review_status": "Selected sections reviewed",
+    "review_locators": [
+      "Front matter; Purpose/Summary; implementation/description and limitations excerpts"
+    ],
+    "limitations": [
+      "Community specification, not proof of company implementation or local legal applicability; selected excerpts reviewed, not every reference verified."
+    ],
+    "lines": 126,
+    "review_date": "2026-11-08",
+    "source_type": "community risk/control specification",
+    "specification_status": "Approved-Specification"
+  },
+  {
+    "id": "F77",
+    "filename": "ai-governance-framework-main/docs/_risks/ri-10_prompt-injection.md",
+    "title": "Prompt Injection",
+    "organization_or_speaker": "FINOS AI Governance Framework contributors",
+    "date": "File date not stated; repository config labels v2, 2025-10-20 (not verified as date of every file)",
+    "type": ".md",
+    "bytes": 6912,
+    "sha256": "eaf1011f54df804acd4e9b91be55a885fcb7cdf5345d5a0cedc487d52251f2b2",
+    "topics": "Risk catalogue entry",
+    "prior_review": "overview reviewed",
+    "review_status": "Selected sections reviewed",
+    "review_locators": [
+      "Front matter; Purpose/Summary; implementation/description and limitations excerpts"
+    ],
+    "limitations": [
+      "Community specification, not proof of company implementation or local legal applicability; selected excerpts reviewed, not every reference verified."
+    ],
+    "lines": 94,
+    "review_date": "2026-11-08",
+    "source_type": "community risk/control specification",
+    "specification_status": "Approved-Specification"
+  },
+  {
+    "id": "F78",
+    "filename": "ai-governance-framework-main/docs/_risks/ri-14_inadequate-system-alignment.md",
+    "title": "Inadequate System Alignment",
+    "organization_or_speaker": "FINOS AI Governance Framework contributors",
+    "date": "File date not stated; repository config labels v2, 2025-10-20 (not verified as date of every file)",
+    "type": ".md",
+    "bytes": 7590,
+    "sha256": "05020b531b53c52fd631cb3db39f1b7460671f10ae4280107537aa65f72885e5",
+    "topics": "Risk catalogue entry",
+    "prior_review": "overview reviewed",
+    "review_status": "Selected sections reviewed",
+    "review_locators": [
+      "Front matter; Purpose/Summary; implementation/description and limitations excerpts"
+    ],
+    "limitations": [
+      "Community specification, not proof of company implementation or local legal applicability; selected excerpts reviewed, not every reference verified."
+    ],
+    "lines": 93,
+    "review_date": "2026-11-08",
+    "source_type": "community risk/control specification",
+    "specification_status": "Approved-Specification"
+  },
+  {
+    "id": "F79",
+    "filename": "ai-governance-framework-main/docs/_risks/ri-16_bias-and-discrimination.md",
+    "title": "Bias and Discrimination",
+    "organization_or_speaker": "FINOS AI Governance Framework contributors",
+    "date": "File date not stated; repository config labels v2, 2025-10-20 (not verified as date of every file)",
+    "type": ".md",
+    "bytes": 7677,
+    "sha256": "2d1e27dec34eb293851dfba3146edbcee99f600808d56b2bb1c4fbaac2ad8544",
+    "topics": "Risk catalogue entry",
+    "prior_review": "overview reviewed",
+    "review_status": "Selected sections reviewed",
+    "review_locators": [
+      "Front matter; Purpose/Summary; implementation/description and limitations excerpts"
+    ],
+    "limitations": [
+      "Community specification, not proof of company implementation or local legal applicability; selected excerpts reviewed, not every reference verified."
+    ],
+    "lines": 93,
+    "review_date": "2026-11-08",
+    "source_type": "community risk/control specification",
+    "specification_status": "Approved-Specification"
+  },
+  {
+    "id": "F80",
+    "filename": "ai-governance-framework-main/docs/_risks/ri-17_lack-of-explainability.md",
+    "title": "Lack of Explainability",
+    "organization_or_speaker": "FINOS AI Governance Framework contributors",
+    "date": "File date not stated; repository config labels v2, 2025-10-20 (not verified as date of every file)",
+    "type": ".md",
+    "bytes": 6373,
+    "sha256": "ea977388a0b3e8eea48ac4e26c66ad1afdbc4eacc8fd2750990b57e25954c0b8",
+    "topics": "Risk catalogue entry",
+    "prior_review": "overview reviewed",
+    "review_status": "Selected sections reviewed",
+    "review_locators": [
+      "Front matter; Purpose/Summary; implementation/description and limitations excerpts"
+    ],
+    "limitations": [
+      "Community specification, not proof of company implementation or local legal applicability; selected excerpts reviewed, not every reference verified."
+    ],
+    "lines": 79,
+    "review_date": "2026-11-08",
+    "source_type": "community risk/control specification",
+    "specification_status": "Approved-Specification"
+  },
+  {
+    "id": "F81",
+    "filename": "ai-governance-framework-main/docs/_risks/ri-18_model-overreach-expanded-use.md",
+    "title": "Model Overreach / Expanded Use",
+    "organization_or_speaker": "FINOS AI Governance Framework contributors",
+    "date": "File date not stated; repository config labels v2, 2025-10-20 (not verified as date of every file)",
+    "type": ".md",
+    "bytes": 6386,
+    "sha256": "43d0efd8ac24163cfe3aa4edbaeb45d357a919567b96f0bdb402f22f609ff8ee",
+    "topics": "Risk catalogue entry",
+    "prior_review": "overview reviewed",
+    "review_status": "Selected sections reviewed",
+    "review_locators": [
+      "Front matter; Purpose/Summary; implementation/description and limitations excerpts"
+    ],
+    "limitations": [
+      "Community specification, not proof of company implementation or local legal applicability; selected excerpts reviewed, not every reference verified."
+    ],
+    "lines": 81,
+    "review_date": "2026-11-08",
+    "source_type": "community risk/control specification",
+    "specification_status": "Approved-Specification"
+  },
+  {
+    "id": "F82",
+    "filename": "ai-governance-framework-main/docs/_risks/ri-19_data-quality-and-drift.md",
+    "title": "Data Quality and Drift",
+    "organization_or_speaker": "FINOS AI Governance Framework contributors",
+    "date": "File date not stated; repository config labels v2, 2025-10-20 (not verified as date of every file)",
+    "type": ".md",
+    "bytes": 5946,
+    "sha256": "e3bbc76460b3d2a0198edbbad10c57ca339a589722d3e8af674e3a2401858f2d",
+    "topics": "Risk catalogue entry",
+    "prior_review": "overview reviewed",
+    "review_status": "Selected sections reviewed",
+    "review_locators": [
+      "Front matter; Purpose/Summary; implementation/description and limitations excerpts"
+    ],
+    "limitations": [
+      "Community specification, not proof of company implementation or local legal applicability; selected excerpts reviewed, not every reference verified."
+    ],
+    "lines": 70,
+    "review_date": "2026-11-08",
+    "source_type": "community risk/control specification",
+    "specification_status": "Approved-Specification"
+  },
+  {
+    "id": "F83",
+    "filename": "ai-governance-framework-main/docs/_risks/ri-1_information-leaked-to-hosted-model.md",
+    "title": "Information Leaked To Hosted Model",
+    "organization_or_speaker": "FINOS AI Governance Framework contributors",
+    "date": "File date not stated; repository config labels v2, 2025-10-20 (not verified as date of every file)",
+    "type": ".md",
+    "bytes": 7394,
+    "sha256": "4bd413e7538911d7b69229fa3dfb970bee00dbe72638634c66063936b2aec03d",
+    "topics": "Risk catalogue entry",
+    "prior_review": "overview reviewed",
+    "review_status": "Selected sections reviewed",
+    "review_locators": [
+      "Front matter; Purpose/Summary; implementation/description and limitations excerpts"
+    ],
+    "limitations": [
+      "Community specification, not proof of company implementation or local legal applicability; selected excerpts reviewed, not every reference verified."
+    ],
+    "lines": 93,
+    "review_date": "2026-11-08",
+    "source_type": "community risk/control specification",
+    "specification_status": "Approved-Specification"
+  },
+  {
+    "id": "F84",
+    "filename": "ai-governance-framework-main/docs/_risks/ri-20_reputational-risk.md",
+    "title": "Reputational Risk",
+    "organization_or_speaker": "FINOS AI Governance Framework contributors",
+    "date": "File date not stated; repository config labels v2, 2025-10-20 (not verified as date of every file)",
+    "type": ".md",
+    "bytes": 6106,
+    "sha256": "0a86c8964203ccebb2c5aef5d47f040458f1b4218a1e386091adc31204658faa",
+    "topics": "Risk catalogue entry",
+    "prior_review": "overview reviewed",
+    "review_status": "Selected sections reviewed",
+    "review_locators": [
+      "Front matter; Purpose/Summary; implementation/description and limitations excerpts"
+    ],
+    "limitations": [
+      "Community specification, not proof of company implementation or local legal applicability; selected excerpts reviewed, not every reference verified."
+    ],
+    "lines": 71,
+    "review_date": "2026-11-08",
+    "source_type": "community risk/control specification",
+    "specification_status": "Approved-Specification"
+  },
+  {
+    "id": "F85",
+    "filename": "ai-governance-framework-main/docs/_risks/ri-22_regulatory-compliance-and-oversight.md",
+    "title": "Regulatory Compliance and Oversight",
+    "organization_or_speaker": "FINOS AI Governance Framework contributors",
+    "date": "File date not stated; repository config labels v2, 2025-10-20 (not verified as date of every file)",
+    "type": ".md",
+    "bytes": 12862,
+    "sha256": "323283c799c640ba0e12990f4d75a2c30e7acb8ad4d2d4ba0bef9eed8ca20915",
+    "topics": "Risk catalogue entry",
+    "prior_review": "overview reviewed",
+    "review_status": "Selected sections reviewed",
+    "review_locators": [
+      "Front matter; Purpose/Summary; implementation/description and limitations excerpts"
+    ],
+    "limitations": [
+      "Community specification, not proof of company implementation or local legal applicability; selected excerpts reviewed, not every reference verified."
+    ],
+    "lines": 130,
+    "review_date": "2026-11-08",
+    "source_type": "community risk/control specification",
+    "specification_status": "Approved-Specification"
+  },
+  {
+    "id": "F86",
+    "filename": "ai-governance-framework-main/docs/_risks/ri-23_intellectual-property-ip-and-copyright.md",
+    "title": "Intellectual Property (IP) and Copyright",
+    "organization_or_speaker": "FINOS AI Governance Framework contributors",
+    "date": "File date not stated; repository config labels v2, 2025-10-20 (not verified as date of every file)",
+    "type": ".md",
+    "bytes": 3730,
+    "sha256": "45076ce7692da7a0facf813b8abcb708b15dfd862fcd4f4747da79fc35c42128",
+    "topics": "Risk catalogue entry",
+    "prior_review": "overview reviewed",
+    "review_status": "Selected sections reviewed",
+    "review_locators": [
+      "Front matter; Purpose/Summary; implementation/description and limitations excerpts"
+    ],
+    "limitations": [
+      "Community specification, not proof of company implementation or local legal applicability; selected excerpts reviewed, not every reference verified."
+    ],
+    "lines": 53,
+    "review_date": "2026-11-08",
+    "source_type": "community risk/control specification",
+    "specification_status": "Approved-Specification"
+  },
+  {
+    "id": "F87",
+    "filename": "ai-governance-framework-main/docs/_risks/ri-24_agent-action-authorization-bypass.md",
+    "title": "Agent Action Authorization Bypass",
+    "organization_or_speaker": "FINOS AI Governance Framework contributors",
+    "date": "File date not stated; repository config labels v2, 2025-10-20 (not verified as date of every file)",
+    "type": ".md",
+    "bytes": 5933,
+    "sha256": "47ea77d70ce5462b55fc9bb0726b164bc5d9f32359242dcf4a0ada3131e4b373",
+    "topics": "Risk catalogue entry",
+    "prior_review": "overview reviewed",
+    "review_status": "Selected sections reviewed",
+    "review_locators": [
+      "Front matter; Purpose/Summary; implementation/description and limitations excerpts"
+    ],
+    "limitations": [
+      "Community specification, not proof of company implementation or local legal applicability; selected excerpts reviewed, not every reference verified."
+    ],
+    "lines": 85,
+    "review_date": "2026-11-08",
+    "source_type": "community risk/control specification",
+    "specification_status": "Approved-Specification"
+  },
+  {
+    "id": "F88",
+    "filename": "ai-governance-framework-main/docs/_risks/ri-25_tool-chain-manipulation-and-injection.md",
+    "title": "Tool Chain Manipulation and Injection",
+    "organization_or_speaker": "FINOS AI Governance Framework contributors",
+    "date": "File date not stated; repository config labels v2, 2025-10-20 (not verified as date of every file)",
+    "type": ".md",
+    "bytes": 6715,
+    "sha256": "ce461fbae208202340131a517f9bf28c1a775b45b791516885bac209978c36c0",
+    "topics": "Risk catalogue entry",
+    "prior_review": "overview reviewed",
+    "review_status": "Selected sections reviewed",
+    "review_locators": [
+      "Front matter; Purpose/Summary; implementation/description and limitations excerpts"
+    ],
+    "limitations": [
+      "Community specification, not proof of company implementation or local legal applicability; selected excerpts reviewed, not every reference verified."
+    ],
+    "lines": 102,
+    "review_date": "2026-11-08",
+    "source_type": "community risk/control specification",
+    "specification_status": "Approved-Specification"
+  },
+  {
+    "id": "F89",
+    "filename": "ai-governance-framework-main/docs/_risks/ri-26_mcp-server-supply-chain-compromise.md",
+    "title": "MCP Server Supply Chain Compromise",
+    "organization_or_speaker": "FINOS AI Governance Framework contributors",
+    "date": "File date not stated; repository config labels v2, 2025-10-20 (not verified as date of every file)",
+    "type": ".md",
+    "bytes": 7157,
+    "sha256": "9b1307e94d86393b3fb251e4b5c7f7c9b8bb1e3179fefe5f14a0d99849c4fd05",
+    "topics": "Risk catalogue entry",
+    "prior_review": "overview reviewed",
+    "review_status": "Selected sections reviewed",
+    "review_locators": [
+      "Front matter; Purpose/Summary; implementation/description and limitations excerpts"
+    ],
+    "limitations": [
+      "Community specification, not proof of company implementation or local legal applicability; selected excerpts reviewed, not every reference verified."
+    ],
+    "lines": 102,
+    "review_date": "2026-11-08",
+    "source_type": "community risk/control specification",
+    "specification_status": "Approved-Specification"
+  },
+  {
+    "id": "F90",
+    "filename": "ai-governance-framework-main/docs/_risks/ri-27_agent-state-persistence-poisoning.md",
+    "title": "Agent State Persistence Poisoning",
+    "organization_or_speaker": "FINOS AI Governance Framework contributors",
+    "date": "File date not stated; repository config labels v2, 2025-10-20 (not verified as date of every file)",
+    "type": ".md",
+    "bytes": 7269,
+    "sha256": "9b7a3ac1df1d1d9ff2263efd21fb87e6cbbb3aac127baeefc80860de536196e5",
+    "topics": "Risk catalogue entry",
+    "prior_review": "overview reviewed",
+    "review_status": "Selected sections reviewed",
+    "review_locators": [
+      "Front matter; Purpose/Summary; implementation/description and limitations excerpts"
+    ],
+    "limitations": [
+      "Community specification, not proof of company implementation or local legal applicability; selected excerpts reviewed, not every reference verified."
+    ],
+    "lines": 109,
+    "review_date": "2026-11-08",
+    "source_type": "community risk/control specification",
+    "specification_status": "Approved-Specification"
+  },
+  {
+    "id": "F91",
+    "filename": "ai-governance-framework-main/docs/_risks/ri-28_multi-agent-trust-boundary-violations.md",
+    "title": "Multi-Agent Trust Boundary Violations",
+    "organization_or_speaker": "FINOS AI Governance Framework contributors",
+    "date": "File date not stated; repository config labels v2, 2025-10-20 (not verified as date of every file)",
+    "type": ".md",
+    "bytes": 7587,
+    "sha256": "c435fb7d3ae35b640954c1b010aeccc354677df64037983ecd8f82dce20bfd5c",
+    "topics": "Risk catalogue entry",
+    "prior_review": "overview reviewed",
+    "review_status": "Selected sections reviewed",
+    "review_locators": [
+      "Front matter; Purpose/Summary; implementation/description and limitations excerpts"
+    ],
+    "limitations": [
+      "Community specification, not proof of company implementation or local legal applicability; selected excerpts reviewed, not every reference verified."
+    ],
+    "lines": 103,
+    "review_date": "2026-11-08",
+    "source_type": "community risk/control specification",
+    "specification_status": "Approved-Specification"
+  },
+  {
+    "id": "F92",
+    "filename": "ai-governance-framework-main/docs/_risks/ri-29_agent-mediated-credential-discovery-and-harvesting.md",
+    "title": "Agent-Mediated Credential Discovery and Harvesting",
+    "organization_or_speaker": "FINOS AI Governance Framework contributors",
+    "date": "File date not stated; repository config labels v2, 2025-10-20 (not verified as date of every file)",
+    "type": ".md",
+    "bytes": 9327,
+    "sha256": "57f6d6d0674d49c41cc0e6936b938a8d138fd30e278e60325e1e84ed5d1226ac",
+    "topics": "Risk catalogue entry",
+    "prior_review": "overview reviewed",
+    "review_status": "Selected sections reviewed",
+    "review_locators": [
+      "Front matter; Purpose/Summary; implementation/description and limitations excerpts"
+    ],
+    "limitations": [
+      "Community specification, not proof of company implementation or local legal applicability; selected excerpts reviewed, not every reference verified."
+    ],
+    "lines": 121,
+    "review_date": "2026-11-08",
+    "source_type": "community risk/control specification",
+    "specification_status": "Approved-Specification"
+  },
+  {
+    "id": "F93",
+    "filename": "ai-governance-framework-main/docs/_risks/ri-2_information-leaked-to-vector-store.md",
+    "title": "Information Leaked to Vector Store",
+    "organization_or_speaker": "FINOS AI Governance Framework contributors",
+    "date": "File date not stated; repository config labels v2, 2025-10-20 (not verified as date of every file)",
+    "type": ".md",
+    "bytes": 7666,
+    "sha256": "5c41cde10ca8e3ed3aaddde0b39ce255c002cb8b44a39191cb605498552df99c",
+    "topics": "Risk catalogue entry",
+    "prior_review": "overview reviewed",
+    "review_status": "Selected sections reviewed",
+    "review_locators": [
+      "Front matter; Purpose/Summary; implementation/description and limitations excerpts"
+    ],
+    "limitations": [
+      "Community specification, not proof of company implementation or local legal applicability; selected excerpts reviewed, not every reference verified."
+    ],
+    "lines": 90,
+    "review_date": "2026-11-08",
+    "source_type": "community risk/control specification",
+    "specification_status": "Approved-Specification"
+  },
+  {
+    "id": "F94",
+    "filename": "ai-governance-framework-main/docs/_risks/ri-30_skill-plugin-supply-chain-compromise.md",
+    "title": "Skill/Plugin Supply Chain Compromise",
+    "organization_or_speaker": "FINOS AI Governance Framework contributors",
+    "date": "File date not stated; repository config labels v2, 2025-10-20 (not verified as date of every file)",
+    "type": ".md",
+    "bytes": 17070,
+    "sha256": "54b705f79b8a6b4c5a6141390b577c833ebbfe645eae60392644ff41c86afe24",
+    "topics": "Risk catalogue entry",
+    "prior_review": "overview reviewed",
+    "review_status": "Selected sections reviewed",
+    "review_locators": [
+      "Front matter; Purpose/Summary; implementation/description and limitations excerpts"
+    ],
+    "limitations": [
+      "Community specification, not proof of company implementation or local legal applicability; selected excerpts reviewed, not every reference verified."
+    ],
+    "lines": 151,
+    "review_date": "2026-11-08",
+    "source_type": "community risk/control specification",
+    "specification_status": "Draft"
+  },
+  {
+    "id": "F95",
+    "filename": "ai-governance-framework-main/docs/_risks/ri-4_hallucination-and-inaccurate-outputs.md",
+    "title": "Hallucination and Inaccurate Outputs",
+    "organization_or_speaker": "FINOS AI Governance Framework contributors",
+    "date": "File date not stated; repository config labels v2, 2025-10-20 (not verified as date of every file)",
+    "type": ".md",
+    "bytes": 5289,
+    "sha256": "8418c8683a52b9d1cd6364c3f61415b85b931608da4485fd3029c5a4d5239fc4",
+    "topics": "Risk catalogue entry",
+    "prior_review": "overview reviewed",
+    "review_status": "Selected sections reviewed",
+    "review_locators": [
+      "Front matter; Purpose/Summary; implementation/description and limitations excerpts"
+    ],
+    "limitations": [
+      "Community specification, not proof of company implementation or local legal applicability; selected excerpts reviewed, not every reference verified."
+    ],
+    "lines": 74,
+    "review_date": "2026-11-08",
+    "source_type": "community risk/control specification",
+    "specification_status": "Approved-Specification"
+  },
+  {
+    "id": "F96",
+    "filename": "ai-governance-framework-main/docs/_risks/ri-5_foundation-model-versioning.md",
+    "title": "Foundation Model Versioning",
+    "organization_or_speaker": "FINOS AI Governance Framework contributors",
+    "date": "File date not stated; repository config labels v2, 2025-10-20 (not verified as date of every file)",
+    "type": ".md",
+    "bytes": 5848,
+    "sha256": "079be99410ca1be118b4787707842f50624348adc47eccb4efcbb5c91714e2f5",
+    "topics": "Risk catalogue entry",
+    "prior_review": "overview reviewed",
+    "review_status": "Selected sections reviewed",
+    "review_locators": [
+      "Front matter; Purpose/Summary; implementation/description and limitations excerpts"
+    ],
+    "limitations": [
+      "Community specification, not proof of company implementation or local legal applicability; selected excerpts reviewed, not every reference verified."
+    ],
+    "lines": 76,
+    "review_date": "2026-11-08",
+    "source_type": "community risk/control specification",
+    "specification_status": "Approved-Specification"
+  },
+  {
+    "id": "F97",
+    "filename": "ai-governance-framework-main/docs/_risks/ri-6_non-deterministic-behaviour.md",
+    "title": "Non-Deterministic Behaviour",
+    "organization_or_speaker": "FINOS AI Governance Framework contributors",
+    "date": "File date not stated; repository config labels v2, 2025-10-20 (not verified as date of every file)",
+    "type": ".md",
+    "bytes": 4705,
+    "sha256": "7579698c91a4a72f854151c09d6830707a11907de4b035d742b84db50d8b2158",
+    "topics": "Risk catalogue entry",
+    "prior_review": "overview reviewed",
+    "review_status": "Selected sections reviewed",
+    "review_locators": [
+      "Front matter; Purpose/Summary; implementation/description and limitations excerpts"
+    ],
+    "limitations": [
+      "Community specification, not proof of company implementation or local legal applicability; selected excerpts reviewed, not every reference verified."
+    ],
+    "lines": 63,
+    "review_date": "2026-11-08",
+    "source_type": "community risk/control specification",
+    "specification_status": "Approved-Specification"
+  },
+  {
+    "id": "F98",
+    "filename": "ai-governance-framework-main/docs/_risks/ri-7_availability-of-foundational-model.md",
+    "title": "Availability of Foundational Model",
+    "organization_or_speaker": "FINOS AI Governance Framework contributors",
+    "date": "File date not stated; repository config labels v2, 2025-10-20 (not verified as date of every file)",
+    "type": ".md",
+    "bytes": 4358,
+    "sha256": "048f0ae98fbfb64f473af84e80121597cbd68f7294e44354d8bcafdd054b7fbe",
+    "topics": "Risk catalogue entry",
+    "prior_review": "overview reviewed",
+    "review_status": "Selected sections reviewed",
+    "review_locators": [
+      "Front matter; Purpose/Summary; implementation/description and limitations excerpts"
+    ],
+    "limitations": [
+      "Community specification, not proof of company implementation or local legal applicability; selected excerpts reviewed, not every reference verified."
+    ],
+    "lines": 56,
+    "review_date": "2026-11-08",
+    "source_type": "community risk/control specification",
+    "specification_status": "Approved-Specification"
+  },
+  {
+    "id": "F99",
+    "filename": "ai-governance-framework-main/docs/_risks/ri-8_tampering-with-the-foundational-model.md",
+    "title": "Tampering With the Foundational Model",
+    "organization_or_speaker": "FINOS AI Governance Framework contributors",
+    "date": "File date not stated; repository config labels v2, 2025-10-20 (not verified as date of every file)",
+    "type": ".md",
+    "bytes": 5513,
+    "sha256": "4b5fcdee43a7c499653ae6f99a09ec63591d4f66cda266f0d3f7c55784572d1d",
+    "topics": "Risk catalogue entry",
+    "prior_review": "overview reviewed",
+    "review_status": "Selected sections reviewed",
+    "review_locators": [
+      "Front matter; Purpose/Summary; implementation/description and limitations excerpts"
+    ],
+    "limitations": [
+      "Community specification, not proof of company implementation or local legal applicability; selected excerpts reviewed, not every reference verified."
+    ],
+    "lines": 55,
+    "review_date": "2026-11-08",
+    "source_type": "community risk/control specification",
+    "specification_status": "Approved-Specification"
+  },
+  {
+    "id": "F100",
+    "filename": "ai-governance-framework-main/docs/_risks/ri-9_data-poisoning.md",
+    "title": "Data Poisoning",
+    "organization_or_speaker": "FINOS AI Governance Framework contributors",
+    "date": "File date not stated; repository config labels v2, 2025-10-20 (not verified as date of every file)",
+    "type": ".md",
+    "bytes": 4033,
+    "sha256": "250c19feb170a835f7b16eb8c9cf0c71c514cc550ee5aa999ad58e65966c83bc",
+    "topics": "Risk catalogue entry",
+    "prior_review": "overview reviewed",
+    "review_status": "Selected sections reviewed",
+    "review_locators": [
+      "Front matter; Purpose/Summary; implementation/description and limitations excerpts"
+    ],
+    "limitations": [
+      "Community specification, not proof of company implementation or local legal applicability; selected excerpts reviewed, not every reference verified."
+    ],
+    "lines": 57,
+    "review_date": "2026-11-08",
+    "source_type": "community risk/control specification",
+    "specification_status": "Approved-Specification"
+  },
+  {
+    "id": "F101",
+    "filename": "ai-governance-framework-main/docs/_usecases/uc-1_credit-risk-analysis.md",
+    "title": "Credit Risk Analysis",
+    "organization_or_speaker": "FINOS AI Governance Framework contributors",
+    "date": "File date not stated; repository config labels v2, 2025-10-20 (not verified as date of every file)",
+    "type": ".md",
+    "bytes": 5530,
+    "sha256": "322a75f5d4912813128041d2c20b5460bbcc2f795df103aaaab7e0e6d5e5d734",
+    "topics": "Draft use-case example",
+    "prior_review": "overview reviewed",
+    "review_status": "Selected sections reviewed",
+    "review_locators": [
+      "Front matter, function, data sensitivity, regulatory concerns and risk sections"
+    ],
+    "limitations": [
+      "Draft/conceptual design; benefit statements and legal classifications are unverified, not production results."
+    ],
+    "lines": 110,
+    "review_date": "2026-11-08",
+    "source_type": "proposed use-case design/taxonomy"
+  },
+  {
+    "id": "F102",
+    "filename": "ai-governance-framework-main/docs/_usecases/uc-2_autonomous-wealth-management.md",
+    "title": "Autonomous Wealth Management",
+    "organization_or_speaker": "FINOS AI Governance Framework contributors",
+    "date": "File date not stated; repository config labels v2, 2025-10-20 (not verified as date of every file)",
+    "type": ".md",
+    "bytes": 8783,
+    "sha256": "6d86c226a742550c314db41167a78ed6e63f617ecc06f8fb52a6b7db2afe8833",
+    "topics": "Draft use-case example",
+    "prior_review": "fully reviewed",
+    "review_status": "Selected sections reviewed",
+    "review_locators": [
+      "Front matter, function, data sensitivity, regulatory concerns and risk sections"
+    ],
+    "limitations": [
+      "Draft/conceptual design; benefit statements and legal classifications are unverified, not production results."
+    ],
+    "lines": 138,
+    "review_date": "2026-11-08",
+    "source_type": "proposed use-case design/taxonomy"
+  },
+  {
+    "id": "F103",
+    "filename": "ai-governance-framework-main/docs/_usecases/uc-3_loan-approval.md",
+    "title": "Loan Approval",
+    "organization_or_speaker": "FINOS AI Governance Framework contributors",
+    "date": "File date not stated; repository config labels v2, 2025-10-20 (not verified as date of every file)",
+    "type": ".md",
+    "bytes": 8979,
+    "sha256": "a04db8cc0ce42745a2eefec090885fe559fa232d7a2e851be3a6e335ea0cccd3",
+    "topics": "Draft use-case example",
+    "prior_review": "overview reviewed",
+    "review_status": "Selected sections reviewed",
+    "review_locators": [
+      "Front matter, function, data sensitivity, regulatory concerns and risk sections"
+    ],
+    "limitations": [
+      "Draft/conceptual design; benefit statements and legal classifications are unverified, not production results."
+    ],
+    "lines": 127,
+    "review_date": "2026-11-08",
+    "source_type": "proposed use-case design/taxonomy"
+  },
+  {
+    "id": "F104",
+    "filename": "ai-governance-framework-main/docs/_usecases/uc-4_anti-financial-crime-investigation.md",
+    "title": "Anti-Financial Crime Investigation",
+    "organization_or_speaker": "FINOS AI Governance Framework contributors",
+    "date": "File date not stated; repository config labels v2, 2025-10-20 (not verified as date of every file)",
+    "type": ".md",
+    "bytes": 13387,
+    "sha256": "c48bb7133d2dcf642e498d16f2d38a060ab9ca639f84390d9d61f2955607229d",
+    "topics": "Draft use-case example",
+    "prior_review": "overview reviewed",
+    "review_status": "Selected sections reviewed",
+    "review_locators": [
+      "Front matter, function, data sensitivity, regulatory concerns and risk sections"
+    ],
+    "limitations": [
+      "Draft/conceptual design; benefit statements and legal classifications are unverified, not production results."
+    ],
+    "lines": 163,
+    "review_date": "2026-11-08",
+    "source_type": "proposed use-case design/taxonomy"
+  },
+  {
+    "id": "F105",
+    "filename": "ai-governance-framework-main/docs/_usecases/uc-index.md",
+    "title": "AI in Finance — Use Case Taxonomy ",
+    "organization_or_speaker": "FINOS AI Governance Framework contributors",
+    "date": "File date not stated; repository config labels v2, 2025-10-20 (not verified as date of every file)",
+    "type": ".md",
+    "bytes": 8614,
+    "sha256": "eea6fab8488b73a4ca8629e8b11662d5d92fc31d8b0cd9d4e52c6b12835f4871",
+    "topics": "Use-case taxonomy",
+    "prior_review": "overview reviewed",
+    "review_status": "Selected sections reviewed",
+    "review_locators": [
+      "Front matter, function, data sensitivity, regulatory concerns and risk sections"
+    ],
+    "limitations": [
+      "Draft/conceptual design; benefit statements and legal classifications are unverified, not production results."
+    ],
+    "lines": 168,
+    "review_date": "2026-11-08",
+    "source_type": "proposed use-case design/taxonomy"
+  },
+  {
+    "id": "F106",
+    "filename": "ai-governance-framework-main/docs/AIReadiness_Logo_Horizontal_FINOS.jpg",
+    "title": "AIReadiness_Logo_Horizontal_FINOS.jpg",
+    "organization_or_speaker": "FINOS repository contributors",
+    "date": "Snapshot date/release not established; individual publication date not stated",
+    "type": ".jpg",
+    "bytes": 18476,
+    "sha256": "c6c66da2c3abbe9144137397741833219c734690b8c9709801e57931bb3fe6b5",
+    "topics": "Repository support material",
+    "prior_review": "not reviewed as evidence",
+    "review_status": "Visually reviewed",
+    "review_locators": [
+      "Entire standalone image"
+    ],
+    "limitations": [
+      "Branding only; no substantive implementation evidence"
+    ],
+    "review_date": "2026-11-08",
+    "parent_source": "FINOS repository branding",
+    "source_type": "diagram or image"
+  },
+  {
+    "id": "F107",
+    "filename": "ai-governance-framework-main/docs/audience.md",
+    "title": "Intended Audience",
+    "organization_or_speaker": "FINOS AI Governance Framework contributors",
+    "date": "File date not stated; repository config labels v2, 2025-10-20 (not verified as date of every file)",
+    "type": ".md",
+    "bytes": 1895,
+    "sha256": "8d51c6e9165168750c7822f477dce39b8e61df4af8f686aa64b929cd8cf4bcc9",
+    "topics": "Framework orientation / method",
+    "prior_review": "fully reviewed",
+    "review_status": "Overview reviewed",
+    "review_locators": [
+      "Header, purpose or structure and headings"
+    ],
+    "limitations": [],
+    "lines": 14,
+    "review_date": "2026-11-08",
+    "source_type": "repository support material"
+  },
+  {
+    "id": "F108",
+    "filename": "ai-governance-framework-main/docs/CNAME",
+    "title": "CNAME",
+    "organization_or_speaker": "FINOS AI Governance Framework contributors",
+    "date": "File date not stated; repository config labels v2, 2025-10-20 (not verified as date of every file)",
+    "type": "plain text/support",
+    "bytes": 34,
+    "sha256": "8b4f5c118836d29489c4c9115ad1a319b5169fa50173fde91a836f6dad34c753",
+    "topics": "Repository support material",
+    "prior_review": "not reviewed as evidence",
+    "review_status": "Overview reviewed",
+    "review_locators": [
+      "Header, purpose or structure and headings"
+    ],
+    "limitations": [],
+    "lines": 1,
+    "review_date": "2026-11-08",
+    "source_type": "repository support material"
+  },
+  {
+    "id": "F109",
+    "filename": "ai-governance-framework-main/docs/favicon.ico",
+    "title": "favicon.ico",
+    "organization_or_speaker": "FINOS repository contributors",
+    "date": "Snapshot date/release not established; individual publication date not stated",
+    "type": ".ico",
+    "bytes": 15406,
+    "sha256": "87f89e4e660c677d32dbe20f728445993cb3ec3118d878d767f847e1a5c65684",
+    "topics": "Repository support material",
+    "prior_review": "not reviewed as evidence",
+    "review_status": "Visually reviewed",
+    "review_locators": [
+      "Entire standalone image"
+    ],
+    "limitations": [
+      "ICO converted locally to PNG for viewing; logo only."
+    ],
+    "review_date": "2026-11-08",
+    "parent_source": "FINOS repository branding",
+    "source_type": "diagram or image"
+  },
+  {
+    "id": "F110",
+    "filename": "ai-governance-framework-main/docs/heuristic-assessment.md",
+    "title": "A heuristic approach to identifying GenAI risks",
+    "organization_or_speaker": "FINOS AI Governance Framework contributors",
+    "date": "File date not stated; repository config labels v2, 2025-10-20 (not verified as date of every file)",
+    "type": ".md",
+    "bytes": 12423,
+    "sha256": "a8af863fa74b51dcd04f9615a2fb7c7b030e4418845bfdd4f3a85dccf5e1869d",
+    "topics": "Framework orientation / method",
+    "prior_review": "fully reviewed",
+    "review_status": "Selected sections reviewed",
+    "review_locators": [
+      "Assessment/governance/project purpose and structure"
+    ],
+    "limitations": [
+      "Project governance and framework guidance are distinct from adopting-organization governance."
+    ],
+    "lines": 108,
+    "review_date": "2026-11-08",
+    "source_type": "repository support material"
+  },
+  {
+    "id": "F111",
+    "filename": "ai-governance-framework-main/docs/index.md",
+    "title": "FINOS AI Governance Framework",
+    "organization_or_speaker": "FINOS AI Governance Framework contributors",
+    "date": "File date not stated; repository config labels v2, 2025-10-20 (not verified as date of every file)",
+    "type": ".md",
+    "bytes": 1344,
+    "sha256": "bfe4f1297f04f190af08d6e4199415327a6b27d0d16e6168784911093052e3c5",
+    "topics": "Framework orientation / method",
+    "prior_review": "fully reviewed",
+    "review_status": "Overview reviewed",
+    "review_locators": [
+      "Header, purpose or structure and headings"
+    ],
+    "limitations": [],
+    "lines": 20,
+    "review_date": "2026-11-08",
+    "source_type": "repository support material"
+  },
+  {
+    "id": "F112",
+    "filename": "ai-governance-framework-main/docs/propose-use-case.md",
+    "title": "Propose a Use Case",
+    "organization_or_speaker": "FINOS AI Governance Framework contributors",
+    "date": "File date not stated; repository config labels v2, 2025-10-20 (not verified as date of every file)",
+    "type": ".md",
+    "bytes": 14807,
+    "sha256": "502f1e87ba8880a48ffa4ec71fc8f32643c97e90ab005ce8045f5edfa2db3e0f",
+    "topics": "Catalogue/contribution web template",
+    "prior_review": "overview reviewed",
+    "review_status": "Overview reviewed",
+    "review_locators": [
+      "Header, purpose or structure and headings"
+    ],
+    "limitations": [],
+    "lines": 261,
+    "review_date": "2026-11-08",
+    "source_type": "repository support material"
+  },
+  {
+    "id": "F113",
+    "filename": "ai-governance-framework-main/docs/references/atr.html",
+    "title": "atr.html",
+    "organization_or_speaker": "FINOS AI Governance Framework contributors",
+    "date": "File date not stated; repository config labels v2, 2025-10-20 (not verified as date of every file)",
+    "type": ".html",
+    "bytes": 39,
+    "sha256": "7ca019b0122ea80acd820165327a3b82da1a3c71ca2b222546b5f23e84936ce8",
+    "topics": "Reference rendering wrapper",
+    "prior_review": "not reviewed as evidence",
+    "review_status": "Overview reviewed",
+    "review_locators": [
+      "Header, purpose or structure and headings"
+    ],
+    "limitations": [],
+    "lines": 4,
+    "review_date": "2026-11-08",
+    "source_type": "repository support material"
+  },
+  {
+    "id": "F114",
+    "filename": "ai-governance-framework-main/docs/references/canada-regulations.html",
+    "title": "canada-regulations.html",
+    "organization_or_speaker": "FINOS AI Governance Framework contributors",
+    "date": "File date not stated; repository config labels v2, 2025-10-20 (not verified as date of every file)",
+    "type": ".html",
+    "bytes": 54,
+    "sha256": "c24fcf067132b8dfc841500cd2a780721c645bc17cba7c7a77d5067968752375",
+    "topics": "Reference rendering wrapper",
+    "prior_review": "not reviewed as evidence",
+    "review_status": "Overview reviewed",
+    "review_locators": [
+      "Header, purpose or structure and headings"
+    ],
+    "limitations": [],
+    "lines": 4,
+    "review_date": "2026-11-08",
+    "source_type": "repository support material"
+  },
+  {
+    "id": "F115",
+    "filename": "ai-governance-framework-main/docs/references/eu-ai-act.html",
+    "title": "eu-ai-act.html",
+    "organization_or_speaker": "FINOS AI Governance Framework contributors",
+    "date": "File date not stated; repository config labels v2, 2025-10-20 (not verified as date of every file)",
+    "type": ".html",
+    "bytes": 45,
+    "sha256": "a4569be388c208570d82c0cfc8d99e67b706d4272f332ce100de9b4f78cde6d7",
+    "topics": "Reference rendering wrapper",
+    "prior_review": "fully reviewed",
+    "review_status": "Overview reviewed",
+    "review_locators": [
+      "Header, purpose or structure and headings"
+    ],
+    "limitations": [],
+    "lines": 4,
+    "review_date": "2026-11-08",
+    "source_type": "repository support material"
+  },
+  {
+    "id": "F116",
+    "filename": "ai-governance-framework-main/docs/references/ffiec-itbooklets.html",
+    "title": "ffiec-itbooklets.html",
+    "organization_or_speaker": "FINOS AI Governance Framework contributors",
+    "date": "File date not stated; repository config labels v2, 2025-10-20 (not verified as date of every file)",
+    "type": ".html",
+    "bytes": 52,
+    "sha256": "ebd5c0c158500a67843335ac32712e257ab9e0c45c79bb70a22b23455da7f889",
+    "topics": "Reference rendering wrapper",
+    "prior_review": "not reviewed as evidence",
+    "review_status": "Overview reviewed",
+    "review_locators": [
+      "Header, purpose or structure and headings"
+    ],
+    "limitations": [],
+    "lines": 4,
+    "review_date": "2026-11-08",
+    "source_type": "repository support material"
+  },
+  {
+    "id": "F117",
+    "filename": "ai-governance-framework-main/docs/references/index.html",
+    "title": "Regulatory References",
+    "organization_or_speaker": "FINOS AI Governance Framework contributors",
+    "date": "File date not stated; repository config labels v2, 2025-10-20 (not verified as date of every file)",
+    "type": ".html",
+    "bytes": 2222,
+    "sha256": "f44fbb9ef9370f60365aee7ad954ef19b34992234cacd033e6358a97d36d9946",
+    "topics": "Reference rendering wrapper",
+    "prior_review": "not reviewed as evidence",
+    "review_status": "Overview reviewed",
+    "review_locators": [
+      "Header, purpose or structure and headings"
+    ],
+    "limitations": [],
+    "lines": 49,
+    "review_date": "2026-11-08",
+    "source_type": "repository support material"
+  },
+  {
+    "id": "F118",
+    "filename": "ai-governance-framework-main/docs/references/iosco-supervisory-toolkit.html",
+    "title": "iosco-supervisory-toolkit.html",
+    "organization_or_speaker": "FINOS AI Governance Framework contributors",
+    "date": "File date not stated; repository config labels v2, 2025-10-20 (not verified as date of every file)",
+    "type": ".html",
+    "bytes": 61,
+    "sha256": "ae3228546cd7cc0ab00835b72eb3d79af6ed2932bf7c24e20e4688e61c379a6c",
+    "topics": "Reference rendering wrapper",
+    "prior_review": "not reviewed as evidence",
+    "review_status": "Overview reviewed",
+    "review_locators": [
+      "Header, purpose or structure and headings"
+    ],
+    "limitations": [],
+    "lines": 4,
+    "review_date": "2026-11-08",
+    "source_type": "repository support material"
+  },
+  {
+    "id": "F119",
+    "filename": "ai-governance-framework-main/docs/references/iso-42001.html",
+    "title": "iso-42001.html",
+    "organization_or_speaker": "FINOS AI Governance Framework contributors",
+    "date": "File date not stated; repository config labels v2, 2025-10-20 (not verified as date of every file)",
+    "type": ".html",
+    "bytes": 45,
+    "sha256": "fd5d59e947c93970b9c81cda771bcb4d5cb57dfd6bcc2538957ed537b5490357",
+    "topics": "Reference rendering wrapper",
+    "prior_review": "not reviewed as evidence",
+    "review_status": "Overview reviewed",
+    "review_locators": [
+      "Header, purpose or structure and headings"
+    ],
+    "limitations": [],
+    "lines": 4,
+    "review_date": "2026-11-08",
+    "source_type": "repository support material"
+  },
+  {
+    "id": "F120",
+    "filename": "ai-governance-framework-main/docs/references/nist-ai-600-1.html",
+    "title": "nist-ai-600-1.html",
+    "organization_or_speaker": "FINOS AI Governance Framework contributors",
+    "date": "File date not stated; repository config labels v2, 2025-10-20 (not verified as date of every file)",
+    "type": ".html",
+    "bytes": 49,
+    "sha256": "3659d89e369dbd5ccc7f5f898821d1b11c2fdfd7a720e008a44acad406d2f101",
+    "topics": "Reference rendering wrapper",
+    "prior_review": "not reviewed as evidence",
+    "review_status": "Overview reviewed",
+    "review_locators": [
+      "Header, purpose or structure and headings"
+    ],
+    "limitations": [],
+    "lines": 4,
+    "review_date": "2026-11-08",
+    "source_type": "repository support material"
+  },
+  {
+    "id": "F121",
+    "filename": "ai-governance-framework-main/docs/references/nist-sp-800-53r5.html",
+    "title": "nist-sp-800-53r5.html",
+    "organization_or_speaker": "FINOS AI Governance Framework contributors",
+    "date": "File date not stated; repository config labels v2, 2025-10-20 (not verified as date of every file)",
+    "type": ".html",
+    "bytes": 52,
+    "sha256": "e0ef14a8a74f5e6aae0e3e372bed282f2e80e2fcf83d92817f6235adabe438e0",
+    "topics": "Reference rendering wrapper",
+    "prior_review": "not reviewed as evidence",
+    "review_status": "Overview reviewed",
+    "review_locators": [
+      "Header, purpose or structure and headings"
+    ],
+    "limitations": [],
+    "lines": 4,
+    "review_date": "2026-11-08",
+    "source_type": "repository support material"
+  },
+  {
+    "id": "F122",
+    "filename": "ai-governance-framework-main/docs/references/owasp-asi.html",
+    "title": "owasp-asi.html",
+    "organization_or_speaker": "FINOS AI Governance Framework contributors",
+    "date": "File date not stated; repository config labels v2, 2025-10-20 (not verified as date of every file)",
+    "type": ".html",
+    "bytes": 45,
+    "sha256": "6a8e2c50499d8ba32c8f099a4299aaf39b73acfa0643222871ef2e31a4cb34ce",
+    "topics": "Reference rendering wrapper",
+    "prior_review": "not reviewed as evidence",
+    "review_status": "Overview reviewed",
+    "review_locators": [
+      "Header, purpose or structure and headings"
+    ],
+    "limitations": [],
+    "lines": 4,
+    "review_date": "2026-11-08",
+    "source_type": "repository support material"
+  },
+  {
+    "id": "F123",
+    "filename": "ai-governance-framework-main/docs/references/owasp-llm.html",
+    "title": "owasp-llm.html",
+    "organization_or_speaker": "FINOS AI Governance Framework contributors",
+    "date": "File date not stated; repository config labels v2, 2025-10-20 (not verified as date of every file)",
+    "type": ".html",
+    "bytes": 45,
+    "sha256": "5266d95899767667bee7d1acc42e67cad5347f927926770858660b1e7a65aa85",
+    "topics": "Reference rendering wrapper",
+    "prior_review": "not reviewed as evidence",
+    "review_status": "Overview reviewed",
+    "review_locators": [
+      "Header, purpose or structure and headings"
+    ],
+    "limitations": [],
+    "lines": 4,
+    "review_date": "2026-11-08",
+    "source_type": "repository support material"
+  },
+  {
+    "id": "F124",
+    "filename": "ai-governance-framework-main/docs/references/owasp-ml.html",
+    "title": "owasp-ml.html",
+    "organization_or_speaker": "FINOS AI Governance Framework contributors",
+    "date": "File date not stated; repository config labels v2, 2025-10-20 (not verified as date of every file)",
+    "type": ".html",
+    "bytes": 44,
+    "sha256": "8ca9a7e777783619a6ede99d43b5864abc4e3be521f99e65bb4837f1f3a3eb63",
+    "topics": "Reference rendering wrapper",
+    "prior_review": "not reviewed as evidence",
+    "review_status": "Overview reviewed",
+    "review_locators": [
+      "Header, purpose or structure and headings"
+    ],
+    "limitations": [],
+    "lines": 4,
+    "review_date": "2026-11-08",
+    "source_type": "repository support material"
+  },
+  {
+    "id": "F125",
+    "filename": "ai-governance-framework-main/docs/references/sr11-7.html",
+    "title": "sr11-7.html",
+    "organization_or_speaker": "FINOS AI Governance Framework contributors",
+    "date": "File date not stated; repository config labels v2, 2025-10-20 (not verified as date of every file)",
+    "type": ".html",
+    "bytes": 42,
+    "sha256": "cf603d4e28cdb3bc54b9b25242f6e4dc37db8ef7671153759da9554d632d072c",
+    "topics": "Reference rendering wrapper",
+    "prior_review": "not reviewed as evidence",
+    "review_status": "Overview reviewed",
+    "review_locators": [
+      "Header, purpose or structure and headings"
+    ],
+    "limitations": [],
+    "lines": 4,
+    "review_date": "2026-11-08",
+    "source_type": "repository support material"
+  },
+  {
+    "id": "F126",
+    "filename": "ai-governance-framework-main/docs/references/uk-regulations.html",
+    "title": "uk-regulations.html",
+    "organization_or_speaker": "FINOS AI Governance Framework contributors",
+    "date": "File date not stated; repository config labels v2, 2025-10-20 (not verified as date of every file)",
+    "type": ".html",
+    "bytes": 50,
+    "sha256": "8d84205871ae3918a448bb21a3f9195ef3da545f09d5318993c1f18fab39a8ae",
+    "topics": "Reference rendering wrapper",
+    "prior_review": "not reviewed as evidence",
+    "review_status": "Overview reviewed",
+    "review_locators": [
+      "Header, purpose or structure and headings"
+    ],
+    "limitations": [],
+    "lines": 4,
+    "review_date": "2026-11-08",
+    "source_type": "repository support material"
+  },
+  {
+    "id": "F127",
+    "filename": "ai-governance-framework-main/docs/single-page.html",
+    "title": "FINOS AI Governance Framework",
+    "organization_or_speaker": "FINOS AI Governance Framework contributors",
+    "date": "File date not stated; repository config labels v2, 2025-10-20 (not verified as date of every file)",
+    "type": ".html",
+    "bytes": 4551,
+    "sha256": "a158c077937106be278c517e985999d28c9fa9f5d11f3df851de5dda1820697e",
+    "topics": "Repository support material",
+    "prior_review": "not reviewed as evidence",
+    "review_status": "Overview reviewed",
+    "review_locators": [
+      "Header, purpose or structure and headings"
+    ],
+    "limitations": [],
+    "lines": 112,
+    "review_date": "2026-11-08",
+    "source_type": "repository support material"
+  },
+  {
+    "id": "F128",
+    "filename": "ai-governance-framework-main/docs/style.css",
+    "title": "style.css",
+    "organization_or_speaker": "FINOS AI Governance Framework contributors",
+    "date": "File date not stated; repository config labels v2, 2025-10-20 (not verified as date of every file)",
+    "type": ".css",
+    "bytes": 6811,
+    "sha256": "120870f7c27418b3b6900850704fdcaa59f775ec93efd4933765d002f7ce44f4",
+    "topics": "Repository support material",
+    "prior_review": "not reviewed as evidence",
+    "review_status": "Overview reviewed",
+    "review_locators": [
+      "Header, purpose or structure and headings"
+    ],
+    "limitations": [],
+    "lines": 352,
+    "review_date": "2026-11-08",
+    "source_type": "repository support material"
+  },
+  {
+    "id": "F129",
+    "filename": "ai-governance-framework-main/docs/use-cases.md",
+    "title": "AI Use Cases Catalogue",
+    "organization_or_speaker": "FINOS AI Governance Framework contributors",
+    "date": "File date not stated; repository config labels v2, 2025-10-20 (not verified as date of every file)",
+    "type": ".md",
+    "bytes": 7938,
+    "sha256": "438a8191402ba5da193fd0abd55a5b97be6d933397cbc120d45ba633f3d7feaa",
+    "topics": "Catalogue/contribution web template",
+    "prior_review": "overview reviewed",
+    "review_status": "Overview reviewed",
+    "review_locators": [
+      "Header, purpose or structure and headings"
+    ],
+    "limitations": [],
+    "lines": 168,
+    "review_date": "2026-11-08",
+    "source_type": "repository support material"
+  },
+  {
+    "id": "F130",
+    "filename": "ai-governance-framework-main/docs/value-prop.md",
+    "title": "Value Proposition",
+    "organization_or_speaker": "FINOS AI Governance Framework contributors",
+    "date": "File date not stated; repository config labels v2, 2025-10-20 (not verified as date of every file)",
+    "type": ".md",
+    "bytes": 4033,
+    "sha256": "04bb6581078d9f8364323507ea19c3c9029b0ee24b1141fc3ea5f00a5550de31",
+    "topics": "Framework orientation / method",
+    "prior_review": "fully reviewed",
+    "review_status": "Selected sections reviewed",
+    "review_locators": [
+      "Assessment/governance/project purpose and structure"
+    ],
+    "limitations": [
+      "Project governance and framework guidance are distinct from adopting-organization governance."
+    ],
+    "lines": 28,
+    "review_date": "2026-11-08",
+    "source_type": "repository support material"
+  },
+  {
+    "id": "F131",
+    "filename": "ai-governance-framework-main/GOVERNANCE.md",
+    "title": "AI Governance Framework Governance Policy",
+    "organization_or_speaker": "FINOS AI Governance Framework contributors",
+    "date": "File date not stated; repository config labels v2, 2025-10-20 (not verified as date of every file)",
+    "type": ".md",
+    "bytes": 8926,
+    "sha256": "a208b55bda0d6cd8e6819da94f1855f2a7a3ba1828cfc3ee29c85d5ed4e53f04",
+    "topics": "Repository support material",
+    "prior_review": "not reviewed as evidence",
+    "review_status": "Selected sections reviewed",
+    "review_locators": [
+      "Assessment/governance/project purpose and structure"
+    ],
+    "limitations": [
+      "Project governance and framework guidance are distinct from adopting-organization governance."
+    ],
+    "lines": 71,
+    "review_date": "2026-11-08",
+    "source_type": "repository support material"
+  },
+  {
+    "id": "F132",
+    "filename": "ai-governance-framework-main/LICENSE",
+    "title": "LICENSE",
+    "organization_or_speaker": "FINOS AI Governance Framework contributors",
+    "date": "File date not stated; repository config labels v2, 2025-10-20 (not verified as date of every file)",
+    "type": "plain text/support",
+    "bytes": 18650,
+    "sha256": "7e7170e3cebf88a9f60c7b8421418323c09304da1af4d5e90f4da1dc1c8a2661",
+    "topics": "Repository support material",
+    "prior_review": "not reviewed as evidence",
+    "review_status": "Overview reviewed",
+    "review_locators": [
+      "Header, purpose or structure and headings"
+    ],
+    "limitations": [],
+    "lines": 395,
+    "review_date": "2026-11-08",
+    "source_type": "repository support material"
+  },
+  {
+    "id": "F133",
+    "filename": "ai-governance-framework-main/LICENSE.spdx",
+    "title": "LICENSE.spdx",
+    "organization_or_speaker": "FINOS AI Governance Framework contributors",
+    "date": "File date not stated; repository config labels v2, 2025-10-20 (not verified as date of every file)",
+    "type": ".spdx",
+    "bytes": 220,
+    "sha256": "5e39101f7262c60077a14816d337ae0d966ba9aeed3ca07c0bd3f8ded04b452c",
+    "topics": "Repository support material",
+    "prior_review": "not reviewed as evidence",
+    "review_status": "Overview reviewed",
+    "review_locators": [
+      "Header, purpose or structure and headings"
+    ],
+    "limitations": [],
+    "lines": 7,
+    "review_date": "2026-11-08",
+    "source_type": "repository support material"
+  },
+  {
+    "id": "F134",
+    "filename": "ai-governance-framework-main/MAINTAINERS.md",
+    "title": "Maintainers",
+    "organization_or_speaker": "FINOS AI Governance Framework contributors",
+    "date": "File date not stated; repository config labels v2, 2025-10-20 (not verified as date of every file)",
+    "type": ".md",
+    "bytes": 1473,
+    "sha256": "b02c0bf367e1979c989e40248d7802f3340b8ab43a9f1b72f3bfc96bcbb1b23e",
+    "topics": "Repository support material",
+    "prior_review": "not reviewed as evidence",
+    "review_status": "Overview reviewed",
+    "review_locators": [
+      "Header, purpose or structure and headings"
+    ],
+    "limitations": [],
+    "lines": 28,
+    "review_date": "2026-11-08",
+    "source_type": "repository support material"
+  },
+  {
+    "id": "F135",
+    "filename": "ai-governance-framework-main/NOTICE",
+    "title": "NOTICE",
+    "organization_or_speaker": "FINOS AI Governance Framework contributors",
+    "date": "File date not stated; repository config labels v2, 2025-10-20 (not verified as date of every file)",
+    "type": "plain text/support",
+    "bytes": 876,
+    "sha256": "6a01daa9ad52b591af6b1b7b7f2d8964129a1ec9bdb3652fc3dd6f3a1b329761",
+    "topics": "Repository support material",
+    "prior_review": "not reviewed as evidence",
+    "review_status": "Overview reviewed",
+    "review_locators": [
+      "Header, purpose or structure and headings"
+    ],
+    "limitations": [],
+    "lines": 12,
+    "review_date": "2026-11-08",
+    "source_type": "repository support material"
+  },
+  {
+    "id": "F136",
+    "filename": "ai-governance-framework-main/README.md",
+    "title": "AI Governance Framework ",
+    "organization_or_speaker": "FINOS AI Governance Framework contributors",
+    "date": "File date not stated; repository config labels v2, 2025-10-20 (not verified as date of every file)",
+    "type": ".md",
+    "bytes": 9348,
+    "sha256": "bbdfdd5552513a376c5b875da83c67a7bb0f25120cb96b21075155aaf863009b",
+    "topics": "Framework orientation / method",
+    "prior_review": "fully reviewed",
+    "review_status": "Selected sections reviewed",
+    "review_locators": [
+      "Assessment/governance/project purpose and structure"
+    ],
+    "limitations": [
+      "Project governance and framework guidance are distinct from adopting-organization governance."
+    ],
+    "lines": 120,
+    "review_date": "2026-11-08",
+    "source_type": "repository support material"
+  },
+  {
+    "id": "F137",
+    "filename": "ai-governance-framework-main/scripts/annotate_yaml_front_matter.py",
+    "title": "annotate_yaml_front_matter.py",
+    "organization_or_speaker": "FINOS AI Governance Framework contributors",
+    "date": "File date not stated; repository config labels v2, 2025-10-20 (not verified as date of every file)",
+    "type": ".py",
+    "bytes": 8773,
+    "sha256": "b82cae2145ccc6ee764ddba6419e30fd5fb8e12b2bbb9e8dc0c988d2387ec8a1",
+    "topics": "Repository support material",
+    "prior_review": "not reviewed as evidence",
+    "review_status": "Overview reviewed",
+    "review_locators": [
+      "Header, purpose or structure and headings"
+    ],
+    "limitations": [
+      "Purpose, interfaces and structure inspected; not executed or security-audited."
+    ],
+    "lines": 249,
+    "review_date": "2026-11-08",
+    "source_type": "maintenance code"
+  },
+  {
+    "id": "F138",
+    "filename": "ai-governance-framework-main/scripts/dl_eu-ai-act.py",
+    "title": "dl_eu-ai-act.py",
+    "organization_or_speaker": "FINOS AI Governance Framework contributors",
+    "date": "File date not stated; repository config labels v2, 2025-10-20 (not verified as date of every file)",
+    "type": ".py",
+    "bytes": 17265,
+    "sha256": "791f276cb875c71deb733e2e79a5adf8b17594b3a5c02dc6b9dcd49c77a68d77",
+    "topics": "Repository support material",
+    "prior_review": "not reviewed as evidence",
+    "review_status": "Overview reviewed",
+    "review_locators": [
+      "Header, purpose or structure and headings"
+    ],
+    "limitations": [
+      "Purpose, interfaces and structure inspected; not executed or security-audited."
+    ],
+    "lines": 490,
+    "review_date": "2026-11-08",
+    "source_type": "maintenance code"
+  },
+  {
+    "id": "F139",
+    "filename": "ai-governance-framework-main/scripts/dl_ffiec-itbooklets.py",
+    "title": "dl_ffiec-itbooklets.py",
+    "organization_or_speaker": "FINOS AI Governance Framework contributors",
+    "date": "File date not stated; repository config labels v2, 2025-10-20 (not verified as date of every file)",
+    "type": ".py",
+    "bytes": 19421,
+    "sha256": "fac6a75cbe678aaa9cbdca9a7db01dca90f703304dd5dbe3a4b570e255a47e2c",
+    "topics": "Repository support material",
+    "prior_review": "not reviewed as evidence",
+    "review_status": "Overview reviewed",
+    "review_locators": [
+      "Header, purpose or structure and headings"
+    ],
+    "limitations": [
+      "Purpose, interfaces and structure inspected; not executed or security-audited."
+    ],
+    "lines": 536,
+    "review_date": "2026-11-08",
+    "source_type": "maintenance code"
+  },
+  {
+    "id": "F140",
+    "filename": "ai-governance-framework-main/scripts/dl_nist-pdfs.py",
+    "title": "dl_nist-pdfs.py",
+    "organization_or_speaker": "FINOS AI Governance Framework contributors",
+    "date": "File date not stated; repository config labels v2, 2025-10-20 (not verified as date of every file)",
+    "type": ".py",
+    "bytes": 25819,
+    "sha256": "da8f85a64481b542f8531f544ee5f593d3f3314f0eb8c7c46d300db47f9963b5",
+    "topics": "Repository support material",
+    "prior_review": "not reviewed as evidence",
+    "review_status": "Overview reviewed",
+    "review_locators": [
+      "Header, purpose or structure and headings"
+    ],
+    "limitations": [
+      "Purpose, interfaces and structure inspected; not executed or security-audited."
+    ],
+    "lines": 676,
+    "review_date": "2026-11-08",
+    "source_type": "maintenance code"
+  },
+  {
+    "id": "F141",
+    "filename": "ai-governance-framework-main/scripts/dl_owasp.py",
+    "title": "dl_owasp.py",
+    "organization_or_speaker": "FINOS AI Governance Framework contributors",
+    "date": "File date not stated; repository config labels v2, 2025-10-20 (not verified as date of every file)",
+    "type": ".py",
+    "bytes": 11740,
+    "sha256": "710b3f4e5cfa3a8348947929cb58a25187b181256db1f349397dda162737d559",
+    "topics": "Repository support material",
+    "prior_review": "not reviewed as evidence",
+    "review_status": "Overview reviewed",
+    "review_locators": [
+      "Header, purpose or structure and headings"
+    ],
+    "limitations": [
+      "Purpose, interfaces and structure inspected; not executed or security-audited."
+    ],
+    "lines": 325,
+    "review_date": "2026-11-08",
+    "source_type": "maintenance code"
+  },
+  {
+    "id": "F142",
+    "filename": "ai-governance-framework-main/scripts/lint-check",
+    "title": "lint-check",
+    "organization_or_speaker": "FINOS AI Governance Framework contributors",
+    "date": "File date not stated; repository config labels v2, 2025-10-20 (not verified as date of every file)",
+    "type": "plain text/support",
+    "bytes": 3038,
+    "sha256": "2d1c9ca0f9bf0ceafa179d9fd13ed60fb2bbaf9ecb196441b55eab9370586280",
+    "topics": "Repository support material",
+    "prior_review": "not reviewed as evidence",
+    "review_status": "Overview reviewed",
+    "review_locators": [
+      "Header, purpose or structure and headings"
+    ],
+    "limitations": [
+      "Purpose, interfaces and structure inspected; not executed or security-audited."
+    ],
+    "lines": 120,
+    "review_date": "2026-11-08",
+    "source_type": "maintenance code"
+  },
+  {
+    "id": "F143",
+    "filename": "ai-governance-framework-main/scripts/rename-with-titles",
+    "title": "rename-with-titles",
+    "organization_or_speaker": "FINOS AI Governance Framework contributors",
+    "date": "File date not stated; repository config labels v2, 2025-10-20 (not verified as date of every file)",
+    "type": "plain text/support",
+    "bytes": 2427,
+    "sha256": "fe7c3cca99c9971c49e1e91edb3e616a9410b520f01a982283005428b0f1a645",
+    "topics": "Repository support material",
+    "prior_review": "not reviewed as evidence",
+    "review_status": "Overview reviewed",
+    "review_locators": [
+      "Header, purpose or structure and headings"
+    ],
+    "limitations": [
+      "Purpose, interfaces and structure inspected; not executed or security-audited."
+    ],
+    "lines": 100,
+    "review_date": "2026-11-08",
+    "source_type": "maintenance code"
+  },
+  {
+    "id": "F144",
+    "filename": "ai-governance-framework-main/scripts/requirements.txt",
+    "title": "Requirements for FINOS AI Governance Framework scripts",
+    "organization_or_speaker": "FINOS AI Governance Framework contributors",
+    "date": "File date not stated; repository config labels v2, 2025-10-20 (not verified as date of every file)",
+    "type": ".txt",
+    "bytes": 553,
+    "sha256": "b23711dfbdfc93db2f5b680d1b5811f53c6d05eea0b0b6a4498388c7749da9fd",
+    "topics": "Repository support material",
+    "prior_review": "not reviewed as evidence",
+    "review_status": "Overview reviewed",
+    "review_locators": [
+      "Header, purpose or structure and headings"
+    ],
+    "limitations": [
+      "Purpose, interfaces and structure inspected; not executed or security-audited."
+    ],
+    "lines": 22,
+    "review_date": "2026-11-08",
+    "source_type": "maintenance code"
+  },
+  {
+    "id": "F145",
+    "filename": "ai-governance-framework-main/scripts/validate-references.py",
+    "title": "validate-references.py",
+    "organization_or_speaker": "FINOS AI Governance Framework contributors",
+    "date": "File date not stated; repository config labels v2, 2025-10-20 (not verified as date of every file)",
+    "type": ".py",
+    "bytes": 4831,
+    "sha256": "9067086debd88ee98b6a4ccbb7a5cd3a0feaa496d0294600703a9c2ac483189f",
+    "topics": "Repository support material",
+    "prior_review": "not reviewed as evidence",
+    "review_status": "Overview reviewed",
+    "review_locators": [
+      "Header, purpose or structure and headings"
+    ],
+    "limitations": [
+      "Purpose, interfaces and structure inspected; not executed or security-audited."
+    ],
+    "lines": 151,
+    "review_date": "2026-11-08",
+    "source_type": "maintenance code"
+  },
+  {
+    "id": "F146",
+    "filename": "ai-governance-framework-main/scripts_docs/dl_ffiec-itbooklets.md",
+    "title": "FFIEC IT Handbook Info",
+    "organization_or_speaker": "FINOS AI Governance Framework contributors",
+    "date": "File date not stated; repository config labels v2, 2025-10-20 (not verified as date of every file)",
+    "type": ".md",
+    "bytes": 4134,
+    "sha256": "6c0d923e5cda7418aa423ae3eb7fcc869f3375177ab28f178759338b1a1e0f9f",
+    "topics": "Repository support material",
+    "prior_review": "not reviewed as evidence",
+    "review_status": "Overview reviewed",
+    "review_locators": [
+      "Header, purpose or structure and headings"
+    ],
+    "limitations": [],
+    "lines": 112,
+    "review_date": "2026-11-08",
+    "source_type": "repository support material"
+  },
+  {
+    "id": "F147",
+    "filename": "ai-governance-framework-main/scripts_docs/README.md",
+    "title": "Scripts",
+    "organization_or_speaker": "FINOS AI Governance Framework contributors",
+    "date": "File date not stated; repository config labels v2, 2025-10-20 (not verified as date of every file)",
+    "type": ".md",
+    "bytes": 3001,
+    "sha256": "d9261fe7100927b984a14377aa345b88f78b5775e21a4f63d4eadf1d6430a43e",
+    "topics": "Repository support material",
+    "prior_review": "not reviewed as evidence",
+    "review_status": "Overview reviewed",
+    "review_locators": [
+      "Header, purpose or structure and headings"
+    ],
+    "limitations": [],
+    "lines": 54,
+    "review_date": "2026-11-08",
+    "source_type": "repository support material"
+  },
+  {
+    "id": "F148",
+    "filename": "ai-governance-framework-main/scripts_docs/RUNBOOK.md",
+    "title": "Scripts Runbook",
+    "organization_or_speaker": "FINOS AI Governance Framework contributors",
+    "date": "File date not stated; repository config labels v2, 2025-10-20 (not verified as date of every file)",
+    "type": ".md",
+    "bytes": 1081,
+    "sha256": "eb7863cb0da63a30ef2718f472e06aee66f0618b9c81ebed6cee5789624cb372",
+    "topics": "Repository support material",
+    "prior_review": "not reviewed as evidence",
+    "review_status": "Overview reviewed",
+    "review_locators": [
+      "Header, purpose or structure and headings"
+    ],
+    "limitations": [],
+    "lines": 49,
+    "review_date": "2026-11-08",
+    "source_type": "repository support material"
+  },
+  {
+    "id": "F149",
+    "filename": "ai-governance-framework-main/templates-for-ri-md/mi-template.md",
+    "title": "[MITIGATION_TITLE]",
+    "organization_or_speaker": "FINOS AI Governance Framework contributors",
+    "date": "File date not stated; repository config labels v2, 2025-10-20 (not verified as date of every file)",
+    "type": ".md",
+    "bytes": 1793,
+    "sha256": "9bb344e54d733ef4c0d1a95dba2655e27ddb4b3de6e9e818ec631c032460a600",
+    "topics": "Repository support material",
+    "prior_review": "not reviewed as evidence",
+    "review_status": "Overview reviewed",
+    "review_locators": [
+      "Header, purpose or structure and headings"
+    ],
+    "limitations": [],
+    "lines": 65,
+    "review_date": "2026-11-08",
+    "source_type": "repository support material"
+  },
+  {
+    "id": "D12",
+    "filename": "ai-in-the-next-phase-driving-adoption.pdf",
+    "title": "AI in the Next Phase: Driving Adoption",
+    "organization_or_speaker": "BNY; named contributors in PDF",
+    "date": "October 20, 2025",
+    "type": ".pdf",
+    "bytes": 3138574,
+    "sha256": "2929c4974d4290459c3aa53731ceea4f98e48f85e1dec52e6a11ea994ced7722",
+    "topics": "Company report for enterprise leaders; Eliza platform, role-based adoption, training, engagement and digital employees.",
+    "prior_review": "fully reviewed",
+    "review_status": "Selected sections reviewed",
+    "review_locators": [
+      "PDF pp. 2–4; overview"
+    ],
+    "limitations": [
+      "Company adoption figures; training, access and usage are not proof of financial return."
+    ],
+    "pages": 6,
+    "low_text_pages": [
+      1
+    ],
+    "review_date": "2026-11-08",
+    "source_type": "report, article or framework"
+  },
+  {
+    "id": "D13",
+    "filename": "ai-report-061020.pdf",
+    "title": "Artificial Intelligence (AI) in the Securities Industry",
+    "organization_or_speaker": "FINRA",
+    "date": "June 2020",
+    "type": ".pdf",
+    "bytes": 508463,
+    "sha256": "cc7b7e4d3d77c986afc628ca8d43eed181fb390398d175b3c3140123d9848d6a",
+    "topics": "Industry outreach report for broker-dealers; customer communications, investment/operations applications, model risk and data governance.",
+    "prior_review": "selected sections reviewed",
+    "review_status": "Selected sections reviewed",
+    "review_locators": [
+      "PDF p. 2 and pp. 12–15; report overview"
+    ],
+    "limitations": [
+      "Historical June 2020 report; no claim of current legal completeness."
+    ],
+    "pages": 20,
+    "low_text_pages": [],
+    "review_date": "2026-11-08",
+    "source_type": "report, article or framework"
+  },
+  {
+    "id": "A01",
+    "filename": "Building AI-ready data Vanguard’s Virtual Analyst journey.jpeg",
+    "title": "Vanguard Virtual Analyst architecture",
+    "organization_or_speaker": "Vanguard / AWS",
+    "date": "Date unavailable",
+    "type": ".jpeg",
+    "bytes": 401400,
+    "sha256": "f4af03b2480ae5e6ef6dd29927bd20de1a9ae54ab1c2d280d908bff5713d9b82",
+    "topics": "Standalone image / companion exhibit",
+    "prior_review": "fully reviewed",
+    "review_status": "Visually reviewed",
+    "review_locators": [
+      "Entire standalone image"
+    ],
+    "limitations": [
+      "Parent relationship checked against visible content; deployment status must come from accompanying text"
+    ],
+    "review_date": "2026-11-08",
+    "parent_source": "D14",
+    "source_type": "diagram or image"
+  },
+  {
+    "id": "D14",
+    "filename": "Building AI-ready data Vanguard’s Virtual Analyst journey.md",
+    "title": "Building AI-ready data: Vanguard’s Virtual Analyst journey",
+    "organization_or_speaker": "Vanguard / AWS case article",
+    "date": "Author/date not established in saved text",
+    "type": ".md",
+    "bytes": 13775,
+    "sha256": "44753b93a753b6bd03c480616ddee227268d9deff30766faac613bbd6062b50e",
+    "topics": "Implementation article for business/data/engineering teams; ownership, semantic definitions, access, quality, SQL exemplars and evaluation.",
+    "prior_review": "fully reviewed",
+    "review_status": "Fully reviewed (saved text)",
+    "review_locators": [
+      "Lines 1–314, especially 55–92, 132–258, 262–295"
+    ],
+    "limitations": [
+      "Vendor-coauthored case; illustrative blueprint includes future exploration. Saved text lacks byline/date."
+    ],
+    "lines": 314,
+    "review_date": "2026-11-08",
+    "source_type": "report, article or framework"
+  },
+  {
+    "id": "D15",
+    "filename": "dbs_casepdf.pdf",
+    "title": "DBS: Transforming a banking leader into a technology leader",
+    "organization_or_speaker": "McKinsey, Rewired in Action; DBS case",
+    "date": "Publication date unavailable",
+    "type": ".pdf",
+    "bytes": 1466530,
+    "sha256": "e9b2d35251d0c86107d895456665b842ff64938716f68c47d8ad2fb990c1160d",
+    "topics": "Short transformation case for executives; platforms, joint business/IT leadership, ALAN, training and value capture.",
+    "prior_review": "fully reviewed",
+    "review_status": "Fully reviewed (extracted text)",
+    "review_locators": [
+      "PDF pp. 1–3"
+    ],
+    "limitations": [
+      "Cover contains template placeholders; no date. Deployment-time figures differ from D29; basis not reconciled."
+    ],
+    "pages": 3,
+    "low_text_pages": [],
+    "review_date": "2026-11-08",
+    "source_type": "report, article or framework"
+  },
+  {
+    "id": "D16",
+    "filename": "ec-targeted-consultation-on-artificial-intelligence-in-the-financial-sector-101724.pdf",
+    "title": "Response to European Commission targeted consultation on AI in the financial sector",
+    "organization_or_speaker": "BlackRock; Simona Paravani-Mellinghoff and Joanna Cound",
+    "date": "October 17, 2024",
+    "type": ".pdf",
+    "bytes": 140079,
+    "sha256": "874601b7c215a6a26305f1539893f7de0e9df262bbf283af7cbd9ee4f23861bb",
+    "topics": "Company consultation submission; AI uses, three lines of defence, AI owners, data, model review and third-party oversight.",
+    "prior_review": "selected sections reviewed",
+    "review_status": "Selected sections reviewed",
+    "review_locators": [
+      "PDF pp. 6–9; overview"
+    ],
+    "limitations": [
+      "BlackRock consultation response is the company’s position and description of its controls, not regulatory endorsement."
+    ],
+    "pages": 11,
+    "low_text_pages": [],
+    "review_date": "2026-11-08",
+    "source_type": "report, article or framework"
+  },
+  {
+    "id": "D17",
+    "filename": "Emerging Risks and Opportunities of Generative AI for Banks.pdf",
+    "title": "Emerging Risks and Opportunities of Generative AI for Banks — A Singapore Perspective",
+    "organization_or_speaker": "MindForge consortium / MAS-led initiative",
+    "date": "May 2024 publication, explicitly identified in D28 PDF p. 3; exact day unavailable",
+    "type": ".pdf",
+    "bytes": 1273099,
+    "sha256": "2b837b93c2375fb7167bbea134cfcce0a9ce4db519f4454b52801d80f3bdcd88",
+    "topics": "Long industry whitepaper; seven risk dimensions, FEAT/Veritas implications, technology considerations, reference architecture and experimental use cases.",
+    "prior_review": "selected sections reviewed",
+    "review_status": "Selected sections reviewed",
+    "review_locators": [
+      "PDF pp. 5–8, 34–36; appendices D/E overview and page-outline scan"
+    ],
+    "limitations": [
+      "Phase-1 experimental Compliance Co-Pilot; not established production deployment; historical jurisdiction discussion."
+    ],
+    "pages": 121,
+    "low_text_pages": [],
+    "review_date": "2026-11-08",
+    "source_type": "report, article or framework"
+  },
+  {
+    "id": "D18",
+    "filename": "engineering-transformation-and-ai-strategy-transcript.pdf",
+    "title": "Engineering Transformation and AI Strategy — Innovation Forum transcript",
+    "organization_or_speaker": "LSEG; Irfan Hussain and Emily Prince",
+    "date": "November 10, 2025",
+    "type": ".pdf",
+    "bytes": 999066,
+    "sha256": "b96b6ffc08df1da9d3dd7fa239bf0013c5b225f641d35bca63ac72edff54a44e",
+    "topics": "Corporate presentation transcript; engineering foundations and three AI pillars: trusted data, transformative products, intelligent enterprise.",
+    "prior_review": "selected sections reviewed",
+    "review_status": "Selected sections reviewed",
+    "review_locators": [
+      "PDF pp. 10–13; transcript overview"
+    ],
+    "limitations": [
+      "Corporate investor/event account. Trusted-data process is distinct from a verified causal outcome."
+    ],
+    "pages": 31,
+    "low_text_pages": [
+      9
+    ],
+    "review_date": "2026-11-08",
+    "source_type": "practitioner transcript"
+  },
+  {
+    "id": "D19",
+    "filename": "everyone-is-behind.pdf",
+    "title": "Everyone Is Behind: State of AI in Corporations Globally",
+    "organization_or_speaker": "Jeffrey McMillan / McMillanAI",
+    "date": "First edition, August 2026",
+    "type": ".pdf",
+    "bytes": 63614,
+    "sha256": "bbc3d9433ea689d70976b880dd793a5a2fb07c5fe3f5816a0d509ef9d5f8d876",
+    "topics": "Practitioner diagnostic for executives; four maturity levels across six dimensions and portfolio/delivery capability gaps.",
+    "prior_review": "fully reviewed",
+    "review_status": "Fully reviewed (extracted text)",
+    "review_locators": [
+      "PDF pp. 1–7, especially p. 2"
+    ],
+    "limitations": [
+      "Practitioner assessment, not representative survey; six capability dimensions and four levels."
+    ],
+    "pages": 7,
+    "low_text_pages": [],
+    "review_date": "2026-11-08",
+    "source_type": "report, article or framework"
+  },
+  {
+    "id": "D20",
+    "filename": "Executive Summary - Emerging Risks and Opportunities of Generative AI for Banks.pdf",
+    "title": "Executive Summary: Emerging Risks and Opportunities of Generative AI for Banks — A Singapore Perspective",
+    "organization_or_speaker": "MindForge consortium",
+    "date": "Publication date unavailable; text anticipates a full whitepaper in early 2024",
+    "type": ".pdf",
+    "bytes": 1657404,
+    "sha256": "cd1198832a48369a80c005b4849454f9c3b46f2aa1df519d8badfdd2f5d5531d",
+    "topics": "Early executive summary of risk dimensions, governance and seven technology dimensions.",
+    "prior_review": "selected sections reviewed",
+    "review_status": "Overview and selected sections reviewed",
+    "review_locators": [
+      "PDF pp. 3, 10; summary overview"
+    ],
+    "limitations": [
+      "Earlier executive summary anticipates full paper in early 2024; same MindForge phase, not an independent case."
+    ],
+    "pages": 12,
+    "low_text_pages": [
+      2
+    ],
+    "review_date": "2026-11-08",
+    "source_type": "report, article or framework"
+  },
+  {
+    "id": "D21",
+    "filename": "extracting-value-from-ai-in-banking-rewiring-the-enterprise.pdf",
+    "title": "Extracting value from AI in banking: Rewiring the enterprise",
+    "organization_or_speaker": "McKinsey Financial Services Practice",
+    "date": "December 2024",
+    "type": ".pdf",
+    "bytes": 808050,
+    "sha256": "7f2ef37562a3cd7a88f483a260ad2e8eb8ea74d792b2f0eee1804d7ac9444205",
+    "topics": "Executive blueprint; domain transformation, six enterprise capabilities, multiagent illustrations, reusable stack and control tower.",
+    "prior_review": "selected sections reviewed",
+    "review_status": "Selected sections reviewed",
+    "review_locators": [
+      "PDF pp. 2–4; overview"
+    ],
+    "limitations": [
+      "Consultancy recommendations and anonymous cases; agentic value explicitly partly hypothetical."
+    ],
+    "pages": 16,
+    "low_text_pages": [],
+    "review_date": "2026-11-08",
+    "source_type": "report, article or framework"
+  },
+  {
+    "id": "D22",
+    "filename": "Grow Enterprise AI Maturity for Bottom-Line Impact.md",
+    "title": "Grow Enterprise AI Maturity for Bottom-Line Impact",
+    "organization_or_speaker": "MIT CISR; Woerner, Sebastian, Weill and Káganer (copyright attribution)",
+    "date": "2025; saved URL encodes August 1",
+    "type": ".md",
+    "bytes": 14850,
+    "sha256": "91e55a5573cd83ca1af04c80ce51576bfee028e5b53171bbc1eed9e6dcb07179",
+    "topics": "Research briefing for enterprise leaders; four maturity stages, strategy/systems/synchronization/stewardship, Guardian and Italgas examples.",
+    "prior_review": "fully reviewed",
+    "review_status": "Fully reviewed (saved text)",
+    "review_locators": [
+      "Lines 1–368, especially 59–83, 119–170, 195–253, 276–309"
+    ],
+    "limitations": [
+      "Association is not causation; text reports inconsistent interview denominators (20/9 vs 19/11). Guardian scale in 2026 was a plan at publication."
+    ],
+    "lines": 368,
+    "review_date": "2026-11-08",
+    "source_type": "report, article or framework"
+  },
+  {
+    "id": "A02",
+    "filename": "Grow Enterprise AI Maturity for Bottom-Line Impact.png",
+    "title": "Enterprise AI maturity and financial performance",
+    "organization_or_speaker": "MIT CISR",
+    "date": "2025 research; exact image publication date unavailable",
+    "type": ".png",
+    "bytes": 72576,
+    "sha256": "85bbfe57454a1931f40ddda979d23226b82564f8678a2faf00957512c5e8d35b",
+    "topics": "Standalone image / companion exhibit",
+    "prior_review": "fully reviewed",
+    "review_status": "Visually reviewed",
+    "review_locators": [
+      "Entire standalone image"
+    ],
+    "limitations": [
+      "Parent relationship checked against visible content; deployment status must come from accompanying text"
+    ],
+    "review_date": "2026-11-08",
+    "parent_source": "D22",
+    "source_type": "diagram or image"
+  },
+  {
+    "id": "D23",
+    "filename": "how-ai-could-reshape-the-economics-of-the-asset-management-industry.pdf",
+    "title": "How AI could reshape the economics of the asset management industry",
+    "organization_or_speaker": "McKinsey; Jonathan Godsall, Philipp Koch, Piyush Sharma, Raj Bector, Todd Pingaro, with Alena Fedorenko",
+    "date": "July 2025",
+    "type": ".pdf",
+    "bytes": 1270583,
+    "sha256": "513af647dc667ecebb3105f38dd0070b000b5a41e2c3be2fe0c6d9d93d27e4f7",
+    "topics": "Industry study and executive methodology; technology ROI, domain redesign, talent, governance and reuse.",
+    "prior_review": "selected sections reviewed",
+    "review_status": "Selected sections reviewed",
+    "review_locators": [
+      "PDF pp. 2–3; overview"
+    ],
+    "limitations": [
+      "Modelled cost potential and large-firm sample; not realized savings or an applicable target."
+    ],
+    "pages": 12,
+    "low_text_pages": [],
+    "review_date": "2026-11-08",
+    "source_type": "report, article or framework"
+  },
+  {
+    "id": "D24",
+    "filename": "jpmorgan-chases-derek-waldron-on-building-an-ai-first-bank-culture_final.pdf",
+    "title": "JPMorgan Chase’s Derek Waldron on building an AI-first bank culture",
+    "organization_or_speaker": "McKinsey interview; Derek Waldron, Kevin Buehler and Matt Cooke",
+    "date": "October 2025",
+    "type": ".pdf",
+    "bytes": 449244,
+    "sha256": "11b7d6c1f4761960f999eac4f8d5a4638bac1b00f4260ba0628775573da5c182",
+    "topics": "Interview on top-down strategic domains plus bottom-up self-service, LLM Suite, segmented training and adoption.",
+    "prior_review": "selected sections reviewed",
+    "review_status": "Selected sections reviewed",
+    "review_locators": [
+      "PDF pp. 3–5; overview"
+    ],
+    "limitations": [
+      "Executive interview; broad-access utility and domain-level value tracking are treated differently."
+    ],
+    "pages": 12,
+    "low_text_pages": [],
+    "review_date": "2026-11-08",
+    "source_type": "practitioner transcript"
+  },
+  {
+    "id": "D25",
+    "filename": "JPMorganChase-Leadership-in-the-Age-of-GenAI-TMS.pdf",
+    "title": "JPMorganChase: Leadership in the Age of GenAI",
+    "organization_or_speaker": "Harvard Business School; Iavor I. Bojinov, Karim R. Lakhani and David Lane",
+    "date": "Revised April 28, 2025",
+    "type": ".pdf",
+    "bytes": 1051336,
+    "sha256": "acf217f5ac73ec57353f88289f1033d72602128383bed357af9da4784e96a832",
+    "topics": "Teaching case for executives/students; platform strategy, intake, risk controls, experimentation, adoption and private-bank Coach.",
+    "prior_review": "selected sections reviewed",
+    "review_status": "Selected sections reviewed",
+    "review_locators": [
+      "PDF pp. 1, 6–8, 12–13; case overview"
+    ],
+    "limitations": [
+      "HBS teaching case, company-reviewed; source says it is not an endorsement or primary-data source. Same JPMC family as D24. Distribution restriction respected by citing/paraphrasing rather than republishing."
+    ],
+    "pages": 22,
+    "low_text_pages": [],
+    "review_date": "2026-11-08",
+    "source_type": "report, article or framework"
+  },
+  {
+    "id": "D26",
+    "filename": "London Stock Exchange Group uses Amazon Q Business to enhance post-trade client services.md",
+    "title": "London Stock Exchange Group uses Amazon Q Business to enhance post-trade client services",
+    "organization_or_speaker": "AWS / LSEG; Ben Doughton, Iulia Midus and Maurizio Morabito",
+    "date": "Publication date not established in saved text",
+    "type": ".md",
+    "bytes": 12205,
+    "sha256": "a220c5b51a5624890719e7bacd40d53e9a99d9b28fc8ef580b667d9122612d51",
+    "topics": "Implementation case for service and engineering teams; discovery workshops, architecture choice, connectors, phased rollout and evaluation.",
+    "prior_review": "fully reviewed",
+    "review_status": "Fully reviewed (saved text)",
+    "review_locators": [
+      "Lines 1–274, especially 82–128, 153–246"
+    ],
+    "limitations": [
+      "Proof-of-concept origins and phased rollout reported; wider CRM/email integration is future work. No quantified realized ROI."
+    ],
+    "lines": 274,
+    "review_date": "2026-11-08",
+    "source_type": "report, article or framework"
+  },
+  {
+    "id": "A03",
+    "filename": "London Stock Exchange Group uses Amazon Q Business to enhance post-trade client services.png",
+    "title": "LSEG / Amazon Q Business architecture",
+    "organization_or_speaker": "AWS / LSEG",
+    "date": "Date unavailable",
+    "type": ".png",
+    "bytes": 263154,
+    "sha256": "f959d927fbdd87b4ff595a15c064f1e746a8351ff860d332d7517c74e8ef61ca",
+    "topics": "Standalone image / companion exhibit",
+    "prior_review": "fully reviewed",
+    "review_status": "Visually reviewed",
+    "review_locators": [
+      "Entire standalone image"
+    ],
+    "limitations": [
+      "Parent relationship checked against visible content; deployment status must come from accompanying text"
+    ],
+    "review_date": "2026-11-08",
+    "parent_source": "D26",
+    "source_type": "diagram or image"
+  },
+  {
+    "id": "D27",
+    "filename": "lpls case.md",
+    "title": "LPL case — WealthTech Today interview with Kristie Edling-Day",
+    "organization_or_speaker": "Craig Iskowitz / WealthTech Today; LPL executive interview",
+    "date": "June 13, 2025 from saved source URL",
+    "type": ".md",
+    "bytes": 21828,
+    "sha256": "958fa6d1e14662d28d78ca31c3759fb0b25e1c86f674c5f13e3a3d9def57d285",
+    "topics": "Brokerage/advisor-platform interview; Affinity vendor ecosystem, internal tools, advisor council, adoption and vendor governance.",
+    "prior_review": "fully reviewed",
+    "review_status": "Selected sections reviewed",
+    "review_locators": [
+      "Lines 1–45, 240–390; topic overview"
+    ],
+    "limitations": [
+      "Firsthand executive interview plus host commentary. Time-saving anecdotes differ from instrumented results; contextual integration planned."
+    ],
+    "lines": 566,
+    "review_date": "2026-11-08",
+    "source_type": "practitioner transcript"
+  },
+  {
+    "id": "D28",
+    "filename": "MindForge AI Risk Management Executive Handbook.pdf",
+    "title": "AI Risk Management: Executive Handbook",
+    "organization_or_speaker": "MindForge consortium / MAS-led initiative",
+    "date": "November 2025",
+    "type": ".pdf",
+    "bytes": 5206323,
+    "sha256": "3b9aac75b6fa62c10a15630fc8aada224da681ffb6f360a19d5e636b547319a6",
+    "topics": "Executive guide; 17 considerations spanning oversight, risk management, lifecycle and enablers; proportionality and existing functions.",
+    "prior_review": "selected sections reviewed",
+    "review_status": "Selected sections reviewed",
+    "review_locators": [
+      "PDF pp. 3–11; framework overview"
+    ],
+    "limitations": [
+      "Consortium recommendations with Singapore context; source references proposed MAS guidelines, not final law."
+    ],
+    "pages": 26,
+    "low_text_pages": [
+      2
+    ],
+    "review_date": "2026-11-08",
+    "source_type": "report, article or framework"
+  },
+  {
+    "id": "D29",
+    "filename": "MindForge AI Risk Management Implementation Examples.pdf",
+    "title": "AI Risk Management: Implementation Examples",
+    "organization_or_speaker": "MindForge consortium; DBS, Julius Baer, Prudential and an unnamed investment firm",
+    "date": "January 2026 (PDF cover)",
+    "type": ".pdf",
+    "bytes": 3803585,
+    "sha256": "3830c58d0050253635aa4eaf41bc97ebc4c759747db8a164ccfeaaa1bcbb4345",
+    "topics": "Company-contributed cases of risk-tiering, registries, approval, training, testing, rollout and maintenance.",
+    "prior_review": "selected sections reviewed",
+    "review_status": "Fully reviewed (extracted text)",
+    "review_locators": [
+      "PDF pp. 1–23; individual cases pp. 6–12, 14–19, 21–23"
+    ],
+    "limitations": [
+      "Practitioner-contributed implementation cases; reported outcomes not independently verified. Embedded artwork not exhaustively visually rendered."
+    ],
+    "pages": 23,
+    "low_text_pages": [
+      1,
+      2,
+      5,
+      10,
+      13,
+      20
+    ],
+    "review_date": "2026-11-08",
+    "source_type": "report, article or framework"
+  },
+  {
+    "id": "D30",
+    "filename": "MindForge AI Risk Management Operationalisation Handbook.pdf",
+    "title": "AI Risk Management: Operationalisation Handbook",
+    "organization_or_speaker": "MindForge consortium / MAS-led initiative",
+    "date": "January 2026 (PDF cover)",
+    "type": ".pdf",
+    "bytes": 1820709,
+    "sha256": "c5055bacf114b7413b476ba0f3e8366a74c39fa7f049cfae7318615665f16486",
+    "topics": "Detailed operational reference; use-case risk, inventories, lifecycle activities, skills, infrastructure, metrics, guardrails and templates.",
+    "prior_review": "selected sections reviewed",
+    "review_status": "Selected sections and appendices reviewed",
+    "review_locators": [
+      "PDF pp. 1, 3–7, 52–55, 59–64, 67–70, 75–78, 99–104, 109–113, 152–153; full page-outline scan"
+    ],
+    "limitations": [
+      "173-page handbook; selected substantive text and figure labels, not a page-by-page full visual review. Some appendices assessed at overview depth."
+    ],
+    "pages": 173,
+    "low_text_pages": [
+      1,
+      2,
+      8,
+      13,
+      123,
+      132
+    ],
+    "review_date": "2026-11-08",
+    "source_type": "report, article or framework"
+  },
+  {
+    "id": "D31",
+    "filename": "morgan stanley case.md",
+    "title": "Composite: Building Trust in AI; AI in Morgan Stanley: Reshaping the Future of Financial Services with AI",
+    "organization_or_speaker": "Columbia Business School and CTO Magazine; saved compilation",
+    "date": "Publication dates unavailable",
+    "type": ".md",
+    "bytes": 11980,
+    "sha256": "8007a63c74e9061b67a13c527130be6d770e9c01a620610239fe8c0ee285ecab",
+    "topics": "Two saved articles plus links/notes; adoption of Next Best Action, Assistant/Debrief and evaluation.",
+    "prior_review": "fully reviewed",
+    "review_status": "Selected sections reviewed",
+    "review_locators": [
+      "Lines 1–45, 100–200; compilation overview"
+    ],
+    "limitations": [
+      "Two secondary articles in one file; repeated outcome claims do not add independent confirmation."
+    ],
+    "lines": 367,
+    "review_date": "2026-11-08",
+    "source_type": "secondary discussion/compilation"
+  },
+  {
+    "id": "D32",
+    "filename": "rewired-to-outcompete-vf.pdf",
+    "title": "Rewired to outcompete",
+    "organization_or_speaker": "McKinsey; Eric Lamarre, Kate Smaje and Rodney Zemmel",
+    "date": "June 2023",
+    "type": ".pdf",
+    "bytes": 251071,
+    "sha256": "d677531a590be4b172ce60cb400f957c57806cc630351917be64e8009f7b9bc9",
+    "topics": "General digital/AI transformation methodology; six capabilities and domain-level ownership.",
+    "prior_review": "selected sections reviewed",
+    "review_status": "Selected sections reviewed",
+    "review_locators": [
+      "PDF pp. 3–4, 9; overview"
+    ],
+    "limitations": [
+      "Digital/AI transformation advice; budget ratios, timescales and savings claims not adopted as universal defaults."
+    ],
+    "pages": 10,
+    "low_text_pages": [],
+    "review_date": "2026-11-08",
+    "source_type": "report, article or framework"
+  },
+  {
+    "id": "D33",
+    "filename": "scaling-gen-ai-in-banking-choosing-the-best-operating-model.pdf",
+    "title": "Scaling gen AI in banking: Choosing the best operating model",
+    "organization_or_speaker": "McKinsey; Kevin Buehler, Alison Corsi, Mina Jurisic, Larry Lerner, Andrea Siani and Brian Weintraub",
+    "date": "March 2024",
+    "type": ".pdf",
+    "bytes": 570212,
+    "sha256": "a9d615e9adb7361c2c81c50b2af6dd229d978dc158d1bc5bbbc113f0e4c42b46",
+    "topics": "Operating-model article; four archetypes, steering/standards/execution choices and findings from 16 financial institutions.",
+    "prior_review": "fully reviewed",
+    "review_status": "Selected sections reviewed",
+    "review_locators": [
+      "PDF pp. 2–7; figure and overview"
+    ],
+    "limitations": [
+      "16 large US/European institutions; production definition includes live MVP; observational comparisons do not establish causality."
+    ],
+    "pages": 7,
+    "low_text_pages": [],
+    "review_date": "2026-11-08",
+    "source_type": "report, article or framework"
+  },
+  {
+    "id": "A04",
+    "filename": "schwab_spring_business_update_041626-13.png",
+    "title": "AI accelerates Through Clients’ Eyes strategy — slide 13",
+    "organization_or_speaker": "Charles Schwab",
+    "date": "April 16, 2026 suggested by filename only",
+    "type": ".png",
+    "bytes": 132682,
+    "sha256": "402e08387897650d8e86841cbfd841586166220d781d7ae713aef6209ccd884e",
+    "topics": "Standalone image / companion exhibit",
+    "prior_review": "fully reviewed",
+    "review_status": "Visually reviewed",
+    "review_locators": [
+      "Entire standalone image"
+    ],
+    "limitations": [
+      "Full parent deck unavailable; slide filename encodes 2026-04-16; roadmap dates are source-time plans, not verified current status."
+    ],
+    "review_date": "2026-11-08",
+    "parent_source": "Schwab slide deck absent; related D11 only",
+    "source_type": "diagram or image"
+  },
+  {
+    "id": "A05",
+    "filename": "schwab_spring_business_update_041626-14.png",
+    "title": "AI initiatives across strategic priorities — slide 14",
+    "organization_or_speaker": "Charles Schwab",
+    "date": "April 16, 2026 suggested by filename only",
+    "type": ".png",
+    "bytes": 219920,
+    "sha256": "4276da4344e289c36490551e49706a58172527defe588a1383fc21bcbf93a7d5",
+    "topics": "Standalone image / companion exhibit",
+    "prior_review": "fully reviewed",
+    "review_status": "Visually reviewed",
+    "review_locators": [
+      "Entire standalone image"
+    ],
+    "limitations": [
+      "Full parent deck unavailable; slide filename encodes 2026-04-16; roadmap dates are source-time plans, not verified current status."
+    ],
+    "review_date": "2026-11-08",
+    "parent_source": "Schwab slide deck absent; related D11 only",
+    "source_type": "diagram or image"
+  },
+  {
+    "id": "D34",
+    "filename": "t-shaped-teams.pdf",
+    "title": "T-Shaped Teams: Organizing to Adopt AI and Big Data at Investment Firms",
+    "organization_or_speaker": "CFA Institute; Larry Cao",
+    "date": "2021",
+    "type": ".pdf",
+    "bytes": 954133,
+    "sha256": "dacd71adb80e9ce119a6e9c3dc34e864a8d1e117f1c9c2d529844ffd959cfa22",
+    "topics": "Investment-industry research/cases; investment, technology and innovation functions at UOBAM, NN Investment Partners and Man Group.",
+    "prior_review": "selected sections reviewed",
+    "review_status": "Selected sections reviewed",
+    "review_locators": [
+      "PDF pp. 5, 9–11, 21–23, 35–36; full page-outline scan"
+    ],
+    "limitations": [
+      "2021 investment-industry report; UOBAM and Man Group examples differ in maturity. No quantified alpha effect established in reviewed UOBAM passage."
+    ],
+    "pages": 46,
+    "low_text_pages": [
+      1,
+      46
+    ],
+    "review_date": "2026-11-08",
+    "source_type": "report, article or framework"
+  },
+  {
+    "id": "A06",
+    "filename": "The New Role of the Bank CIO in the AI Era _ BCG - exibit 1.webp",
+    "title": "CIO mandate — Exhibit 1",
+    "organization_or_speaker": "BCG",
+    "date": "Exact date unavailable; accompanies D35",
+    "type": ".webp",
+    "bytes": 51590,
+    "sha256": "4b2b83c96985e572e64cf61d03c6b3617339a5e7ab75e8f0499558331e54f3f8",
+    "topics": "Standalone image / companion exhibit",
+    "prior_review": "fully reviewed",
+    "review_status": "Visually reviewed",
+    "review_locators": [
+      "Entire standalone image"
+    ],
+    "limitations": [
+      "Parent relationship checked against visible content; deployment status must come from accompanying text"
+    ],
+    "review_date": "2026-11-08",
+    "parent_source": "D35",
+    "source_type": "diagram or image"
+  },
+  {
+    "id": "A07",
+    "filename": "The New Role of the Bank CIO in the AI Era _ BCG - exibit 2.webp",
+    "title": "AI platform foundations — Exhibit 2",
+    "organization_or_speaker": "BCG",
+    "date": "Exact date unavailable; accompanies D35",
+    "type": ".webp",
+    "bytes": 96240,
+    "sha256": "4c917f69a090d142a34278d9f6bf11c2c6eb62a65c427db593035c01b7c1dd6e",
+    "topics": "Standalone image / companion exhibit",
+    "prior_review": "fully reviewed",
+    "review_status": "Visually reviewed",
+    "review_locators": [
+      "Entire standalone image"
+    ],
+    "limitations": [
+      "Parent relationship checked against visible content; deployment status must come from accompanying text"
+    ],
+    "review_date": "2026-11-08",
+    "parent_source": "D35",
+    "source_type": "diagram or image"
+  },
+  {
+    "id": "A08",
+    "filename": "The New Role of the Bank CIO in the AI Era _ BCG - exibit 3.webp",
+    "title": "Human, deterministic and agentic workflow — Exhibit 3",
+    "organization_or_speaker": "BCG",
+    "date": "Exact date unavailable; accompanies D35",
+    "type": ".webp",
+    "bytes": 124302,
+    "sha256": "463b4955ddf007535699187ccace8b2d36c19d17710a77d05d21717abce47a32",
+    "topics": "Standalone image / companion exhibit",
+    "prior_review": "fully reviewed",
+    "review_status": "Visually reviewed",
+    "review_locators": [
+      "Entire standalone image"
+    ],
+    "limitations": [
+      "Parent relationship checked against visible content; deployment status must come from accompanying text"
+    ],
+    "review_date": "2026-11-08",
+    "parent_source": "D35",
+    "source_type": "diagram or image"
+  },
+  {
+    "id": "A09",
+    "filename": "The New Role of the Bank CIO in the AI Era _ BCG - exibit 4.webp",
+    "title": "Work, workers and workforce — Exhibit 4",
+    "organization_or_speaker": "BCG",
+    "date": "Exact date unavailable; accompanies D35",
+    "type": ".webp",
+    "bytes": 60246,
+    "sha256": "3061cc4fd4a17ff193fb18e52f0d5170118bdb3e6dab939c43996fa0ff254489",
+    "topics": "Standalone image / companion exhibit",
+    "prior_review": "fully reviewed",
+    "review_status": "Visually reviewed",
+    "review_locators": [
+      "Entire standalone image"
+    ],
+    "limitations": [
+      "Parent relationship checked against visible content; deployment status must come from accompanying text"
+    ],
+    "review_date": "2026-11-08",
+    "parent_source": "D35",
+    "source_type": "diagram or image"
+  },
+  {
+    "id": "A10",
+    "filename": "The New Role of the Bank CIO in the AI Era _ BCG - exibit 5.webp",
+    "title": "AI roles and skills — Exhibit 5",
+    "organization_or_speaker": "BCG",
+    "date": "Exact date unavailable; accompanies D35",
+    "type": ".webp",
+    "bytes": 157588,
+    "sha256": "eff1242cf4b649fb93512d1ad7a38af60adb68d86306859370af9033e6958a32",
+    "topics": "Standalone image / companion exhibit",
+    "prior_review": "fully reviewed",
+    "review_status": "Visually reviewed",
+    "review_locators": [
+      "Entire standalone image"
+    ],
+    "limitations": [
+      "Parent relationship checked against visible content; deployment status must come from accompanying text"
+    ],
+    "review_date": "2026-11-08",
+    "parent_source": "D35",
+    "source_type": "diagram or image"
+  },
+  {
+    "id": "D35",
+    "filename": "The New Role of the Bank CIO in the AI Era _ BCG.md",
+    "title": "For Today’s Bank CIO, It’s Not Just About Technology",
+    "organization_or_speaker": "Boston Consulting Group",
+    "date": "2026 appears in saved source URL; exact date/byline not established",
+    "type": ".md",
+    "bytes": 28743,
+    "sha256": "37b6294686ebe15a4357da146ed698bcb2f902ac778933258f6c5e0ecc0cdfbd",
+    "topics": "Executive commentary on CIO responsibilities, customer journeys, data/platform architecture, operating controls and skills.",
+    "prior_review": "selected sections reviewed",
+    "review_status": "Selected sections and all associated images reviewed",
+    "review_locators": [
+      "Lines 1–55, 180–280; article topic overview; five exhibits"
+    ],
+    "limitations": [
+      "Saved file includes an AI-generated summary: excluded as factual evidence. Platform/workforce exhibits are proposals, not deployments."
+    ],
+    "lines": 680,
+    "review_date": "2026-11-08",
+    "source_type": "report, article or framework"
+  },
+  {
+    "id": "D36",
+    "filename": "Vanguard's skills strategy for tech transformation.md",
+    "title": "Vanguard’s skills strategy for tech transformation",
+    "organization_or_speaker": "Harvard Business School, Managing the Future of Work; Joe Fuller and Nitin Tandon",
+    "date": "Conversation explicitly recorded in late April 2025; publication date unavailable",
+    "type": ".md",
+    "bytes": 27085,
+    "sha256": "9cf5162fc1e0b277155764aaa436bbf375f250353c7f42106620693806c0bab2",
+    "topics": "Executive interview linking cloud/product transformation, role-based learning, hiring/partners and early GenAI experiments.",
+    "prior_review": "selected sections reviewed",
+    "review_status": "Selected sections reviewed",
+    "review_locators": [
+      "Lines 110–155, 270–305; transcript overview"
+    ],
+    "limitations": [
+      "Nitin Tandon firsthand account; coding-time and whole-SDLC productivity denominators differ."
+    ],
+    "lines": 476,
+    "review_date": "2026-11-08",
+    "source_type": "practitioner transcript"
+  },
+  {
+    "id": "D37",
+    "filename": "WEF_The_AI_Playbook_for_Financial_Services_2026.pdf",
+    "title": "The AI Playbook for Financial Services",
+    "organization_or_speaker": "World Economic Forum in collaboration with Accenture",
+    "date": "June 2026",
+    "type": ".pdf",
+    "bytes": 3845301,
+    "sha256": "4f947e31f572e483f1e4d6d9708dce6fd9f0923d0d74e54beaf9f581c58c372d",
+    "topics": "Cross-industry financial-services playbook; strategic trade-offs, value measures, reusable capabilities, governance and four-part adoption framework.",
+    "prior_review": "selected sections reviewed",
+    "review_status": "Selected sections and appendices overview reviewed",
+    "review_locators": [
+      "PDF pp. 15–16, 20–22, 31, 34; full page-outline scan including appendices pp. 37–40"
+    ],
+    "limitations": [
+      "Multi-contributor playbook; reported case outcomes, forecasts and recommendations separated; jurisdiction tables not a current-law determination."
+    ],
+    "pages": 49,
+    "low_text_pages": [],
+    "review_date": "2026-11-08",
+    "source_type": "report, article or framework"
+  },
+  {
+    "id": "D38",
+    "filename": "استراتژی ai.txt",
+    "title": "Practical AI Investment Decision Framework for Product Managers",
+    "organization_or_speaker": "Not stated",
+    "date": "Not stated; references purported events of 29-30 October 2026",
+    "type": ".txt",
+    "bytes": 25602,
+    "sha256": "0b68ee687498b497c1adac4d081df26187802af2aa52d5ddf2a62540b69e78e9",
+    "topics": "Proposed product-level AI investment framework: alternatives, outcome evaluation, full unit costs, deployment, controls and illustrative experiments.",
+    "prior_review": "fully reviewed",
+    "review_status": "Selected sections reviewed",
+    "review_locators": [
+      "Lines 1–100, 246–290, 381–430, 550–577; framework overview"
+    ],
+    "limitations": [
+      "Unattributed product framework; news/model claims unverified and excluded; values and 30-day schedule illustrative; gate numbering inconsistent."
+    ],
+    "lines": 577,
+    "review_date": "2026-11-08",
+    "source_type": "report, article or framework"
+  }
+]
