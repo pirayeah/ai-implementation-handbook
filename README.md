@@ -10,7 +10,14 @@ The audit trail is in **[the evidence companion](handbook-evidence-companion.md)
 
 The workspace collection is the source collection folder, `AI strategy resources for brokerage`. Version 2.0 also cites twelve external sources (E01–E12) for gaps the collection did not cover. Each is registered with its link, the claim it supports and its caveats in Appendix D.2.
 
-Diagrams are written in Mermaid. They render on GitHub and GitLab, and in VS Code with a Mermaid preview extension.
+Diagrams are written in Mermaid. They render on GitHub and GitLab, and in VS Code with a Mermaid preview extension. Seven of them redraw frameworks the handbook cites (MIT CISR, McMillanAI, BlackRock, NIST AI RMF, Vanguard, FINOS, MindForge) from their original figures or text, with the source named in each caption.
+
+## Persian edition (نسخهٔ فارسی)
+
+- **[Typeset PDF](enterprise-ai-strategy-and-implementation-handbook-fa.pdf)**, about 127 A4 pages. It has a cover, a contents page with page numbers, chapter openers, running heads, Persian page numbers and all 32 diagrams sized to the page. Two very large diagrams get their own landscape page. A direct download is also attached to the latest [release](../../releases/latest).
+- **[Markdown edition](enterprise-ai-strategy-and-implementation-handbook-fa.md)**, built from the components in [`fa/`](fa/).
+
+The Persian edition matches the English one section by section: same citations, same diagrams, same tables. Rebuild it with `python assemble_fa.py`, which reports any difference from the English edition. Then rebuild the PDF with `python build_pdf_fa.py`. That needs Google Chrome and Python `pypdf`, and on its first run it downloads Mermaid, marked and the Vazirmatn font (SIL Open Font License) into `pdf-build/`.
 
 ## Editing and rebuilding
 

@@ -298,11 +298,30 @@ Use McMillan’s six dimensions as the organizing structure for an evidence prof
 
 The source’s four levels are **Ad Hoc** (individual initiative), **Emerging** (intent exceeds capability), **Managed** (documented, owned and reliable) and **Scaled** (reliable across the firm and improving). The source is a practitioner assessment based on executive conversations and advisory experience, not a representative survey or an independently validated scoring instrument. Preserve that limitation. [D19 pp. 2–6.]
 
+```mermaid
+flowchart LR
+    L1["Level 1 · Ad Hoc<br/>It runs on individual initiative,<br/>if it runs at all"] --> L2["Level 2 · Emerging<br/>The intent is there and<br/>the capability is not"] --> L3["Level 3 · Managed<br/>It is documented, owned<br/>and reliable"] --> L4["Level 4 · Scaled<br/>It works reliably across the firm<br/>and keeps improving"]
+    G2["Where the source sees most firms: Level 2<br/>Strategy and executive alignment ·<br/>Layered AI infrastructure ·<br/>Governance and risk ·<br/>Use prioritization and portfolio management"] -.-> L2
+    G12["Where the source sees most firms: Level 1–2<br/>Data and content readiness ·<br/>Adoption and organizational transformation"] -.-> L1
+    G12 -.-> L2
+```
+
+*McMillanAI Enterprise Maturity Framework, redrawn from* Everyone Is Behind *(first edition, August 2026): level definitions from p. 2; typical placement of firms on each dimension from pp. 3–6. The placements are patterns the author reports observing, not scores for a fixed sample. [D19 pp. 2–6.]*
+
 For each dimension, interview responsible staff, inspect an artifact and examine an example of the process actually working. Record the observed level, confidence, evidence gaps and the specific capability required for the candidate portfolio. Mark an untested capability **unknown**. Do not average a strong technology rating with a missing control and conclude that the organization is ready. Appendix C.1 supplies the editable assessment and synthesis anchors.
 
 ### 1.4 Use the MIT CISR stages for a different purpose
 
 MIT CISR distinguishes **Experiment and prepare**, **Build pilots and capabilities**, **Develop AI ways of working**, and **Become AI future ready**. Its companion figure groups respondents using an equally weighted measure of AI effectiveness in operations, customer experience and ecosystems. Its reported growth/profit differences are associations with financial performance relative to industry averages; they do not show that moving to a stage causes a specified financial gain. Different survey samples are reported for 2022 and 2025. [D22 ll. 59–83, 276–309; A02, figure and methodology footnote.]
+
+```mermaid
+flowchart LR
+    S1["Stage 1 · Experiment and prepare<br/>Focus: exploration and education<br/>Share of enterprises: 28% in 2022 → 13% in 2025<br/>Growth −26.5 pp · Profit −15.1 pp"] --> S2["Stage 2 · Build pilots and capabilities<br/>Focus: business cases and pilots<br/>Share of enterprises: 34% → 23%<br/>Growth −6.8 pp · Profit −1.4 pp"]
+    S2 --> C{{"Four challenges in moving<br/>from stage 2 to stage 3:<br/>Strategy · Systems ·<br/>Synchronization · Stewardship"}}
+    C --> S3["Stage 3 · Develop AI ways of working<br/>Focus: scaling platforms and changing work<br/>Share of enterprises: 31% → 46%<br/>Growth +4.7 pp · Profit +0.8 pp"] --> S4["Stage 4 · Become AI future ready<br/>Focus: continuous innovation and new revenue streams<br/>Share of enterprises: 7% → 18%<br/>Growth +13.9 pp · Profit +9.9 pp"]
+```
+
+*Redrawn from MIT CISR,* Four Stages of Enterprise AI Maturity, 2022–2025*, with the four scaling challenges from the accompanying text. Stages are bands of Total AI Effectiveness (stage 1: 0–49%; stage 2: 50–74%; stage 3: 75–99%; stage 4: 100%). Growth and profit are percentage points above or below industry average, measured in 2024; they are associations, not effects of reaching a stage. Samples: 2022 survey N = 721; 2025 survey N = 152. [D22 ll. 59–83; A02.]*
 
 Use these stages to discuss the organizational transition: from learning, to proving uses, to changing work at scale, to sustained innovation. Use McMillan’s dimensions to locate capability weaknesses. **Do not rename the source stages, convert their scales, or label the handbook’s assessment an MIT score.** An organization can have scaled access to a tool and still lack managed evaluation or data ownership.
 
@@ -457,6 +476,16 @@ The lead does not automatically become the owner of every service result, all da
 
 One person may cover several capabilities in a smaller organization, but record the workload and conflicts. Maintain proportionate review by someone able to challenge development decisions. When internal capacity cannot provide suitable challenge, use an appropriate independent internal or external reviewer. Do not automatically make internal audit an operational release approver; preserve the locally defined assurance role. BlackRock describes operational ownership, risk challenge and internal audit as distinct lines. [D16 pp. 6–7; D30 pp. 60–63.]
 
+```mermaid
+flowchart TD
+    L1["First line · Portfolio management, research and trading teams<br/>Primary responsibility for AI risk in their own workflows,<br/>through local ‘AI owners’ or a central function;<br/>review AI output against their own expectations"]
+    L2["Second line · Risk and Quantitative Analysis (RQA)<br/>Dedicated risk management group, including a Technology Risk team<br/>and dedicated AI oversight and governance structures"]
+    L3["Third line · Internal audit<br/>Independently validates adherence to key controls<br/>and the scope and efficacy of risk management"]
+    L1 ~~~ L2 ~~~ L3
+```
+
+*BlackRock’s three lines of defense for AI, redrawn from the firm’s response to the European Commission consultation (October 2024). This is the firm’s description of its own framework, not a regulatory requirement. [D16 pp. 6–7.]*
+
 **Minimum viable team by tier (starting default).** One person may hold several roles in a smaller organization; record the workload and any conflict of interest.
 
 | Tier | Minimum roles that must be named before work starts |
@@ -573,6 +602,18 @@ For each material failure, name the prevention, detection and response controls,
 
 ```mermaid
 flowchart LR
+    G["GOVERN<br/>Cross-cutting: infused throughout<br/>AI risk management and enables<br/>the other three functions"]
+    MAP["MAP<br/>Establishes the context<br/>to frame risks related<br/>to an AI system"] --> ME["MEASURE<br/>Analyzes, assesses, benchmarks<br/>and monitors AI risk<br/>and related impacts"] --> MA["MANAGE<br/>Allocates risk resources<br/>to mapped and measured risks<br/>on a regular basis"]
+    MA -. "iterate as needed" .-> MAP
+    G -.-> MAP
+    G -.-> ME
+    G -.-> MA
+```
+
+*NIST AI RMF 1.0 core functions, redrawn from Figure 5 and Section 5 of the framework. After governance outcomes are in place, most users start with MAP and continue to MEASURE or MANAGE, cross-referencing between functions as necessary. [E01]*
+
+```mermaid
+flowchart LR
     H["Material failure or harm<br/>and affected party"] --> I["Inherent assessment"]
     I --> C["Controls: prevent ·<br/>detect · respond"]
     C --> T["Test evidence<br/>(including negative cases)"]
@@ -634,6 +675,35 @@ Make the information and technology fit for a specific task, while identifying c
 
 **Documented practice:** Vanguard’s Virtual Analyst addressed complex financial queries by combining business and technical ownership, metadata, semantics, examples, quality checks, permissions and continuous evaluation. Its blueprint shows how these elements relate to the interface, model and data platform. The accompanying text calls the architecture illustrative and describes knowledge graphs and RAG as future exploration. Preserve those status distinctions when adapting the design. [D14 ll. 55–119, 132–258, 288–295; A01, “AI-Ready Data Blueprint.”]
 
+```mermaid
+flowchart LR
+    U["User"] -- "1 asks a question<br/>in natural language" --> UI["Chat UI"]
+    UI -- "2 authenticated<br/>via SSO" --> AUTH["API authentication<br/>(Okta)"]
+    UI -- "3 request" --> ANLP
+    subgraph ANLP["Adaptive Natural Language Processing (ANLP) layer"]
+      SM["Session management<br/>(DynamoDB)"]
+      API["REST APIs<br/>(ECS, FastAPI)"]
+      LC["LangChain / LangGraph<br/>use-case customization:<br/>agent and prompt customization"]
+    end
+    subgraph AIRD["AI-ready data infrastructure"]
+      MC["Metadata and catalog"]
+      SL["Semantic layer"]
+      GT["Ground-truth examples"]
+      RAG["RAG framework:<br/>knowledge base, knowledge graph"]
+      CC["Change control and CI/CD"]
+      GS["Governance and security"]
+    end
+    AIRD -- "4 relevant context" --> ANLP
+    ANLP -- "5 prompt" --> LLM["Bedrock<br/>guardrail + Anthropic Claude LLM"]
+    LLM -- "LLM output" --> ANLP
+    ANLP -- "6 SQL query" --> DL["Data layer (Redshift, Glue)<br/>data products · ETL jobs ·<br/>data quality and observability"]
+    DL -- "data result" --> ANLP
+    ANLP -- "7 data and AI output" --> UI
+    EVM["Evaluation, evolution and monitoring<br/>evaluation framework · experimentation ·<br/>context engineering · logging · user feedback ·<br/>agent traces · LLM monitoring · continuous evaluation"] -.-> ANLP
+```
+
+*Redrawn from Vanguard’s* AI-Ready Data Blueprint: Virtual Analyst Architecture*; the numbers follow the figure’s end-to-end flow. Product names are Vanguard’s choices, not recommendations. [A01]*
+
 ### 5.2 Produce a use-case data contract
 
 The business data owner and engineering steward jointly document the following for each critical source:
@@ -682,6 +752,33 @@ For retrieval, retain source identity, version, validity dates and permissions a
 Compare hosted services, managed dedicated environments, internally operated open-weight models and hybrid arrangements against the actual requirements. Specify what each option would send or expose, who can access it, where processing/logging/backups occur, what changes the provider controls, and what happens during an outage or exit.
 
 Sensitive data remaining in an organization’s database does not, by itself, establish that an AI service does not receive it. Prompts, retrieved passages, generated results, embeddings, telemetry and support access all belong in the data-flow assessment. Likewise, processing inside a controlled organizational environment need not mean running the model inside the database engine. Define the permitted boundary and test the complete flow. This is architectural synthesis from the FINOS RAG diagrams, which separate preparation, inference and model endpoints, and its leakage/control specifications. [FINOS F13 and F15, preparation/inference boundaries; their PlantUML sources; ri-2, Summary/Threat Description; mi-1, Implementation Guidance.]
+
+```mermaid
+flowchart LR
+    subgraph ORG["Organization (enterprise boundary)"]
+      subgraph PREP["A) RAG knowledge-base preparation: data processing environment (internal on-prem/cloud)"]
+        PK[("Private knowledge<br/>data source")] -- "raw data" --> DP["Data processor<br/>and filtering"] -- "processed data" --> RK[("Refined knowledge<br/>data source")] -- "refined data" --> VL["Vector data loader<br/>converts data to embeddings"] -- "vector embeddings" --> VDB[("Vector database")]
+      end
+      subgraph INF["B) RAG inference for users: instrumentation environment (internal on-prem/cloud)"]
+        UQ["User query"] -- "user input" --> QP["Query processing<br/>orchestrates the RAG pipeline"]
+      end
+      T["Tests<br/>system validation"]
+      subgraph SAAS["Inference environment (SaaS)"]
+        EE["Embeddings endpoint"] <--> EM[("Embeddings model")]
+        IE["Inference endpoint"] <--> LM[("LLM model")]
+      end
+    end
+    USER["User"] -- "request" --> UQ
+    UQ -- "response" --> USER
+    T -- "validated queries" --> UQ
+    UQ -- "test responses" --> T
+    VL -- "embedding requests" --> EE
+    QP -- "query embedding" --> EE
+    QP -- "vector search" --> VDB
+    QP -- "inference request" --> IE
+```
+
+*Redrawn from the FINOS AI Governance Framework diagram* RAG System Architecture *(v0, without risks). It separates three environments: knowledge-base preparation, inference for users, and a SaaS inference environment that hosts the embedding and language models. [FINOS F13]*
 
 If external processing is prohibited, exclude any route that violates that boundary, including evaluation and observability services. An internally hosted option still needs suitable capacity, licensing, security, updates, evaluation and operations. If connectivity or provider availability is uncertain, test the defined contingency: manual workflow, queued work, graceful feature restriction or an approved alternative. A replacement model needs its own compatibility and quality evidence; provider switching is not automatically a safe fallback.
 
@@ -868,6 +965,16 @@ Give reviewers the same underlying evidence with a clear summary of changes sinc
 Specify where the user encounters the capability, what information they see, how they check/accept/reject/edit, what is committed to records or downstream systems, and what happens when the system cannot help. Use existing systems where they support the task; avoid requiring users to recreate context across disconnected tools. LPL’s executive describes the need to place insights inside ClientWorks and says that parts of that integration were still being developed. JPMC’s Coach consolidated multiple topic-specific chat windows after they confused advisors. [D27 ll. 254–293; D25 p. 13.]
 
 Define human oversight as an operational action. Record who reviews, at which point, using what source evidence, within what workload, with authority to reject or escalate. Choose pre-action approval, exception handling, or sampled/continuous post-event oversight according to risk and feasibility. Where a human cannot reliably detect a critical failure, reduce the capability’s authority or redesign the control; do not assume a review button solves the problem. MindForge distinguishes human-in, over and out of the loop and emphasizes practical competence and authority. [D30 pp. 77–78, 109–110.]
+
+```mermaid
+flowchart LR
+    R["Decide at design stage, and revisit through the lifecycle,<br/>based on inherent risk materiality, intended modality<br/>and feasibility of human oversight"]
+    R --> H1["Human in the loop<br/>An employee retains full control and approves<br/>or executes actions at crucial points<br/>e.g. reviewing AI-drafted customer emails before sending"]
+    R --> H2["Human over the loop<br/>An employee may modify, overrule or intervene,<br/>but need not act in normal operation<br/>e.g. reviewing escalated anomalies or outputs after the fact"]
+    R --> H3["Human out of the loop<br/>Outputs without direct employee involvement<br/>e.g. an autonomous chatbot; oversight continues through<br/>post-deployment testing, monitoring and review"]
+```
+
+*Forms of human oversight, redrawn from MindForge, which adopts them from the IMDA/PDPC Model AI Governance Framework. [D30 pp. 77–78]*
 
 ### 7.4 Release within explicit exposure limits
 

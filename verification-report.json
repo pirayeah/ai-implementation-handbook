@@ -27,7 +27,7 @@
     "Conditional": 8,
     "Optional": 8
   },
-  "short_D_citations_checked": 170,
+  "short_D_citations_checked": 174,
   "locator_bounds_errors": [],
   "finos_ids_cited": 20,
   "external_sources_registered": 12,
@@ -45,18 +45,18 @@
     "E11",
     "E12"
   ],
-  "mermaid_diagrams": 25,
+  "mermaid_diagrams": 32,
   "diagram_types": {
-    "flowchart": 16,
+    "flowchart": 23,
     "gantt": 3,
     "quadrantChart": 1,
     "xychart-beta": 2,
     "pie": 3
   },
   "markdown_table_errors": [],
-  "handbook_words": 31035,
-  "handbook_lines": 2004,
-  "companion_words": 13442,
+  "handbook_words": 32045,
+  "handbook_lines": 2111,
+  "companion_words": 13448,
   "outputs": [
     "enterprise-ai-strategy-and-implementation-handbook.md",
     "handbook-evidence-companion.md"

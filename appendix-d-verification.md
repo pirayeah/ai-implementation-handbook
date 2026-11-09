@@ -54,6 +54,6 @@ Version 2.0 restructures the handbook for action without removing any v1.0 metho
 - New tools C.0 (fast-path record), C.13 (acceptable-use policy) and C.14 (run-cost and value estimator), plus tier usage for every tool.
 - A fully worked fictional example (Appendix B) and a register of starting defaults with their basis (Appendix D.1).
 - Inline citations shortened to IDs; the source register, evidence map and verification record moved to this companion.
-- 25 Mermaid diagrams (flowcharts, decision trees, Gantt, quadrant, pie and bar charts).
+- 32 Mermaid diagrams (flowcharts, decision trees, framework diagrams redrawn from their sources, Gantt, quadrant, pie and bar charts).
 
 The handbook and this companion are Markdown files assembled and checked by `assemble_and_verify.py`. The component files remain separately editable.
